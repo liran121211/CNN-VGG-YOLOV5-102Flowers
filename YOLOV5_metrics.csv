@@ -1,0 +1,2040 @@
+Image Path,Class,Confidence
+/home/ubuntu/Ass4/102flowers/images/image_03991.jpg,petunia,0.5015681385993958
+/home/ubuntu/Ass4/102flowers/images/image_03322.jpg,bird of paradise,0.9221349358558655
+/home/ubuntu/Ass4/102flowers/images/image_02903.jpg,tree mallow,0.8615022897720337
+/home/ubuntu/Ass4/102flowers/images/image_07374.jpg,foxglove,0.8683881759643555
+/home/ubuntu/Ass4/102flowers/images/image_02919.jpg,tree mallow,0.8559066653251648
+/home/ubuntu/Ass4/102flowers/images/image_00885.jpg,frangipani,0.9385786652565002
+/home/ubuntu/Ass4/102flowers/images/image_08028.jpg,blackberry lily,0.645146906375885
+/home/ubuntu/Ass4/102flowers/images/image_00031.jpg,passion flower,0.957299530506134
+/home/ubuntu/Ass4/102flowers/images/image_02764.jpg,bishop of llandaff,0.8184868693351746
+/home/ubuntu/Ass4/102flowers/images/image_02682.jpg,geranium,0.8772826790809631
+/home/ubuntu/Ass4/102flowers/images/image_01673.jpg,clematis,0.6271740794181824
+/home/ubuntu/Ass4/102flowers/images/image_06905.jpg,hard-leaved pocket orchid,0.758348286151886
+/home/ubuntu/Ass4/102flowers/images/image_04651.jpg,buttercup,0.7797726988792419
+/home/ubuntu/Ass4/102flowers/images/image_05336.jpg,tree poppy,0.6701976656913757
+/home/ubuntu/Ass4/102flowers/images/image_02275.jpg,barbeton daisy,0.8533117175102234
+/home/ubuntu/Ass4/102flowers/images/image_01898.jpg,lotus lotus,0.6134445071220398
+/home/ubuntu/Ass4/102flowers/images/image_01898.jpg,magnolia,0.3490394055843353
+/home/ubuntu/Ass4/102flowers/images/image_05324.jpg,tree poppy,0.7068522572517395
+/home/ubuntu/Ass4/102flowers/images/image_05910.jpg,bearded iris,0.6620551347732544
+/home/ubuntu/Ass4/102flowers/images/image_06941.jpg,mexican aster,0.31415048241615295
+/home/ubuntu/Ass4/102flowers/images/image_02955.jpg,pink-yellow dahlia,0.9327187538146973
+/home/ubuntu/Ass4/102flowers/images/image_00058.jpg,passion flower,0.9425623416900635
+/home/ubuntu/Ass4/102flowers/images/image_07059.jpg,spring crocus,0.5223859548568726
+/home/ubuntu/Ass4/102flowers/images/image_07945.jpg,trumpet creeper,0.3235063850879669
+/home/ubuntu/Ass4/102flowers/images/image_07725.jpg,mallow,0.3191486895084381
+/home/ubuntu/Ass4/102flowers/images/image_06810.jpg,fire lily,0.6714541912078857
+/home/ubuntu/Ass4/102flowers/images/image_04941.jpg,ruby-lipped cattleya,0.5445446968078613
+/home/ubuntu/Ass4/102flowers/images/image_03872.jpg,purple coneflower,0.9090829491615295
+/home/ubuntu/Ass4/102flowers/images/image_05052.jpg,orange dahlia,0.9209129810333252
+/home/ubuntu/Ass4/102flowers/images/image_06187.jpg,balloon flower,0.2973088324069977
+/home/ubuntu/Ass4/102flowers/images/image_06118.jpg,silverbush,0.763495683670044
+/home/ubuntu/Ass4/102flowers/images/image_05032.jpg,orange dahlia,0.8758001923561096
+/home/ubuntu/Ass4/102flowers/images/image_02758.jpg,bishop of llandaff,0.730549156665802
+/home/ubuntu/Ass4/102flowers/images/image_04806.jpg,snapdragon,0.7429433465003967
+/home/ubuntu/Ass4/102flowers/images/image_07343.jpg,foxglove,0.8199600577354431
+/home/ubuntu/Ass4/102flowers/images/image_04956.jpg,marigold,0.6859127879142761
+/home/ubuntu/Ass4/102flowers/images/image_01766.jpg,hibiscus,0.8020734190940857
+/home/ubuntu/Ass4/102flowers/images/image_00784.jpg,frangipani,0.8536356091499329
+/home/ubuntu/Ass4/102flowers/images/image_05007.jpg,marigold,0.8957162499427795
+/home/ubuntu/Ass4/102flowers/images/image_01452.jpg,petunia,0.4334091544151306
+/home/ubuntu/Ass4/102flowers/images/image_00760.jpg,watercress,0.8948280811309814
+/home/ubuntu/Ass4/102flowers/images/image_03070.jpg,great masterwort,0.2691737115383148
+/home/ubuntu/Ass4/102flowers/images/image_07587.jpg,bougainvillea,0.8725710511207581
+/home/ubuntu/Ass4/102flowers/images/image_06512.jpg,hibiscus,0.3818560540676117
+/home/ubuntu/Ass4/102flowers/images/image_02198.jpg,barbeton daisy,0.6380691528320312
+/home/ubuntu/Ass4/102flowers/images/image_02198.jpg,osteospermum,0.3367486596107483
+/home/ubuntu/Ass4/102flowers/images/image_00072.jpg,passion flower,0.9512757658958435
+/home/ubuntu/Ass4/102flowers/images/image_08128.jpg,purple coneflower,0.3513849675655365
+/home/ubuntu/Ass4/102flowers/images/image_02639.jpg,geranium,0.7433335185050964
+/home/ubuntu/Ass4/102flowers/images/image_06125.jpg,pelargonium,0.7020455598831177
+/home/ubuntu/Ass4/102flowers/images/image_05269.jpg,stemless gentian,0.7141717672348022
+/home/ubuntu/Ass4/102flowers/images/image_05510.jpg,magnolia,0.47860386967658997
+/home/ubuntu/Ass4/102flowers/images/image_05031.jpg,orange dahlia,0.9469549059867859
+/home/ubuntu/Ass4/102flowers/images/image_04172.jpg,wild pansy,0.7076193690299988
+/home/ubuntu/Ass4/102flowers/images/image_01446.jpg,petunia,0.9670839309692383
+/home/ubuntu/Ass4/102flowers/images/image_03084.jpg,bee balm,0.5615811347961426
+/home/ubuntu/Ass4/102flowers/images/image_05959.jpg,windflower,0.2699722945690155
+/home/ubuntu/Ass4/102flowers/images/image_08069.jpg,sweet william,0.5106761455535889
+/home/ubuntu/Ass4/102flowers/images/image_03013.jpg,pink-yellow dahlia,0.7991740107536316
+/home/ubuntu/Ass4/102flowers/images/image_01130.jpg,wallflower,0.8132539987564087
+/home/ubuntu/Ass4/102flowers/images/image_07662.jpg,camellia,0.6307823657989502
+/home/ubuntu/Ass4/102flowers/images/image_07662.jpg,primula,0.5266227722167969
+/home/ubuntu/Ass4/102flowers/images/image_00867.jpg,frangipani,0.7553585767745972
+/home/ubuntu/Ass4/102flowers/images/image_05977.jpg,windflower,0.5142766833305359
+/home/ubuntu/Ass4/102flowers/images/image_06826.jpg,rose,0.5562376976013184
+/home/ubuntu/Ass4/102flowers/images/image_06826.jpg,red ginger,0.4282473921775818
+/home/ubuntu/Ass4/102flowers/images/image_05163.jpg,english marigold,0.8919330835342407
+/home/ubuntu/Ass4/102flowers/images/image_03534.jpg,foxglove,0.28496837615966797
+/home/ubuntu/Ass4/102flowers/images/image_00019.jpg,passion flower,0.6336828470230103
+/home/ubuntu/Ass4/102flowers/images/image_04873.jpg,hippeastrum,0.7370370626449585
+/home/ubuntu/Ass4/102flowers/images/image_04903.jpg,frangipani,0.3457448482513428
+/home/ubuntu/Ass4/102flowers/images/image_03650.jpg,primula,0.47743093967437744
+/home/ubuntu/Ass4/102flowers/images/image_06849.jpg,red ginger,0.8843668699264526
+/home/ubuntu/Ass4/102flowers/images/image_02704.jpg,geranium,0.8374291062355042
+/home/ubuntu/Ass4/102flowers/images/image_05246.jpg,stemless gentian,0.7349052429199219
+/home/ubuntu/Ass4/102flowers/images/image_02213.jpg,barbeton daisy,0.7207150459289551
+/home/ubuntu/Ass4/102flowers/images/image_03499.jpg,prince of wales feathers,0.3185226321220398
+/home/ubuntu/Ass4/102flowers/images/image_05318.jpg,tree poppy,0.7324396967887878
+/home/ubuntu/Ass4/102flowers/images/image_01615.jpg,clematis,0.6225292682647705
+/home/ubuntu/Ass4/102flowers/images/image_01835.jpg,lotus lotus,0.4835784435272217
+/home/ubuntu/Ass4/102flowers/images/image_06993.jpg,spear thistle,0.5856034159660339
+/home/ubuntu/Ass4/102flowers/images/image_04515.jpg,gazania,0.8711540102958679
+/home/ubuntu/Ass4/102flowers/images/image_03319.jpg,bird of paradise,0.5731740593910217
+/home/ubuntu/Ass4/102flowers/images/image_07877.jpg,bromelia,0.8951457142829895
+/home/ubuntu/Ass4/102flowers/images/image_02925.jpg,pink-yellow dahlia,0.9330970048904419
+/home/ubuntu/Ass4/102flowers/images/image_00422.jpg,water lily,0.8535462021827698
+/home/ubuntu/Ass4/102flowers/images/image_03390.jpg,fritillary,0.9467955827713013
+/home/ubuntu/Ass4/102flowers/images/image_01668.jpg,clematis,0.4365044832229614
+/home/ubuntu/Ass4/102flowers/images/image_04685.jpg,buttercup,0.7616426348686218
+/home/ubuntu/Ass4/102flowers/images/image_00764.jpg,watercress,0.7476566433906555
+/home/ubuntu/Ass4/102flowers/images/image_01128.jpg,wallflower,0.868280291557312
+/home/ubuntu/Ass4/102flowers/images/image_05549.jpg,osteospermum,0.7149328589439392
+/home/ubuntu/Ass4/102flowers/images/image_02687.jpg,geranium,0.8434026837348938
+/home/ubuntu/Ass4/102flowers/images/image_02581.jpg,windflower,0.5860285758972168
+/home/ubuntu/Ass4/102flowers/images/image_03841.jpg,purple coneflower,0.956741988658905
+/home/ubuntu/Ass4/102flowers/images/image_04120.jpg,artichoke,0.8278883695602417
+/home/ubuntu/Ass4/102flowers/images/image_02046.jpg,anthurium,0.5718843340873718
+/home/ubuntu/Ass4/102flowers/images/image_02046.jpg,cyclamen,0.2893722653388977
+/home/ubuntu/Ass4/102flowers/images/image_00509.jpg,ruby-lipped cattleya,0.43932637572288513
+/home/ubuntu/Ass4/102flowers/images/image_01030.jpg,wallflower,0.8057618141174316
+/home/ubuntu/Ass4/102flowers/images/image_01962.jpg,lotus lotus,0.7563352584838867
+/home/ubuntu/Ass4/102flowers/images/image_06542.jpg,common dandelion,0.8126308917999268
+/home/ubuntu/Ass4/102flowers/images/image_07800.jpg,mexican petunia,0.27063074707984924
+/home/ubuntu/Ass4/102flowers/images/image_07800.jpg,stemless gentian,0.25073087215423584
+/home/ubuntu/Ass4/102flowers/images/image_04365.jpg,ruby-lipped cattleya,0.7999299764633179
+/home/ubuntu/Ass4/102flowers/images/image_01529.jpg,poinsettia,0.9250256419181824
+/home/ubuntu/Ass4/102flowers/images/image_03001.jpg,pink-yellow dahlia,0.9061144590377808
+/home/ubuntu/Ass4/102flowers/images/image_04878.jpg,purple coneflower,0.49505966901779175
+/home/ubuntu/Ass4/102flowers/images/image_06689.jpg,globe-flower,0.4112468659877777
+/home/ubuntu/Ass4/102flowers/images/image_03171.jpg,petunia,0.2538571059703827
+/home/ubuntu/Ass4/102flowers/images/image_04609.jpg,balloon flower,0.266633540391922
+/home/ubuntu/Ass4/102flowers/images/image_03455.jpg,fritillary,0.34634414315223694
+/home/ubuntu/Ass4/102flowers/images/image_06592.jpg,grape hyacinth,0.9179565906524658
+/home/ubuntu/Ass4/102flowers/images/image_03974.jpg,petunia,0.701557993888855
+/home/ubuntu/Ass4/102flowers/images/image_00084.jpg,passion flower,0.8713176846504211
+/home/ubuntu/Ass4/102flowers/images/image_02366.jpg,hibiscus,0.39991822838783264
+/home/ubuntu/Ass4/102flowers/images/image_02667.jpg,geranium,0.6204423308372498
+/home/ubuntu/Ass4/102flowers/images/image_02667.jpg,bishop of llandaff,0.36529091000556946
+/home/ubuntu/Ass4/102flowers/images/image_07508.jpg,poinsettia,0.565947949886322
+/home/ubuntu/Ass4/102flowers/images/image_06601.jpg,grape hyacinth,0.5645792484283447
+/home/ubuntu/Ass4/102flowers/images/image_04049.jpg,colt's foot,0.9147356748580933
+/home/ubuntu/Ass4/102flowers/images/image_00591.jpg,cyclamen,0.4972626566886902
+/home/ubuntu/Ass4/102flowers/images/image_06550.jpg,common dandelion,0.8657876253128052
+/home/ubuntu/Ass4/102flowers/images/image_01905.jpg,lotus lotus,0.6591278314590454
+/home/ubuntu/Ass4/102flowers/images/image_02642.jpg,geranium,0.8042872548103333
+/home/ubuntu/Ass4/102flowers/images/image_00437.jpg,water lily,0.8408063650131226
+/home/ubuntu/Ass4/102flowers/images/image_04870.jpg,columbine,0.47485053539276123
+/home/ubuntu/Ass4/102flowers/images/image_06244.jpg,oxeye daisy,0.7093080878257751
+/home/ubuntu/Ass4/102flowers/images/image_00498.jpg,cyclamen,0.3262255787849426
+/home/ubuntu/Ass4/102flowers/images/image_01599.jpg,clematis,0.8633557558059692
+/home/ubuntu/Ass4/102flowers/images/image_07599.jpg,anthurium,0.5082719922065735
+/home/ubuntu/Ass4/102flowers/images/image_07599.jpg,camellia,0.3765380382537842
+/home/ubuntu/Ass4/102flowers/images/image_03535.jpg,petunia,0.40591055154800415
+/home/ubuntu/Ass4/102flowers/images/image_00654.jpg,watercress,0.9530337452888489
+/home/ubuntu/Ass4/102flowers/images/image_07081.jpg,fritillary,0.34406375885009766
+/home/ubuntu/Ass4/102flowers/images/image_04250.jpg,peruvian lily,0.8338025212287903
+/home/ubuntu/Ass4/102flowers/images/image_08155.jpg,lenten rose,0.5056436657905579
+/home/ubuntu/Ass4/102flowers/images/image_08155.jpg,windflower,0.4523778557777405
+/home/ubuntu/Ass4/102flowers/images/image_01695.jpg,clematis,0.6290690302848816
+/home/ubuntu/Ass4/102flowers/images/image_05901.jpg,black-eyed susan,0.6708159446716309
+/home/ubuntu/Ass4/102flowers/images/image_03957.jpg,petunia,0.7162418961524963
+/home/ubuntu/Ass4/102flowers/images/image_00778.jpg,watercress,0.903494119644165
+/home/ubuntu/Ass4/102flowers/images/image_01275.jpg,rose,0.7245776653289795
+/home/ubuntu/Ass4/102flowers/images/image_04406.jpg,canna lily,0.877508282661438
+/home/ubuntu/Ass4/102flowers/images/image_03295.jpg,bird of paradise,0.9267523884773254
+/home/ubuntu/Ass4/102flowers/images/image_06322.jpg,common dandelion,0.5469067096710205
+/home/ubuntu/Ass4/102flowers/images/image_06322.jpg,colt's foot,0.42987868189811707
+/home/ubuntu/Ass4/102flowers/images/image_02718.jpg,geranium,0.4815392792224884
+/home/ubuntu/Ass4/102flowers/images/image_03708.jpg,primula,0.4357491731643677
+/home/ubuntu/Ass4/102flowers/images/image_05058.jpg,orange dahlia,0.8625218868255615
+/home/ubuntu/Ass4/102flowers/images/image_06929.jpg,purple coneflower,0.45182299613952637
+/home/ubuntu/Ass4/102flowers/images/image_06929.jpg,mexican aster,0.3622119426727295
+/home/ubuntu/Ass4/102flowers/images/image_03808.jpg,cape flower,0.9248384833335876
+/home/ubuntu/Ass4/102flowers/images/image_01121.jpg,wallflower,0.8390181064605713
+/home/ubuntu/Ass4/102flowers/images/image_04128.jpg,artichoke,0.9577784538269043
+/home/ubuntu/Ass4/102flowers/images/image_00442.jpg,frangipani,0.8458842039108276
+/home/ubuntu/Ass4/102flowers/images/image_00442.jpg,water lily,0.6384023427963257
+/home/ubuntu/Ass4/102flowers/images/image_07355.jpg,foxglove,0.8631782531738281
+/home/ubuntu/Ass4/102flowers/images/image_01068.jpg,wallflower,0.6325350999832153
+/home/ubuntu/Ass4/102flowers/images/image_01464.jpg,petunia,0.905704915523529
+/home/ubuntu/Ass4/102flowers/images/image_06619.jpg,stemless gentian,0.7152450680732727
+/home/ubuntu/Ass4/102flowers/images/image_01457.jpg,petunia,0.8187597990036011
+/home/ubuntu/Ass4/102flowers/images/image_02928.jpg,pink-yellow dahlia,0.8954829573631287
+/home/ubuntu/Ass4/102flowers/images/image_05904.jpg,sword lily,0.28879421949386597
+/home/ubuntu/Ass4/102flowers/images/image_05904.jpg,snapdragon,0.2666703760623932
+/home/ubuntu/Ass4/102flowers/images/image_06613.jpg,canterbury bells,0.39701640605926514
+/home/ubuntu/Ass4/102flowers/images/image_06613.jpg,stemless gentian,0.2891114354133606
+/home/ubuntu/Ass4/102flowers/images/image_06556.jpg,common dandelion,0.8266682028770447
+/home/ubuntu/Ass4/102flowers/images/image_06221.jpg,oxeye daisy,0.6358025670051575
+/home/ubuntu/Ass4/102flowers/images/image_07679.jpg,hippeastrum,0.5720487236976624
+/home/ubuntu/Ass4/102flowers/images/image_02217.jpg,barbeton daisy,0.9585883617401123
+/home/ubuntu/Ass4/102flowers/images/image_05966.jpg,windflower,0.6136305928230286
+/home/ubuntu/Ass4/102flowers/images/image_06103.jpg,silverbush,0.7581039071083069
+/home/ubuntu/Ass4/102flowers/images/image_01188.jpg,sword lily,0.2768268585205078
+/home/ubuntu/Ass4/102flowers/images/image_07062.jpg,hard-leaved pocket orchid,0.4217904508113861
+/home/ubuntu/Ass4/102flowers/images/image_07111.jpg,great masterwort,0.2590220868587494
+/home/ubuntu/Ass4/102flowers/images/image_00732.jpg,watercress,0.6373624205589294
+/home/ubuntu/Ass4/102flowers/images/image_00732.jpg,hibiscus,0.5850976705551147
+/home/ubuntu/Ass4/102flowers/images/image_00587.jpg,cyclamen,0.5849471688270569
+/home/ubuntu/Ass4/102flowers/images/image_06456.jpg,great masterwort,0.5567033290863037
+/home/ubuntu/Ass4/102flowers/images/image_02129.jpg,thorn apple,0.8947736024856567
+/home/ubuntu/Ass4/102flowers/images/image_07886.jpg,bromelia,0.7115154266357422
+/home/ubuntu/Ass4/102flowers/images/image_07886.jpg,water lily,0.3944246172904968
+/home/ubuntu/Ass4/102flowers/images/image_00462.jpg,cyclamen,0.4754166901111603
+/home/ubuntu/Ass4/102flowers/images/image_00462.jpg,anthurium,0.2657864987850189
+/home/ubuntu/Ass4/102flowers/images/image_03376.jpg,fritillary,0.8896387219429016
+/home/ubuntu/Ass4/102flowers/images/image_03014.jpg,pink-yellow dahlia,0.7902864217758179
+/home/ubuntu/Ass4/102flowers/images/image_00310.jpg,water lily,0.8470857739448547
+/home/ubuntu/Ass4/102flowers/images/image_02988.jpg,pink-yellow dahlia,0.9415662288665771
+/home/ubuntu/Ass4/102flowers/images/image_07354.jpg,foxglove,0.9358485341072083
+/home/ubuntu/Ass4/102flowers/images/image_06987.jpg,alpine sea holly,0.6507818698883057
+/home/ubuntu/Ass4/102flowers/images/image_05756.jpg,king protea,0.7501668334007263
+/home/ubuntu/Ass4/102flowers/images/image_06968.jpg,mexican aster,0.700718343257904
+/home/ubuntu/Ass4/102flowers/images/image_01933.jpg,lotus lotus,0.7362341284751892
+/home/ubuntu/Ass4/102flowers/images/image_08174.jpg,camellia,0.32598069310188293
+/home/ubuntu/Ass4/102flowers/images/image_08174.jpg,japanese anemone,0.2843979299068451
+/home/ubuntu/Ass4/102flowers/images/image_03218.jpg,californian poppy,0.9191251397132874
+/home/ubuntu/Ass4/102flowers/images/image_02469.jpg,thorn apple,0.7752252221107483
+/home/ubuntu/Ass4/102flowers/images/image_00446.jpg,lotus lotus,0.8862563371658325
+/home/ubuntu/Ass4/102flowers/images/image_03526.jpg,sweet william,0.7141164541244507
+/home/ubuntu/Ass4/102flowers/images/image_01359.jpg,petunia,0.25833430886268616
+/home/ubuntu/Ass4/102flowers/images/image_00810.jpg,frangipani,0.964459240436554
+/home/ubuntu/Ass4/102flowers/images/image_00069.jpg,passion flower,0.8198439478874207
+/home/ubuntu/Ass4/102flowers/images/image_01016.jpg,wallflower,0.8798551559448242
+/home/ubuntu/Ass4/102flowers/images/image_01972.jpg,anthurium,0.6565447449684143
+/home/ubuntu/Ass4/102flowers/images/image_02012.jpg,anthurium,0.8307722806930542
+/home/ubuntu/Ass4/102flowers/images/image_02256.jpg,barbeton daisy,0.9477791786193848
+/home/ubuntu/Ass4/102flowers/images/image_05401.jpg,barbeton daisy,0.32708311080932617
+/home/ubuntu/Ass4/102flowers/images/image_04665.jpg,buttercup,0.8149783611297607
+/home/ubuntu/Ass4/102flowers/images/image_01895.jpg,cyclamen,0.5150080323219299
+/home/ubuntu/Ass4/102flowers/images/image_01895.jpg,lotus lotus,0.482051819562912
+/home/ubuntu/Ass4/102flowers/images/image_04874.jpg,lotus lotus,0.535979688167572
+/home/ubuntu/Ass4/102flowers/images/image_04874.jpg,hippeastrum,0.379595011472702
+/home/ubuntu/Ass4/102flowers/images/image_07296.jpg,cape flower,0.9539839029312134
+/home/ubuntu/Ass4/102flowers/images/image_03560.jpg,azalea,0.5594040751457214
+/home/ubuntu/Ass4/102flowers/images/image_02702.jpg,geranium,0.8917849659919739
+/home/ubuntu/Ass4/102flowers/images/image_05253.jpg,stemless gentian,0.757466197013855
+/home/ubuntu/Ass4/102flowers/images/image_00125.jpg,passion flower,0.8611193299293518
+/home/ubuntu/Ass4/102flowers/images/image_00689.jpg,hard-leaved pocket orchid,0.8733898401260376
+/home/ubuntu/Ass4/102flowers/images/image_05407.jpg,sunflower,0.43836063146591187
+/home/ubuntu/Ass4/102flowers/images/image_05407.jpg,daffodil,0.3166032135486603
+/home/ubuntu/Ass4/102flowers/images/image_07514.jpg,bougainvillea,0.7741490602493286
+/home/ubuntu/Ass4/102flowers/images/image_05755.jpg,king protea,0.5078911781311035
+/home/ubuntu/Ass4/102flowers/images/image_02439.jpg,canna lily,0.26379600167274475
+/home/ubuntu/Ass4/102flowers/images/image_03946.jpg,morning glory,0.4029279947280884
+/home/ubuntu/Ass4/102flowers/images/image_01340.jpg,petunia,0.7905722260475159
+/home/ubuntu/Ass4/102flowers/images/image_06752.jpg,pink primrose,0.341545045375824
+/home/ubuntu/Ass4/102flowers/images/image_02569.jpg,bromelia,0.4010293185710907
+/home/ubuntu/Ass4/102flowers/images/image_00667.jpg,watercress,0.3934083878993988
+/home/ubuntu/Ass4/102flowers/images/image_01450.jpg,petunia,0.8160894513130188
+/home/ubuntu/Ass4/102flowers/images/image_02029.jpg,anthurium,0.8424685001373291
+/home/ubuntu/Ass4/102flowers/images/image_07949.jpg,rose,0.3896220326423645
+/home/ubuntu/Ass4/102flowers/images/image_08186.jpg,lenten rose,0.2711213529109955
+/home/ubuntu/Ass4/102flowers/images/image_04957.jpg,marigold,0.8781418204307556
+/home/ubuntu/Ass4/102flowers/images/image_01086.jpg,wallflower,0.753655731678009
+/home/ubuntu/Ass4/102flowers/images/image_05488.jpg,rose,0.5501927137374878
+/home/ubuntu/Ass4/102flowers/images/image_02644.jpg,geranium,0.800795316696167
+/home/ubuntu/Ass4/102flowers/images/image_01423.jpg,petunia,0.9406465291976929
+/home/ubuntu/Ass4/102flowers/images/image_03858.jpg,purple coneflower,0.9166049361228943
+/home/ubuntu/Ass4/102flowers/images/image_01455.jpg,petunia,0.6591864228248596
+/home/ubuntu/Ass4/102flowers/images/image_00178.jpg,passion flower,0.9383540749549866
+/home/ubuntu/Ass4/102flowers/images/image_01196.jpg,anthurium,0.659487783908844
+/home/ubuntu/Ass4/102flowers/images/image_06658.jpg,californian poppy,0.8132426142692566
+/home/ubuntu/Ass4/102flowers/images/image_06020.jpg,ball moss,0.7154335379600525
+/home/ubuntu/Ass4/102flowers/images/image_00042.jpg,passion flower,0.8815335035324097
+/home/ubuntu/Ass4/102flowers/images/image_06165.jpg,wild pansy,0.4121706187725067
+/home/ubuntu/Ass4/102flowers/images/image_04068.jpg,colt's foot,0.6739662885665894
+/home/ubuntu/Ass4/102flowers/images/image_04144.jpg,artichoke,0.46358707547187805
+/home/ubuntu/Ass4/102flowers/images/image_04144.jpg,king protea,0.4270187318325043
+/home/ubuntu/Ass4/102flowers/images/image_07597.jpg,camellia,0.38410526514053345
+/home/ubuntu/Ass4/102flowers/images/image_02678.jpg,geranium,0.7106943130493164
+/home/ubuntu/Ass4/102flowers/images/image_06045.jpg,foxglove,0.3493689298629761
+/home/ubuntu/Ass4/102flowers/images/image_06045.jpg,sweet pea,0.31617021560668945
+/home/ubuntu/Ass4/102flowers/images/image_07116.jpg,globe thistle,0.7015838623046875
+/home/ubuntu/Ass4/102flowers/images/image_01134.jpg,wallflower,0.8547461032867432
+/home/ubuntu/Ass4/102flowers/images/image_02647.jpg,geranium,0.8077187538146973
+/home/ubuntu/Ass4/102flowers/images/image_01947.jpg,lotus lotus,0.6685071587562561
+/home/ubuntu/Ass4/102flowers/images/image_04587.jpg,lenten rose,0.4497896134853363
+/home/ubuntu/Ass4/102flowers/images/image_04587.jpg,buttercup,0.26895636320114136
+/home/ubuntu/Ass4/102flowers/images/image_04123.jpg,spear thistle,0.6552285552024841
+/home/ubuntu/Ass4/102flowers/images/image_06040.jpg,sword lily,0.6980288624763489
+/home/ubuntu/Ass4/102flowers/images/image_06831.jpg,bee balm,0.7996386289596558
+/home/ubuntu/Ass4/102flowers/images/image_02712.jpg,geranium,0.7362303733825684
+/home/ubuntu/Ass4/102flowers/images/image_02067.jpg,anthurium,0.47934460639953613
+/home/ubuntu/Ass4/102flowers/images/image_01101.jpg,wallflower,0.8211430311203003
+/home/ubuntu/Ass4/102flowers/images/image_06977.jpg,alpine sea holly,0.47946667671203613
+/home/ubuntu/Ass4/102flowers/images/image_06977.jpg,spear thistle,0.3725487291812897
+/home/ubuntu/Ass4/102flowers/images/image_00924.jpg,frangipani,0.9551151990890503
+/home/ubuntu/Ass4/102flowers/images/image_05453.jpg,sunflower,0.4051028788089752
+/home/ubuntu/Ass4/102flowers/images/image_04077.jpg,colt's foot,0.9597300291061401
+/home/ubuntu/Ass4/102flowers/images/image_01527.jpg,poinsettia,0.9284173250198364
+/home/ubuntu/Ass4/102flowers/images/image_00949.jpg,wallflower,0.8996281027793884
+/home/ubuntu/Ass4/102flowers/images/image_05834.jpg,great masterwort,0.7746974229812622
+/home/ubuntu/Ass4/102flowers/images/image_00560.jpg,cyclamen,0.7691422700881958
+/home/ubuntu/Ass4/102flowers/images/image_03423.jpg,fritillary,0.8299541473388672
+/home/ubuntu/Ass4/102flowers/images/image_01379.jpg,bishop of llandaff,0.4156559109687805
+/home/ubuntu/Ass4/102flowers/images/image_01751.jpg,hibiscus,0.561873197555542
+/home/ubuntu/Ass4/102flowers/images/image_01751.jpg,watercress,0.5129579305648804
+/home/ubuntu/Ass4/102flowers/images/image_04538.jpg,gazania,0.8008697628974915
+/home/ubuntu/Ass4/102flowers/images/image_02323.jpg,rose,0.5108753442764282
+/home/ubuntu/Ass4/102flowers/images/image_02323.jpg,sword lily,0.256303995847702
+/home/ubuntu/Ass4/102flowers/images/image_02391.jpg,sword lily,0.6972991824150085
+/home/ubuntu/Ass4/102flowers/images/image_05705.jpg,daffodil,0.2660888135433197
+/home/ubuntu/Ass4/102flowers/images/image_01849.jpg,lotus lotus,0.9147458076477051
+/home/ubuntu/Ass4/102flowers/images/image_04721.jpg,pelargonium,0.6101047992706299
+/home/ubuntu/Ass4/102flowers/images/image_06988.jpg,alpine sea holly,0.3254394233226776
+/home/ubuntu/Ass4/102flowers/images/image_04072.jpg,colt's foot,0.8218975067138672
+/home/ubuntu/Ass4/102flowers/images/image_01683.jpg,passion flower,0.6743568778038025
+/home/ubuntu/Ass4/102flowers/images/image_04491.jpg,gazania,0.8918494582176208
+/home/ubuntu/Ass4/102flowers/images/image_07446.jpg,foxglove,0.6057283282279968
+/home/ubuntu/Ass4/102flowers/images/image_04301.jpg,peruvian lily,0.4617798626422882
+/home/ubuntu/Ass4/102flowers/images/image_02819.jpg,bishop of llandaff,0.8563132286071777
+/home/ubuntu/Ass4/102flowers/images/image_05987.jpg,orange dahlia,0.2633652687072754
+/home/ubuntu/Ass4/102flowers/images/image_04556.jpg,gazania,0.8700011968612671
+/home/ubuntu/Ass4/102flowers/images/image_04645.jpg,buttercup,0.6721523404121399
+/home/ubuntu/Ass4/102flowers/images/image_00352.jpg,water lily,0.9127612113952637
+/home/ubuntu/Ass4/102flowers/images/image_05546.jpg,osteospermum,0.853910505771637
+/home/ubuntu/Ass4/102flowers/images/image_04314.jpg,watercress,0.26453614234924316
+/home/ubuntu/Ass4/102flowers/images/image_07671.jpg,primula,0.41757386922836304
+/home/ubuntu/Ass4/102flowers/images/image_02268.jpg,barbeton daisy,0.46572381258010864
+/home/ubuntu/Ass4/102flowers/images/image_00471.jpg,lotus lotus,0.678595244884491
+/home/ubuntu/Ass4/102flowers/images/image_02185.jpg,thorn apple,0.697898805141449
+/home/ubuntu/Ass4/102flowers/images/image_07361.jpg,foxglove,0.9582516551017761
+/home/ubuntu/Ass4/102flowers/images/image_08140.jpg,gaura,0.8468297123908997
+/home/ubuntu/Ass4/102flowers/images/image_06755.jpg,pink primrose,0.5337273478507996
+/home/ubuntu/Ass4/102flowers/images/image_07558.jpg,sword lily,0.6617129445075989
+/home/ubuntu/Ass4/102flowers/images/image_01687.jpg,sweet william,0.7724394202232361
+/home/ubuntu/Ass4/102flowers/images/image_00299.jpg,water lily,0.380206823348999
+/home/ubuntu/Ass4/102flowers/images/image_05319.jpg,tree poppy,0.8082069754600525
+/home/ubuntu/Ass4/102flowers/images/image_02314.jpg,barbeton daisy,0.7091324925422668
+/home/ubuntu/Ass4/102flowers/images/image_02943.jpg,pink-yellow dahlia,0.980494499206543
+/home/ubuntu/Ass4/102flowers/images/image_03856.jpg,purple coneflower,0.7655850052833557
+/home/ubuntu/Ass4/102flowers/images/image_05653.jpg,monkshood,0.6776951551437378
+/home/ubuntu/Ass4/102flowers/images/image_05653.jpg,sweet pea,0.5867258310317993
+/home/ubuntu/Ass4/102flowers/images/image_07759.jpg,mexican petunia,0.3979467451572418
+/home/ubuntu/Ass4/102flowers/images/image_04985.jpg,marigold,0.8435600996017456
+/home/ubuntu/Ass4/102flowers/images/image_01506.jpg,poinsettia,0.9092972874641418
+/home/ubuntu/Ass4/102flowers/images/image_01141.jpg,wallflower,0.6862844824790955
+/home/ubuntu/Ass4/102flowers/images/image_03599.jpg,sword lily,0.47119656205177307
+/home/ubuntu/Ass4/102flowers/images/image_05725.jpg,daffodil,0.5758964419364929
+/home/ubuntu/Ass4/102flowers/images/image_07688.jpg,lenten rose,0.7502595782279968
+/home/ubuntu/Ass4/102flowers/images/image_03464.jpg,sweet william,0.4291722774505615
+/home/ubuntu/Ass4/102flowers/images/image_00116.jpg,passion flower,0.8965024352073669
+/home/ubuntu/Ass4/102flowers/images/image_07684.jpg,tiger lily,0.5139896273612976
+/home/ubuntu/Ass4/102flowers/images/image_03922.jpg,petunia,0.841799259185791
+/home/ubuntu/Ass4/102flowers/images/image_00865.jpg,frangipani,0.930743396282196
+/home/ubuntu/Ass4/102flowers/images/image_04463.jpg,canna lily,0.854072630405426
+/home/ubuntu/Ass4/102flowers/images/image_03859.jpg,purple coneflower,0.7784364223480225
+/home/ubuntu/Ass4/102flowers/images/image_03471.jpg,sweet william,0.8987883925437927
+/home/ubuntu/Ass4/102flowers/images/image_01370.jpg,azalea,0.5672621726989746
+/home/ubuntu/Ass4/102flowers/images/image_02827.jpg,bishop of llandaff,0.7683600783348083
+/home/ubuntu/Ass4/102flowers/images/image_02825.jpg,bishop of llandaff,0.802541971206665
+/home/ubuntu/Ass4/102flowers/images/image_02874.jpg,tree mallow,0.7985615134239197
+/home/ubuntu/Ass4/102flowers/images/image_01625.jpg,clematis,0.7011115550994873
+/home/ubuntu/Ass4/102flowers/images/image_01750.jpg,hibiscus,0.5322898030281067
+/home/ubuntu/Ass4/102flowers/images/image_03948.jpg,petunia,0.4842126667499542
+/home/ubuntu/Ass4/102flowers/images/image_02155.jpg,thorn apple,0.8468570113182068
+/home/ubuntu/Ass4/102flowers/images/image_04442.jpg,canna lily,0.4937971532344818
+/home/ubuntu/Ass4/102flowers/images/image_02766.jpg,bishop of llandaff,0.8076863884925842
+/home/ubuntu/Ass4/102flowers/images/image_00205.jpg,passion flower,0.9701960682868958
+/home/ubuntu/Ass4/102flowers/images/image_05503.jpg,magnolia,0.299777626991272
+/home/ubuntu/Ass4/102flowers/images/image_00222.jpg,passion flower,0.8879685401916504
+/home/ubuntu/Ass4/102flowers/images/image_00621.jpg,watercress,0.5628511905670166
+/home/ubuntu/Ass4/102flowers/images/image_00241.jpg,passion flower,0.8694126009941101
+/home/ubuntu/Ass4/102flowers/images/image_05883.jpg,black-eyed susan,0.8978630900382996
+/home/ubuntu/Ass4/102flowers/images/image_04108.jpg,artichoke,0.858218789100647
+/home/ubuntu/Ass4/102flowers/images/image_01142.jpg,wallflower,0.5116540789604187
+/home/ubuntu/Ass4/102flowers/images/image_01441.jpg,petunia,0.9024183750152588
+/home/ubuntu/Ass4/102flowers/images/image_06638.jpg,mexican petunia,0.4224990904331207
+/home/ubuntu/Ass4/102flowers/images/image_05917.jpg,snapdragon,0.5722324848175049
+/home/ubuntu/Ass4/102flowers/images/image_05917.jpg,bearded iris,0.3700648844242096
+/home/ubuntu/Ass4/102flowers/images/image_04046.jpg,colt's foot,0.6046174764633179
+/home/ubuntu/Ass4/102flowers/images/image_06762.jpg,petunia,0.5422657132148743
+/home/ubuntu/Ass4/102flowers/images/image_06910.jpg,rose,0.48600491881370544
+/home/ubuntu/Ass4/102flowers/images/image_05011.jpg,marigold,0.6563438773155212
+/home/ubuntu/Ass4/102flowers/images/image_03541.jpg,sweet william,0.43926677107810974
+/home/ubuntu/Ass4/102flowers/images/image_01541.jpg,poinsettia,0.33473268151283264
+/home/ubuntu/Ass4/102flowers/images/image_01541.jpg,clematis,0.2950899302959442
+/home/ubuntu/Ass4/102flowers/images/image_08094.jpg,globe thistle,0.5038859844207764
+/home/ubuntu/Ass4/102flowers/images/image_00830.jpg,frangipani,0.9129970669746399
+/home/ubuntu/Ass4/102flowers/images/image_00830.jpg,water lily,0.8003807067871094
+/home/ubuntu/Ass4/102flowers/images/image_07398.jpg,foxglove,0.9532586336135864
+/home/ubuntu/Ass4/102flowers/images/image_02589.jpg,primula,0.5672626495361328
+/home/ubuntu/Ass4/102flowers/images/image_02475.jpg,morning glory,0.6185715794563293
+/home/ubuntu/Ass4/102flowers/images/image_07994.jpg,geranium,0.3345014750957489
+/home/ubuntu/Ass4/102flowers/images/image_03114.jpg,snapdragon,0.4563363790512085
+/home/ubuntu/Ass4/102flowers/images/image_01728.jpg,hibiscus,0.7721942067146301
+/home/ubuntu/Ass4/102flowers/images/image_04802.jpg,desert-rose,0.6747066378593445
+/home/ubuntu/Ass4/102flowers/images/image_07061.jpg,stemless gentian,0.5222180485725403
+/home/ubuntu/Ass4/102flowers/images/image_02340.jpg,sword lily,0.8875570297241211
+/home/ubuntu/Ass4/102flowers/images/image_02340.jpg,petunia,0.6081494688987732
+/home/ubuntu/Ass4/102flowers/images/image_01333.jpg,petunia,0.671075165271759
+/home/ubuntu/Ass4/102flowers/images/image_00220.jpg,passion flower,0.9636627435684204
+/home/ubuntu/Ass4/102flowers/images/image_06864.jpg,marigold,0.8222305774688721
+/home/ubuntu/Ass4/102flowers/images/image_04229.jpg,wild pansy,0.835515022277832
+/home/ubuntu/Ass4/102flowers/images/image_05408.jpg,sunflower,0.4366716146469116
+/home/ubuntu/Ass4/102flowers/images/image_04657.jpg,buttercup,0.7369362711906433
+/home/ubuntu/Ass4/102flowers/images/image_00630.jpg,watercress,0.9180924296379089
+/home/ubuntu/Ass4/102flowers/images/image_05912.jpg,bearded iris,0.5079437494277954
+/home/ubuntu/Ass4/102flowers/images/image_00188.jpg,passion flower,0.9282448291778564
+/home/ubuntu/Ass4/102flowers/images/image_04921.jpg,frangipani,0.6033909916877747
+/home/ubuntu/Ass4/102flowers/images/image_04921.jpg,giant white arum lily,0.5026607513427734
+/home/ubuntu/Ass4/102flowers/images/image_05013.jpg,marigold,0.8968662619590759
+/home/ubuntu/Ass4/102flowers/images/image_03898.jpg,purple coneflower,0.8695281744003296
+/home/ubuntu/Ass4/102flowers/images/image_08126.jpg,gaura,0.3526693284511566
+/home/ubuntu/Ass4/102flowers/images/image_08145.jpg,passion flower,0.39088529348373413
+/home/ubuntu/Ass4/102flowers/images/image_04886.jpg,hippeastrum,0.6164244413375854
+/home/ubuntu/Ass4/102flowers/images/image_00397.jpg,water lily,0.31776270270347595
+/home/ubuntu/Ass4/102flowers/images/image_05961.jpg,windflower,0.8032553195953369
+/home/ubuntu/Ass4/102flowers/images/image_03195.jpg,californian poppy,0.8363038897514343
+/home/ubuntu/Ass4/102flowers/images/image_05113.jpg,hard-leaved pocket orchid,0.524928629398346
+/home/ubuntu/Ass4/102flowers/images/image_06603.jpg,grape hyacinth,0.8454349637031555
+/home/ubuntu/Ass4/102flowers/images/image_00554.jpg,rose,0.8422155380249023
+/home/ubuntu/Ass4/102flowers/images/image_01903.jpg,lotus lotus,0.8213288187980652
+/home/ubuntu/Ass4/102flowers/images/image_02979.jpg,pink-yellow dahlia,0.934462308883667
+/home/ubuntu/Ass4/102flowers/images/image_04151.jpg,artichoke,0.8249991536140442
+/home/ubuntu/Ass4/102flowers/images/image_03600.jpg,azalea,0.32193702459335327
+/home/ubuntu/Ass4/102flowers/images/image_03600.jpg,clematis,0.2879568338394165
+/home/ubuntu/Ass4/102flowers/images/image_05968.jpg,windflower,0.46505266427993774
+/home/ubuntu/Ass4/102flowers/images/image_04619.jpg,lenten rose,0.537350058555603
+/home/ubuntu/Ass4/102flowers/images/image_02886.jpg,tree mallow,0.4249209761619568
+/home/ubuntu/Ass4/102flowers/images/image_07368.jpg,foxglove,0.8924388885498047
+/home/ubuntu/Ass4/102flowers/images/image_03393.jpg,fritillary,0.9341109395027161
+/home/ubuntu/Ass4/102flowers/images/image_00925.jpg,frangipani,0.8355371952056885
+/home/ubuntu/Ass4/102flowers/images/image_06493.jpg,rose,0.4908680319786072
+/home/ubuntu/Ass4/102flowers/images/image_00570.jpg,anthurium,0.684049129486084
+/home/ubuntu/Ass4/102flowers/images/image_00570.jpg,bougainvillea,0.4722732901573181
+/home/ubuntu/Ass4/102flowers/images/image_08177.jpg,mexican aster,0.4067763686180115
+/home/ubuntu/Ass4/102flowers/images/image_08177.jpg,japanese anemone,0.3206775486469269
+/home/ubuntu/Ass4/102flowers/images/image_00003.jpg,passion flower,0.942787766456604
+/home/ubuntu/Ass4/102flowers/images/image_04009.jpg,marigold,0.6558665633201599
+/home/ubuntu/Ass4/102flowers/images/image_03242.jpg,californian poppy,0.7646123766899109
+/home/ubuntu/Ass4/102flowers/images/image_02658.jpg,geranium,0.6499913930892944
+/home/ubuntu/Ass4/102flowers/images/image_03199.jpg,californian poppy,0.38879725337028503
+/home/ubuntu/Ass4/102flowers/images/image_02921.jpg,pink-yellow dahlia,0.8162216544151306
+/home/ubuntu/Ass4/102flowers/images/image_05522.jpg,magnolia,0.4133399724960327
+/home/ubuntu/Ass4/102flowers/images/image_05522.jpg,water lily,0.4084465503692627
+/home/ubuntu/Ass4/102flowers/images/image_02466.jpg,balloon flower,0.5357964038848877
+/home/ubuntu/Ass4/102flowers/images/image_06392.jpg,daffodil,0.46189719438552856
+/home/ubuntu/Ass4/102flowers/images/image_03780.jpg,cape flower,0.8409695625305176
+/home/ubuntu/Ass4/102flowers/images/image_03062.jpg,clematis,0.28872907161712646
+/home/ubuntu/Ass4/102flowers/images/image_02882.jpg,tree mallow,0.7209125757217407
+/home/ubuntu/Ass4/102flowers/images/image_07888.jpg,bromelia,0.8774216175079346
+/home/ubuntu/Ass4/102flowers/images/image_00286.jpg,water lily,0.9359911680221558
+/home/ubuntu/Ass4/102flowers/images/image_02073.jpg,morning glory,0.3816085159778595
+/home/ubuntu/Ass4/102flowers/images/image_02073.jpg,thorn apple,0.3656423091888428
+/home/ubuntu/Ass4/102flowers/images/image_01799.jpg,hibiscus,0.45434093475341797
+/home/ubuntu/Ass4/102flowers/images/image_05922.jpg,snapdragon,0.4260653555393219
+/home/ubuntu/Ass4/102flowers/images/image_05922.jpg,sword lily,0.38001886010169983
+/home/ubuntu/Ass4/102flowers/images/image_06394.jpg,yellow iris,0.4341147541999817
+/home/ubuntu/Ass4/102flowers/images/image_02832.jpg,bishop of llandaff,0.7505258321762085
+/home/ubuntu/Ass4/102flowers/images/image_02110.jpg,thorn apple,0.7229894399642944
+/home/ubuntu/Ass4/102flowers/images/image_06716.jpg,toad lily,0.8436666131019592
+/home/ubuntu/Ass4/102flowers/images/image_05241.jpg,stemless gentian,0.48625004291534424
+/home/ubuntu/Ass4/102flowers/images/image_00846.jpg,frangipani,0.9214405417442322
+/home/ubuntu/Ass4/102flowers/images/image_00976.jpg,wallflower,0.7999140620231628
+/home/ubuntu/Ass4/102flowers/images/image_00874.jpg,frangipani,0.8713974356651306
+/home/ubuntu/Ass4/102flowers/images/image_05607.jpg,great masterwort,0.3368184566497803
+/home/ubuntu/Ass4/102flowers/images/image_03414.jpg,fritillary,0.8444581627845764
+/home/ubuntu/Ass4/102flowers/images/image_07247.jpg,gaura,0.8529306054115295
+/home/ubuntu/Ass4/102flowers/images/image_07380.jpg,foxglove,0.6688463091850281
+/home/ubuntu/Ass4/102flowers/images/image_03774.jpg,cape flower,0.507195234298706
+/home/ubuntu/Ass4/102flowers/images/image_04437.jpg,canna lily,0.49462711811065674
+/home/ubuntu/Ass4/102flowers/images/image_07925.jpg,barbeton daisy,0.5870142579078674
+/home/ubuntu/Ass4/102flowers/images/image_04691.jpg,bearded iris,0.27282023429870605
+/home/ubuntu/Ass4/102flowers/images/image_00837.jpg,bird of paradise,0.4542789161205292
+/home/ubuntu/Ass4/102flowers/images/image_03136.jpg,snapdragon,0.8287970423698425
+/home/ubuntu/Ass4/102flowers/images/image_06251.jpg,cautleya spicata,0.7994612455368042
+/home/ubuntu/Ass4/102flowers/images/image_06108.jpg,wild pansy,0.6252570152282715
+/home/ubuntu/Ass4/102flowers/images/image_06108.jpg,silverbush,0.3302742838859558
+/home/ubuntu/Ass4/102flowers/images/image_06469.jpg,love in the mist,0.6197371482849121
+/home/ubuntu/Ass4/102flowers/images/image_04882.jpg,clematis,0.5772724151611328
+/home/ubuntu/Ass4/102flowers/images/image_04882.jpg,peruvian lily,0.37078800797462463
+/home/ubuntu/Ass4/102flowers/images/image_04882.jpg,purple coneflower,0.32809752225875854
+/home/ubuntu/Ass4/102flowers/images/image_02774.jpg,bishop of llandaff,0.8869264721870422
+/home/ubuntu/Ass4/102flowers/images/image_07049.jpg,spring crocus,0.45328083634376526
+/home/ubuntu/Ass4/102flowers/images/image_05089.jpg,hard-leaved pocket orchid,0.9436175227165222
+/home/ubuntu/Ass4/102flowers/images/image_06303.jpg,colt's foot,0.8527780175209045
+/home/ubuntu/Ass4/102flowers/images/image_02519.jpg,morning glory,0.9291731119155884
+/home/ubuntu/Ass4/102flowers/images/image_02322.jpg,sword lily,0.8091873526573181
+/home/ubuntu/Ass4/102flowers/images/image_01039.jpg,bishop of llandaff,0.7108731269836426
+/home/ubuntu/Ass4/102flowers/images/image_04337.jpg,ruby-lipped cattleya,0.5013025999069214
+/home/ubuntu/Ass4/102flowers/images/image_05440.jpg,sunflower,0.4615449905395508
+/home/ubuntu/Ass4/102flowers/images/image_07345.jpg,foxglove,0.8593974709510803
+/home/ubuntu/Ass4/102flowers/images/image_02870.jpg,tree mallow,0.7146243453025818
+/home/ubuntu/Ass4/102flowers/images/image_07738.jpg,mallow,0.862038254737854
+/home/ubuntu/Ass4/102flowers/images/image_02192.jpg,barbeton daisy,0.38982534408569336
+/home/ubuntu/Ass4/102flowers/images/image_00719.jpg,watercress,0.8004082441329956
+/home/ubuntu/Ass4/102flowers/images/image_03389.jpg,magnolia,0.2859687805175781
+/home/ubuntu/Ass4/102flowers/images/image_03389.jpg,giant white arum lily,0.2733129560947418
+/home/ubuntu/Ass4/102flowers/images/image_08016.jpg,tiger lily,0.38897982239723206
+/home/ubuntu/Ass4/102flowers/images/image_08016.jpg,blackberry lily,0.2912563383579254
+/home/ubuntu/Ass4/102flowers/images/image_03159.jpg,snapdragon,0.7904928922653198
+/home/ubuntu/Ass4/102flowers/images/image_05577.jpg,osteospermum,0.8363425731658936
+/home/ubuntu/Ass4/102flowers/images/image_06168.jpg,balloon flower,0.2807818651199341
+/home/ubuntu/Ass4/102flowers/images/image_03762.jpg,cape flower,0.9442731142044067
+/home/ubuntu/Ass4/102flowers/images/image_00308.jpg,water lily,0.9486879706382751
+/home/ubuntu/Ass4/102flowers/images/image_05582.jpg,osteospermum,0.9211006760597229
+/home/ubuntu/Ass4/102flowers/images/image_06408.jpg,monkshood,0.3598215878009796
+/home/ubuntu/Ass4/102flowers/images/image_06408.jpg,columbine,0.29208821058273315
+/home/ubuntu/Ass4/102flowers/images/image_01511.jpg,poinsettia,0.7747657299041748
+/home/ubuntu/Ass4/102flowers/images/image_06262.jpg,cautleya spicata,0.847632110118866
+/home/ubuntu/Ass4/102flowers/images/image_03491.jpg,carnation,0.5966563820838928
+/home/ubuntu/Ass4/102flowers/images/image_07461.jpg,foxglove,0.4092005491256714
+/home/ubuntu/Ass4/102flowers/images/image_01577.jpg,poinsettia,0.84047931432724
+/home/ubuntu/Ass4/102flowers/images/image_00733.jpg,watercress,0.9404097199440002
+/home/ubuntu/Ass4/102flowers/images/image_06090.jpg,spear thistle,0.6929720044136047
+/home/ubuntu/Ass4/102flowers/images/image_06090.jpg,colt's foot,0.6517539620399475
+/home/ubuntu/Ass4/102flowers/images/image_04750.jpg,pelargonium,0.5692412257194519
+/home/ubuntu/Ass4/102flowers/images/image_08077.jpg,carnation,0.7292810082435608
+/home/ubuntu/Ass4/102flowers/images/image_03463.jpg,sweet william,0.8159303665161133
+/home/ubuntu/Ass4/102flowers/images/image_03603.jpg,clematis,0.3911057114601135
+/home/ubuntu/Ass4/102flowers/images/image_05365.jpg,pincushion flower,0.7564765214920044
+/home/ubuntu/Ass4/102flowers/images/image_02970.jpg,pink-yellow dahlia,0.8540427088737488
+/home/ubuntu/Ass4/102flowers/images/image_06267.jpg,cautleya spicata,0.7289907336235046
+/home/ubuntu/Ass4/102flowers/images/image_07549.jpg,clematis,0.3544204831123352
+/home/ubuntu/Ass4/102flowers/images/image_06234.jpg,oxeye daisy,0.5134322643280029
+/home/ubuntu/Ass4/102flowers/images/image_05329.jpg,tree poppy,0.7708399891853333
+/home/ubuntu/Ass4/102flowers/images/image_05689.jpg,daffodil,0.5605522990226746
+/home/ubuntu/Ass4/102flowers/images/image_02753.jpg,bishop of llandaff,0.9340551495552063
+/home/ubuntu/Ass4/102flowers/images/image_01861.jpg,lotus lotus,0.853552520275116
+/home/ubuntu/Ass4/102flowers/images/image_01900.jpg,lotus lotus,0.7659740447998047
+/home/ubuntu/Ass4/102flowers/images/image_03055.jpg,bee balm,0.9097667336463928
+/home/ubuntu/Ass4/102flowers/images/image_01373.jpg,primula,0.351340115070343
+/home/ubuntu/Ass4/102flowers/images/image_01373.jpg,azalea,0.31436723470687866
+/home/ubuntu/Ass4/102flowers/images/image_06468.jpg,love in the mist,0.8792642951011658
+/home/ubuntu/Ass4/102flowers/images/image_04798.jpg,bougainvillea,0.4496596157550812
+/home/ubuntu/Ass4/102flowers/images/image_07350.jpg,foxglove,0.9154579043388367
+/home/ubuntu/Ass4/102flowers/images/image_00744.jpg,watercress,0.9064399600028992
+/home/ubuntu/Ass4/102flowers/images/image_00612.jpg,watercress,0.8697916269302368
+/home/ubuntu/Ass4/102flowers/images/image_03889.jpg,purple coneflower,0.9450874924659729
+/home/ubuntu/Ass4/102flowers/images/image_08051.jpg,red ginger,0.8246769309043884
+/home/ubuntu/Ass4/102flowers/images/image_06913.jpg,carnation,0.4174058437347412
+/home/ubuntu/Ass4/102flowers/images/image_00608.jpg,watercress,0.930131733417511
+/home/ubuntu/Ass4/102flowers/images/image_02057.jpg,anthurium,0.9345433712005615
+/home/ubuntu/Ass4/102flowers/images/image_06228.jpg,oxeye daisy,0.7090095281600952
+/home/ubuntu/Ass4/102flowers/images/image_05536.jpg,osteospermum,0.9742542505264282
+/home/ubuntu/Ass4/102flowers/images/image_04872.jpg,hippeastrum,0.6257417798042297
+/home/ubuntu/Ass4/102flowers/images/image_03226.jpg,californian poppy,0.5738328695297241
+/home/ubuntu/Ass4/102flowers/images/image_07453.jpg,foxglove,0.8458651304244995
+/home/ubuntu/Ass4/102flowers/images/image_01646.jpg,clematis,0.9093574285507202
+/home/ubuntu/Ass4/102flowers/images/image_06722.jpg,great masterwort,0.5707360506057739
+/home/ubuntu/Ass4/102flowers/images/image_06722.jpg,toad lily,0.5319685935974121
+/home/ubuntu/Ass4/102flowers/images/image_04452.jpg,canna lily,0.28194528818130493
+/home/ubuntu/Ass4/102flowers/images/image_05474.jpg,magnolia,0.9066895842552185
+/home/ubuntu/Ass4/102flowers/images/image_04264.jpg,peruvian lily,0.8051474094390869
+/home/ubuntu/Ass4/102flowers/images/image_07382.jpg,foxglove,0.8637372255325317
+/home/ubuntu/Ass4/102flowers/images/image_02068.jpg,anthurium,0.638769805431366
+/home/ubuntu/Ass4/102flowers/images/image_02068.jpg,cyclamen,0.27832236886024475
+/home/ubuntu/Ass4/102flowers/images/image_02539.jpg,thorn apple,0.8120347261428833
+/home/ubuntu/Ass4/102flowers/images/image_02539.jpg,morning glory,0.5075696110725403
+/home/ubuntu/Ass4/102flowers/images/image_05416.jpg,barbeton daisy,0.5426572561264038
+/home/ubuntu/Ass4/102flowers/images/image_05416.jpg,sunflower,0.3319202959537506
+/home/ubuntu/Ass4/102flowers/images/image_04360.jpg,ruby-lipped cattleya,0.5439861416816711
+/home/ubuntu/Ass4/102flowers/images/image_03155.jpg,foxglove,0.7064974904060364
+/home/ubuntu/Ass4/102flowers/images/image_03155.jpg,snapdragon,0.25419899821281433
+/home/ubuntu/Ass4/102flowers/images/image_04801.jpg,sword lily,0.5398655533790588
+/home/ubuntu/Ass4/102flowers/images/image_06029.jpg,ruby-lipped cattleya,0.28124576807022095
+/home/ubuntu/Ass4/102flowers/images/image_05098.jpg,hard-leaved pocket orchid,0.589374303817749
+/home/ubuntu/Ass4/102flowers/images/image_02389.jpg,sword lily,0.8226993680000305
+/home/ubuntu/Ass4/102flowers/images/image_04071.jpg,colt's foot,0.3536629378795624
+/home/ubuntu/Ass4/102flowers/images/image_04071.jpg,marigold,0.25137344002723694
+/home/ubuntu/Ass4/102flowers/images/image_05514.jpg,lotus lotus,0.3820575475692749
+/home/ubuntu/Ass4/102flowers/images/image_00495.jpg,cyclamen,0.5742276310920715
+/home/ubuntu/Ass4/102flowers/images/image_01669.jpg,clematis,0.7075775265693665
+/home/ubuntu/Ass4/102flowers/images/image_04205.jpg,wild pansy,0.8939912915229797
+/home/ubuntu/Ass4/102flowers/images/image_01055.jpg,wallflower,0.8685522675514221
+/home/ubuntu/Ass4/102flowers/images/image_04222.jpg,wild pansy,0.8082799315452576
+/home/ubuntu/Ass4/102flowers/images/image_02187.jpg,petunia,0.6375446319580078
+/home/ubuntu/Ass4/102flowers/images/image_03733.jpg,primula,0.3169243633747101
+/home/ubuntu/Ass4/102flowers/images/image_03170.jpg,snapdragon,0.8605748414993286
+/home/ubuntu/Ass4/102flowers/images/image_06101.jpg,silverbush,0.4079868197441101
+/home/ubuntu/Ass4/102flowers/images/image_00032.jpg,passion flower,0.80482017993927
+/home/ubuntu/Ass4/102flowers/images/image_02151.jpg,thorn apple,0.8902893662452698
+/home/ubuntu/Ass4/102flowers/images/image_07751.jpg,mexican petunia,0.7926517724990845
+/home/ubuntu/Ass4/102flowers/images/image_08019.jpg,blackberry lily,0.6387590169906616
+/home/ubuntu/Ass4/102flowers/images/image_07813.jpg,petunia,0.3099183738231659
+/home/ubuntu/Ass4/102flowers/images/image_04558.jpg,lenten rose,0.744239091873169
+/home/ubuntu/Ass4/102flowers/images/image_06072.jpg,spear thistle,0.6732374429702759
+/home/ubuntu/Ass4/102flowers/images/image_01384.jpg,petunia,0.8448511362075806
+/home/ubuntu/Ass4/102flowers/images/image_00379.jpg,water lily,0.8753952383995056
+/home/ubuntu/Ass4/102flowers/images/image_01032.jpg,wallflower,0.8647599816322327
+/home/ubuntu/Ass4/102flowers/images/image_07204.jpg,moon orchid,0.6306078433990479
+/home/ubuntu/Ass4/102flowers/images/image_07204.jpg,lotus lotus,0.4628681242465973
+/home/ubuntu/Ass4/102flowers/images/image_07438.jpg,foxglove,0.8044607043266296
+/home/ubuntu/Ass4/102flowers/images/image_04385.jpg,ruby-lipped cattleya,0.6715310215950012
+/home/ubuntu/Ass4/102flowers/images/image_05686.jpg,daffodil,0.525492787361145
+/home/ubuntu/Ass4/102flowers/images/image_05686.jpg,yellow iris,0.36350131034851074
+/home/ubuntu/Ass4/102flowers/images/image_00981.jpg,wallflower,0.7444955706596375
+/home/ubuntu/Ass4/102flowers/images/image_01488.jpg,petunia,0.898358166217804
+/home/ubuntu/Ass4/102flowers/images/image_01996.jpg,anthurium,0.9285180568695068
+/home/ubuntu/Ass4/102flowers/images/image_00585.jpg,cyclamen,0.9685612916946411
+/home/ubuntu/Ass4/102flowers/images/image_06822.jpg,red ginger,0.907858669757843
+/home/ubuntu/Ass4/102flowers/images/image_07717.jpg,hippeastrum,0.5606930255889893
+/home/ubuntu/Ass4/102flowers/images/image_01846.jpg,lotus lotus,0.8261876702308655
+/home/ubuntu/Ass4/102flowers/images/image_07351.jpg,toad lily,0.5454561114311218
+/home/ubuntu/Ass4/102flowers/images/image_06700.jpg,toad lily,0.285886287689209
+/home/ubuntu/Ass4/102flowers/images/image_04926.jpg,hard-leaved pocket orchid,0.7464174628257751
+/home/ubuntu/Ass4/102flowers/images/image_00805.jpg,frangipani,0.8955802917480469
+/home/ubuntu/Ass4/102flowers/images/image_00328.jpg,water lily,0.9510033130645752
+/home/ubuntu/Ass4/102flowers/images/image_05560.jpg,osteospermum,0.4932498335838318
+/home/ubuntu/Ass4/102flowers/images/image_07775.jpg,mexican petunia,0.8546573519706726
+/home/ubuntu/Ass4/102flowers/images/image_07151.jpg,columbine,0.2909386157989502
+/home/ubuntu/Ass4/102flowers/images/image_05599.jpg,clematis,0.3322846591472626
+/home/ubuntu/Ass4/102flowers/images/image_02034.jpg,anthurium,0.8869876265525818
+/home/ubuntu/Ass4/102flowers/images/image_01596.jpg,clematis,0.2618824243545532
+/home/ubuntu/Ass4/102flowers/images/image_00067.jpg,passion flower,0.8281645774841309
+/home/ubuntu/Ass4/102flowers/images/image_05661.jpg,sword lily,0.25137799978256226
+/home/ubuntu/Ass4/102flowers/images/image_04545.jpg,gazania,0.9386079907417297
+/home/ubuntu/Ass4/102flowers/images/image_03009.jpg,pink-yellow dahlia,0.6349129676818848
+/home/ubuntu/Ass4/102flowers/images/image_03969.jpg,petunia,0.7675413489341736
+/home/ubuntu/Ass4/102flowers/images/image_00710.jpg,watercress,0.4005773961544037
+/home/ubuntu/Ass4/102flowers/images/image_00710.jpg,sword lily,0.25547829270362854
+/home/ubuntu/Ass4/102flowers/images/image_06210.jpg,oxeye daisy,0.37836945056915283
+/home/ubuntu/Ass4/102flowers/images/image_07445.jpg,foxglove,0.2969226837158203
+/home/ubuntu/Ass4/102flowers/images/image_05442.jpg,gazania,0.4944048821926117
+/home/ubuntu/Ass4/102flowers/images/image_06270.jpg,cautleya spicata,0.7426236271858215
+/home/ubuntu/Ass4/102flowers/images/image_01777.jpg,hibiscus,0.8001428246498108
+/home/ubuntu/Ass4/102flowers/images/image_06996.jpg,spear thistle,0.3082139194011688
+/home/ubuntu/Ass4/102flowers/images/image_02310.jpg,english marigold,0.40164878964424133
+/home/ubuntu/Ass4/102flowers/images/image_02310.jpg,barbeton daisy,0.3708338141441345
+/home/ubuntu/Ass4/102flowers/images/image_02310.jpg,sunflower,0.3653047978878021
+/home/ubuntu/Ass4/102flowers/images/image_05114.jpg,hard-leaved pocket orchid,0.9032143354415894
+/home/ubuntu/Ass4/102flowers/images/image_00029.jpg,passion flower,0.9524681568145752
+/home/ubuntu/Ass4/102flowers/images/image_07692.jpg,hibiscus,0.5982190370559692
+/home/ubuntu/Ass4/102flowers/images/image_06438.jpg,monkshood,0.4425504505634308
+/home/ubuntu/Ass4/102flowers/images/image_01414.jpg,petunia,0.9278843402862549
+/home/ubuntu/Ass4/102flowers/images/image_02908.jpg,hibiscus,0.8612586855888367
+/home/ubuntu/Ass4/102flowers/images/image_07634.jpg,camellia,0.3657998740673065
+/home/ubuntu/Ass4/102flowers/images/image_02009.jpg,anthurium,0.5837041735649109
+/home/ubuntu/Ass4/102flowers/images/image_02009.jpg,camellia,0.4700470566749573
+/home/ubuntu/Ass4/102flowers/images/image_04076.jpg,colt's foot,0.8567336797714233
+/home/ubuntu/Ass4/102flowers/images/image_03787.jpg,cape flower,0.8720300793647766
+/home/ubuntu/Ass4/102flowers/images/image_08000.jpg,blackberry lily,0.806930422782898
+/home/ubuntu/Ass4/102flowers/images/image_03392.jpg,fritillary,0.931282103061676
+/home/ubuntu/Ass4/102flowers/images/image_00361.jpg,water lily,0.5515071153640747
+/home/ubuntu/Ass4/102flowers/images/image_01921.jpg,lotus lotus,0.8140989542007446
+/home/ubuntu/Ass4/102flowers/images/image_03443.jpg,bird of paradise,0.5321497321128845
+/home/ubuntu/Ass4/102flowers/images/image_00551.jpg,cyclamen,0.5218483209609985
+/home/ubuntu/Ass4/102flowers/images/image_00207.jpg,passion flower,0.7112900018692017
+/home/ubuntu/Ass4/102flowers/images/image_06565.jpg,colt's foot,0.4676174819469452
+/home/ubuntu/Ass4/102flowers/images/image_06565.jpg,common dandelion,0.2638726830482483
+/home/ubuntu/Ass4/102flowers/images/image_07422.jpg,foxglove,0.8978559374809265
+/home/ubuntu/Ass4/102flowers/images/image_07849.jpg,bromelia,0.7075730562210083
+/home/ubuntu/Ass4/102flowers/images/image_00539.jpg,cyclamen,0.5155008435249329
+/home/ubuntu/Ass4/102flowers/images/image_06570.jpg,common dandelion,0.8854121565818787
+/home/ubuntu/Ass4/102flowers/images/image_00977.jpg,wallflower,0.6565024852752686
+/home/ubuntu/Ass4/102flowers/images/image_03411.jpg,fritillary,0.8917130827903748
+/home/ubuntu/Ass4/102flowers/images/image_03076.jpg,bee balm,0.8279103636741638
+/home/ubuntu/Ass4/102flowers/images/image_00330.jpg,water lily,0.6675965189933777
+/home/ubuntu/Ass4/102flowers/images/image_00330.jpg,tiger lily,0.2964271306991577
+/home/ubuntu/Ass4/102flowers/images/image_00483.jpg,cyclamen,0.40204110741615295
+/home/ubuntu/Ass4/102flowers/images/image_00483.jpg,water lily,0.2633909583091736
+/home/ubuntu/Ass4/102flowers/images/image_00863.jpg,frangipani,0.9318994879722595
+/home/ubuntu/Ass4/102flowers/images/image_00227.jpg,passion flower,0.9234364032745361
+/home/ubuntu/Ass4/102flowers/images/image_00374.jpg,water lily,0.8827679753303528
+/home/ubuntu/Ass4/102flowers/images/image_05874.jpg,english marigold,0.3939637243747711
+/home/ubuntu/Ass4/102flowers/images/image_01893.jpg,lotus lotus,0.7948115468025208
+/home/ubuntu/Ass4/102flowers/images/image_01893.jpg,water lily,0.3789917528629303
+/home/ubuntu/Ass4/102flowers/images/image_00563.jpg,cyclamen,0.8424224257469177
+/home/ubuntu/Ass4/102flowers/images/image_07878.jpg,bromelia,0.8344077467918396
+/home/ubuntu/Ass4/102flowers/images/image_00567.jpg,water lily,0.37988126277923584
+/home/ubuntu/Ass4/102flowers/images/image_04201.jpg,wild pansy,0.5574371814727783
+/home/ubuntu/Ass4/102flowers/images/image_00267.jpg,water lily,0.8927263021469116
+/home/ubuntu/Ass4/102flowers/images/image_00808.jpg,frangipani,0.952512800693512
+/home/ubuntu/Ass4/102flowers/images/image_06695.jpg,toad lily,0.38559234142303467
+/home/ubuntu/Ass4/102flowers/images/image_02857.jpg,bishop of llandaff,0.7675436735153198
+/home/ubuntu/Ass4/102flowers/images/image_06857.jpg,prince of wales feathers,0.8821823596954346
+/home/ubuntu/Ass4/102flowers/images/image_04190.jpg,wild pansy,0.8003481030464172
+/home/ubuntu/Ass4/102flowers/images/image_02432.jpg,sword lily,0.6226398348808289
+/home/ubuntu/Ass4/102flowers/images/image_02432.jpg,sweet pea,0.6187220215797424
+/home/ubuntu/Ass4/102flowers/images/image_01018.jpg,wallflower,0.43339958786964417
+/home/ubuntu/Ass4/102flowers/images/image_02778.jpg,bishop of llandaff,0.7311175465583801
+/home/ubuntu/Ass4/102flowers/images/image_06702.jpg,toad lily,0.2507968544960022
+/home/ubuntu/Ass4/102flowers/images/image_03832.jpg,purple coneflower,0.8053838014602661
+/home/ubuntu/Ass4/102flowers/images/image_02512.jpg,thorn apple,0.7390802502632141
+/home/ubuntu/Ass4/102flowers/images/image_02512.jpg,morning glory,0.7236140966415405
+/home/ubuntu/Ass4/102flowers/images/image_00107.jpg,passion flower,0.82376629114151
+/home/ubuntu/Ass4/102flowers/images/image_05581.jpg,osteospermum,0.874484121799469
+/home/ubuntu/Ass4/102flowers/images/image_07236.jpg,gaura,0.8263553380966187
+/home/ubuntu/Ass4/102flowers/images/image_02983.jpg,pink-yellow dahlia,0.8348734974861145
+/home/ubuntu/Ass4/102flowers/images/image_04188.jpg,wild pansy,0.7398791909217834
+/home/ubuntu/Ass4/102flowers/images/image_05374.jpg,pincushion flower,0.8683392405509949
+/home/ubuntu/Ass4/102flowers/images/image_06312.jpg,common dandelion,0.5047628283500671
+/home/ubuntu/Ass4/102flowers/images/image_06312.jpg,colt's foot,0.411735862493515
+/home/ubuntu/Ass4/102flowers/images/image_07205.jpg,moon orchid,0.5619821548461914
+/home/ubuntu/Ass4/102flowers/images/image_05980.jpg,windflower,0.35395321249961853
+/home/ubuntu/Ass4/102flowers/images/image_06808.jpg,red ginger,0.6469823718070984
+/home/ubuntu/Ass4/102flowers/images/image_05017.jpg,marigold,0.5841649770736694
+/home/ubuntu/Ass4/102flowers/images/image_03158.jpg,primula,0.5722437500953674
+/home/ubuntu/Ass4/102flowers/images/image_05924.jpg,bearded iris,0.5302042961120605
+/home/ubuntu/Ass4/102flowers/images/image_02402.jpg,sword lily,0.3984971344470978
+/home/ubuntu/Ass4/102flowers/images/image_03963.jpg,petunia,0.4769265949726105
+/home/ubuntu/Ass4/102flowers/images/image_03997.jpg,colt's foot,0.9152705669403076
+/home/ubuntu/Ass4/102flowers/images/image_05191.jpg,english marigold,0.5195686221122742
+/home/ubuntu/Ass4/102flowers/images/image_01184.jpg,rose,0.8507117033004761
+/home/ubuntu/Ass4/102flowers/images/image_04602.jpg,columbine,0.410207599401474
+/home/ubuntu/Ass4/102flowers/images/image_06393.jpg,yellow iris,0.6577035784721375
+/home/ubuntu/Ass4/102flowers/images/image_06883.jpg,carnation,0.3837433457374573
+/home/ubuntu/Ass4/102flowers/images/image_01814.jpg,hippeastrum,0.4241158068180084
+/home/ubuntu/Ass4/102flowers/images/image_01814.jpg,columbine,0.3287135064601898
+/home/ubuntu/Ass4/102flowers/images/image_02767.jpg,bishop of llandaff,0.3299727439880371
+/home/ubuntu/Ass4/102flowers/images/image_02767.jpg,barbeton daisy,0.29579952359199524
+/home/ubuntu/Ass4/102flowers/images/image_02598.jpg,monkshood,0.36655527353286743
+/home/ubuntu/Ass4/102flowers/images/image_02598.jpg,stemless gentian,0.2874816060066223
+/home/ubuntu/Ass4/102flowers/images/image_03429.jpg,fritillary,0.9469456672668457
+/home/ubuntu/Ass4/102flowers/images/image_03907.jpg,purple coneflower,0.8442218899726868
+/home/ubuntu/Ass4/102flowers/images/image_00214.jpg,passion flower,0.900211751461029
+/home/ubuntu/Ass4/102flowers/images/image_04719.jpg,pelargonium,0.5961368083953857
+/home/ubuntu/Ass4/102flowers/images/image_05680.jpg,hippeastrum,0.30897900462150574
+/home/ubuntu/Ass4/102flowers/images/image_05234.jpg,stemless gentian,0.4135103225708008
+/home/ubuntu/Ass4/102flowers/images/image_02144.jpg,thorn apple,0.35232630372047424
+/home/ubuntu/Ass4/102flowers/images/image_02144.jpg,love in the mist,0.2789680063724518
+/home/ubuntu/Ass4/102flowers/images/image_04319.jpg,peruvian lily,0.7209717035293579
+/home/ubuntu/Ass4/102flowers/images/image_06083.jpg,spear thistle,0.6707996129989624
+/home/ubuntu/Ass4/102flowers/images/image_04399.jpg,ruby-lipped cattleya,0.8205989003181458
+/home/ubuntu/Ass4/102flowers/images/image_00129.jpg,passion flower,0.8264080286026001
+/home/ubuntu/Ass4/102flowers/images/image_04468.jpg,canna lily,0.6705884337425232
+/home/ubuntu/Ass4/102flowers/images/image_04468.jpg,hippeastrum,0.5767332315444946
+/home/ubuntu/Ass4/102flowers/images/image_00768.jpg,sword lily,0.6234822869300842
+/home/ubuntu/Ass4/102flowers/images/image_01067.jpg,wallflower,0.9637818336486816
+/home/ubuntu/Ass4/102flowers/images/image_06926.jpg,camellia,0.4750669598579407
+/home/ubuntu/Ass4/102flowers/images/image_06926.jpg,azalea,0.35205456614494324
+/home/ubuntu/Ass4/102flowers/images/image_04281.jpg,sunflower,0.327290803194046
+/home/ubuntu/Ass4/102flowers/images/image_04487.jpg,gazania,0.9471985697746277
+/home/ubuntu/Ass4/102flowers/images/image_00158.jpg,passion flower,0.8669474124908447
+/home/ubuntu/Ass4/102flowers/images/image_07441.jpg,foxglove,0.9739573001861572
+/home/ubuntu/Ass4/102flowers/images/image_06121.jpg,silverbush,0.8036512136459351
+/home/ubuntu/Ass4/102flowers/images/image_05808.jpg,great masterwort,0.5398841500282288
+/home/ubuntu/Ass4/102flowers/images/image_00777.jpg,watercress,0.6498398184776306
+/home/ubuntu/Ass4/102flowers/images/image_00571.jpg,cyclamen,0.5913324356079102
+/home/ubuntu/Ass4/102flowers/images/image_03525.jpg,sweet william,0.8686869740486145
+/home/ubuntu/Ass4/102flowers/images/image_08110.jpg,tiger lily,0.836593508720398
+/home/ubuntu/Ass4/102flowers/images/image_08183.jpg,japanese anemone,0.8089663982391357
+/home/ubuntu/Ass4/102flowers/images/image_02273.jpg,barbeton daisy,0.9386640787124634
+/home/ubuntu/Ass4/102flowers/images/image_02437.jpg,sword lily,0.881245493888855
+/home/ubuntu/Ass4/102flowers/images/image_07303.jpg,foxglove,0.8966858386993408
+/home/ubuntu/Ass4/102flowers/images/image_05659.jpg,sweet pea,0.8658697605133057
+/home/ubuntu/Ass4/102flowers/images/image_02125.jpg,thorn apple,0.7887707352638245
+/home/ubuntu/Ass4/102flowers/images/image_00115.jpg,passion flower,0.8742696046829224
+/home/ubuntu/Ass4/102flowers/images/image_06963.jpg,mexican aster,0.5763450860977173
+/home/ubuntu/Ass4/102flowers/images/image_00006.jpg,passion flower,0.8876476883888245
+/home/ubuntu/Ass4/102flowers/images/image_02616.jpg,columbine,0.4157157242298126
+/home/ubuntu/Ass4/102flowers/images/image_02616.jpg,windflower,0.39393189549446106
+/home/ubuntu/Ass4/102flowers/images/image_01755.jpg,hibiscus,0.8391738533973694
+/home/ubuntu/Ass4/102flowers/images/image_07428.jpg,foxglove,0.9197207689285278
+/home/ubuntu/Ass4/102flowers/images/image_07657.jpg,rose,0.41348209977149963
+/home/ubuntu/Ass4/102flowers/images/image_07657.jpg,camellia,0.29254886507987976
+/home/ubuntu/Ass4/102flowers/images/image_05742.jpg,daffodil,0.3145432472229004
+/home/ubuntu/Ass4/102flowers/images/image_03250.jpg,californian poppy,0.9191044569015503
+/home/ubuntu/Ass4/102flowers/images/image_05383.jpg,pincushion flower,0.7383273839950562
+/home/ubuntu/Ass4/102flowers/images/image_01050.jpg,wallflower,0.8965450525283813
+/home/ubuntu/Ass4/102flowers/images/image_03338.jpg,bird of paradise,0.9469572305679321
+/home/ubuntu/Ass4/102flowers/images/image_07910.jpg,barbeton daisy,0.38785502314567566
+/home/ubuntu/Ass4/102flowers/images/image_00646.jpg,watercress,0.8222487568855286
+/home/ubuntu/Ass4/102flowers/images/image_01343.jpg,petunia,0.8653407096862793
+/home/ubuntu/Ass4/102flowers/images/image_05185.jpg,english marigold,0.8086015582084656
+/home/ubuntu/Ass4/102flowers/images/image_07201.jpg,moon orchid,0.6570698022842407
+/home/ubuntu/Ass4/102flowers/images/image_01720.jpg,hibiscus,0.8822228908538818
+/home/ubuntu/Ass4/102flowers/images/image_01205.jpg,rose,0.8329806923866272
+/home/ubuntu/Ass4/102flowers/images/image_07021.jpg,desert-rose,0.4091072082519531
+/home/ubuntu/Ass4/102flowers/images/image_07021.jpg,snapdragon,0.38002967834472656
+/home/ubuntu/Ass4/102flowers/images/image_07021.jpg,foxglove,0.29139408469200134
+/home/ubuntu/Ass4/102flowers/images/image_07021.jpg,sweet pea,0.2598831057548523
+/home/ubuntu/Ass4/102flowers/images/image_03851.jpg,purple coneflower,0.5579370856285095
+/home/ubuntu/Ass4/102flowers/images/image_03554.jpg,azalea,0.8475024700164795
+/home/ubuntu/Ass4/102flowers/images/image_01648.jpg,sword lily,0.3946535587310791
+/home/ubuntu/Ass4/102flowers/images/image_01648.jpg,peruvian lily,0.31877604126930237
+/home/ubuntu/Ass4/102flowers/images/image_00758.jpg,watercress,0.8625403642654419
+/home/ubuntu/Ass4/102flowers/images/image_01312.jpg,trumpet creeper,0.2550574839115143
+/home/ubuntu/Ass4/102flowers/images/image_03166.jpg,snapdragon,0.586861252784729
+/home/ubuntu/Ass4/102flowers/images/image_03166.jpg,sword lily,0.4148472249507904
+/home/ubuntu/Ass4/102flowers/images/image_04024.jpg,colt's foot,0.7258480787277222
+/home/ubuntu/Ass4/102flowers/images/image_07194.jpg,tiger lily,0.5580450296401978
+/home/ubuntu/Ass4/102flowers/images/image_02267.jpg,barbeton daisy,0.3536086082458496
+/home/ubuntu/Ass4/102flowers/images/image_01059.jpg,wallflower,0.9239035844802856
+/home/ubuntu/Ass4/102flowers/images/image_01795.jpg,hibiscus,0.6889616847038269
+/home/ubuntu/Ass4/102flowers/images/image_00066.jpg,passion flower,0.9421854019165039
+/home/ubuntu/Ass4/102flowers/images/image_04098.jpg,artichoke,0.9248741865158081
+/home/ubuntu/Ass4/102flowers/images/image_01344.jpg,petunia,0.6584243178367615
+/home/ubuntu/Ass4/102flowers/images/image_00474.jpg,cyclamen,0.7939473986625671
+/home/ubuntu/Ass4/102flowers/images/image_02690.jpg,geranium,0.7751369476318359
+/home/ubuntu/Ass4/102flowers/images/image_01640.jpg,clematis,0.6972777247428894
+/home/ubuntu/Ass4/102flowers/images/image_07052.jpg,hard-leaved pocket orchid,0.3845168352127075
+/home/ubuntu/Ass4/102flowers/images/image_02926.jpg,pink-yellow dahlia,0.8001629114151001
+/home/ubuntu/Ass4/102flowers/images/image_03315.jpg,bird of paradise,0.9052444696426392
+/home/ubuntu/Ass4/102flowers/images/image_04869.jpg,hippeastrum,0.40814855694770813
+/home/ubuntu/Ass4/102flowers/images/image_04869.jpg,wild pansy,0.38793855905532837
+/home/ubuntu/Ass4/102flowers/images/image_05778.jpg,king protea,0.6873031854629517
+/home/ubuntu/Ass4/102flowers/images/image_03334.jpg,bird of paradise,0.877292275428772
+/home/ubuntu/Ass4/102flowers/images/image_01969.jpg,tiger lily,0.3883282244205475
+/home/ubuntu/Ass4/102flowers/images/image_03077.jpg,gaura,0.49748262763023376
+/home/ubuntu/Ass4/102flowers/images/image_03077.jpg,bee balm,0.25833508372306824
+/home/ubuntu/Ass4/102flowers/images/image_00164.jpg,passion flower,0.9081737399101257
+/home/ubuntu/Ass4/102flowers/images/image_01133.jpg,wallflower,0.8640470504760742
+/home/ubuntu/Ass4/102flowers/images/image_01222.jpg,rose,0.5831762552261353
+/home/ubuntu/Ass4/102flowers/images/image_03897.jpg,purple coneflower,0.9484848976135254
+/home/ubuntu/Ass4/102flowers/images/image_07340.jpg,foxglove,0.9245769381523132
+/home/ubuntu/Ass4/102flowers/images/image_05430.jpg,sunflower,0.7628459334373474
+/home/ubuntu/Ass4/102flowers/images/image_06627.jpg,sword lily,0.3703368604183197
+/home/ubuntu/Ass4/102flowers/images/image_01244.jpg,rose,0.5713358521461487
+/home/ubuntu/Ass4/102flowers/images/image_02024.jpg,rose,0.847702145576477
+/home/ubuntu/Ass4/102flowers/images/image_01946.jpg,lotus lotus,0.6523857116699219
+/home/ubuntu/Ass4/102flowers/images/image_07826.jpg,mexican petunia,0.5373130440711975
+/home/ubuntu/Ass4/102flowers/images/image_04863.jpg,daffodil,0.2636367976665497
+/home/ubuntu/Ass4/102flowers/images/image_01201.jpg,rose,0.5742878913879395
+/home/ubuntu/Ass4/102flowers/images/image_05068.jpg,orange dahlia,0.7553892731666565
+/home/ubuntu/Ass4/102flowers/images/image_02965.jpg,pink-yellow dahlia,0.9200620651245117
+/home/ubuntu/Ass4/102flowers/images/image_01380.jpg,petunia,0.8792819976806641
+/home/ubuntu/Ass4/102flowers/images/image_00668.jpg,watercress,0.8089670538902283
+/home/ubuntu/Ass4/102flowers/images/image_05286.jpg,tree poppy,0.43627744913101196
+/home/ubuntu/Ass4/102flowers/images/image_05230.jpg,stemless gentian,0.6020061373710632
+/home/ubuntu/Ass4/102flowers/images/image_03043.jpg,bee balm,0.7252565622329712
+/home/ubuntu/Ass4/102flowers/images/image_00405.jpg,water lily,0.9427793622016907
+/home/ubuntu/Ass4/102flowers/images/image_05658.jpg,anthurium,0.3258447051048279
+/home/ubuntu/Ass4/102flowers/images/image_01163.jpg,rose,0.8480774164199829
+/home/ubuntu/Ass4/102flowers/images/image_02802.jpg,bishop of llandaff,0.8407465219497681
+/home/ubuntu/Ass4/102flowers/images/image_02098.jpg,magnolia,0.3431851863861084
+/home/ubuntu/Ass4/102flowers/images/image_02098.jpg,thorn apple,0.2949289381504059
+/home/ubuntu/Ass4/102flowers/images/image_05562.jpg,osteospermum,0.4161537289619446
+/home/ubuntu/Ass4/102flowers/images/image_05562.jpg,oxeye daisy,0.2626774311065674
+/home/ubuntu/Ass4/102flowers/images/image_06240.jpg,oxeye daisy,0.677745521068573
+/home/ubuntu/Ass4/102flowers/images/image_06547.jpg,common dandelion,0.8071845173835754
+/home/ubuntu/Ass4/102flowers/images/image_05561.jpg,osteospermum,0.7074608206748962
+/home/ubuntu/Ass4/102flowers/images/image_02699.jpg,geranium,0.7550504803657532
+/home/ubuntu/Ass4/102flowers/images/image_04860.jpg,hippeastrum,0.6980903148651123
+/home/ubuntu/Ass4/102flowers/images/image_00520.jpg,cyclamen,0.8466641902923584
+/home/ubuntu/Ass4/102flowers/images/image_03217.jpg,californian poppy,0.8983308672904968
+/home/ubuntu/Ass4/102flowers/images/image_03924.jpg,petunia,0.6291236281394958
+/home/ubuntu/Ass4/102flowers/images/image_03696.jpg,primula,0.9314593076705933
+/home/ubuntu/Ass4/102flowers/images/image_04224.jpg,wild pansy,0.6060342788696289
+/home/ubuntu/Ass4/102flowers/images/image_03207.jpg,californian poppy,0.8833959102630615
+/home/ubuntu/Ass4/102flowers/images/image_03887.jpg,purple coneflower,0.9115439057350159
+/home/ubuntu/Ass4/102flowers/images/image_03657.jpg,primula,0.7330665588378906
+/home/ubuntu/Ass4/102flowers/images/image_02754.jpg,bishop of llandaff,0.8572990298271179
+/home/ubuntu/Ass4/102flowers/images/image_00244.jpg,passion flower,0.7974834442138672
+/home/ubuntu/Ass4/102flowers/images/image_06790.jpg,cautleya spicata,0.43966564536094666
+/home/ubuntu/Ass4/102flowers/images/image_06002.jpg,oxeye daisy,0.5293808579444885
+/home/ubuntu/Ass4/102flowers/images/image_07324.jpg,foxglove,0.8958646655082703
+/home/ubuntu/Ass4/102flowers/images/image_01107.jpg,wallflower,0.8778650760650635
+/home/ubuntu/Ass4/102flowers/images/image_00273.jpg,water lily,0.7093393206596375
+/home/ubuntu/Ass4/102flowers/images/image_08072.jpg,carnation,0.8322721719741821
+/home/ubuntu/Ass4/102flowers/images/image_05161.jpg,barbeton daisy,0.703068733215332
+/home/ubuntu/Ass4/102flowers/images/image_06432.jpg,monkshood,0.25871703028678894
+/home/ubuntu/Ass4/102flowers/images/image_06432.jpg,foxglove,0.25096529722213745
+/home/ubuntu/Ass4/102flowers/images/image_07921.jpg,gazania,0.37379351258277893
+/home/ubuntu/Ass4/102flowers/images/image_00196.jpg,passion flower,0.9394541382789612
+/home/ubuntu/Ass4/102flowers/images/image_01187.jpg,hippeastrum,0.28124624490737915
+/home/ubuntu/Ass4/102flowers/images/image_01387.jpg,petunia,0.6966278553009033
+/home/ubuntu/Ass4/102flowers/images/image_06373.jpg,daffodil,0.5163013339042664
+/home/ubuntu/Ass4/102flowers/images/image_04057.jpg,colt's foot,0.8815345764160156
+/home/ubuntu/Ass4/102flowers/images/image_00464.jpg,cyclamen,0.39670854806900024
+/home/ubuntu/Ass4/102flowers/images/image_00464.jpg,lotus lotus,0.3232180178165436
+/home/ubuntu/Ass4/102flowers/images/image_05859.jpg,black-eyed susan,0.8196091651916504
+/home/ubuntu/Ass4/102flowers/images/image_05720.jpg,bearded iris,0.2865564227104187
+/home/ubuntu/Ass4/102flowers/images/image_00588.jpg,cyclamen,0.879278302192688
+/home/ubuntu/Ass4/102flowers/images/image_03110.jpg,snapdragon,0.5689420104026794
+/home/ubuntu/Ass4/102flowers/images/image_06931.jpg,osteospermum,0.4960068166255951
+/home/ubuntu/Ass4/102flowers/images/image_06931.jpg,mexican aster,0.49448299407958984
+/home/ubuntu/Ass4/102flowers/images/image_06696.jpg,toad lily,0.7850434184074402
+/home/ubuntu/Ass4/102flowers/images/image_02017.jpg,water lily,0.5439637303352356
+/home/ubuntu/Ass4/102flowers/images/image_01444.jpg,petunia,0.8148664832115173
+/home/ubuntu/Ass4/102flowers/images/image_06688.jpg,buttercup,0.7656745314598083
+/home/ubuntu/Ass4/102flowers/images/image_01105.jpg,wallflower,0.8622031211853027
+/home/ubuntu/Ass4/102flowers/images/image_06273.jpg,cautleya spicata,0.26976069808006287
+/home/ubuntu/Ass4/102flowers/images/image_04506.jpg,gazania,0.9475746750831604
+/home/ubuntu/Ass4/102flowers/images/image_07450.jpg,foxglove,0.8733933568000793
+/home/ubuntu/Ass4/102flowers/images/image_05184.jpg,barbeton daisy,0.5128926634788513
+/home/ubuntu/Ass4/102flowers/images/image_07468.jpg,bougainvillea,0.9214896559715271
+/home/ubuntu/Ass4/102flowers/images/image_03827.jpg,cape flower,0.9338599443435669
+/home/ubuntu/Ass4/102flowers/images/image_07664.jpg,passion flower,0.5884969830513
+/home/ubuntu/Ass4/102flowers/images/image_07664.jpg,lenten rose,0.3561248183250427
+/home/ubuntu/Ass4/102flowers/images/image_06953.jpg,mexican aster,0.5258215069770813
+/home/ubuntu/Ass4/102flowers/images/image_06953.jpg,tree mallow,0.2695285975933075
+/home/ubuntu/Ass4/102flowers/images/image_02226.jpg,barbeton daisy,0.9396026134490967
+/home/ubuntu/Ass4/102flowers/images/image_01026.jpg,wallflower,0.9116441011428833
+/home/ubuntu/Ass4/102flowers/images/image_01485.jpg,petunia,0.9587945342063904
+/home/ubuntu/Ass4/102flowers/images/image_02858.jpg,bishop of llandaff,0.8978344202041626
+/home/ubuntu/Ass4/102flowers/images/image_02353.jpg,sword lily,0.7309185862541199
+/home/ubuntu/Ass4/102flowers/images/image_02208.jpg,barbeton daisy,0.7406676411628723
+/home/ubuntu/Ass4/102flowers/images/image_05766.jpg,bird of paradise,0.26969897747039795
+/home/ubuntu/Ass4/102flowers/images/image_00063.jpg,passion flower,0.9008626937866211
+/home/ubuntu/Ass4/102flowers/images/image_03756.jpg,cape flower,0.9235169887542725
+/home/ubuntu/Ass4/102flowers/images/image_04568.jpg,lenten rose,0.659991979598999
+/home/ubuntu/Ass4/102flowers/images/image_04568.jpg,windflower,0.6000046133995056
+/home/ubuntu/Ass4/102flowers/images/image_02542.jpg,tree mallow,0.7041829824447632
+/home/ubuntu/Ass4/102flowers/images/image_05386.jpg,pincushion flower,0.8613724112510681
+/home/ubuntu/Ass4/102flowers/images/image_05379.jpg,pincushion flower,0.5257073640823364
+/home/ubuntu/Ass4/102flowers/images/image_06989.jpg,artichoke,0.42119595408439636
+/home/ubuntu/Ass4/102flowers/images/image_00814.jpg,frangipani,0.9367964267730713
+/home/ubuntu/Ass4/102flowers/images/image_04284.jpg,peruvian lily,0.7770990133285522
+/home/ubuntu/Ass4/102flowers/images/image_00954.jpg,wallflower,0.7120470404624939
+/home/ubuntu/Ass4/102flowers/images/image_05174.jpg,barbeton daisy,0.539362370967865
+/home/ubuntu/Ass4/102flowers/images/image_04465.jpg,canna lily,0.716171145439148
+/home/ubuntu/Ass4/102flowers/images/image_00210.jpg,passion flower,0.9498797655105591
+/home/ubuntu/Ass4/102flowers/images/image_02019.jpg,anthurium,0.7029236555099487
+/home/ubuntu/Ass4/102flowers/images/image_01109.jpg,wallflower,0.7660611271858215
+/home/ubuntu/Ass4/102flowers/images/image_02027.jpg,anthurium,0.4563039243221283
+/home/ubuntu/Ass4/102flowers/images/image_05041.jpg,orange dahlia,0.8533229231834412
+/home/ubuntu/Ass4/102flowers/images/image_06112.jpg,silverbush,0.6840034127235413
+/home/ubuntu/Ass4/102flowers/images/image_03018.jpg,pink-yellow dahlia,0.9522923827171326
+/home/ubuntu/Ass4/102flowers/images/image_07286.jpg,cape flower,0.953527569770813
+/home/ubuntu/Ass4/102flowers/images/image_04324.jpg,peruvian lily,0.6496825218200684
+/home/ubuntu/Ass4/102flowers/images/image_04324.jpg,blackberry lily,0.3567541241645813
+/home/ubuntu/Ass4/102flowers/images/image_04362.jpg,ruby-lipped cattleya,0.8867207765579224
+/home/ubuntu/Ass4/102flowers/images/image_01586.jpg,clematis,0.8647582530975342
+/home/ubuntu/Ass4/102flowers/images/image_06732.jpg,toad lily,0.4728086292743683
+/home/ubuntu/Ass4/102flowers/images/image_03461.jpg,great masterwort,0.5092885494232178
+/home/ubuntu/Ass4/102flowers/images/image_03461.jpg,pincushion flower,0.2690335512161255
+/home/ubuntu/Ass4/102flowers/images/image_03304.jpg,bird of paradise,0.643190860748291
+/home/ubuntu/Ass4/102flowers/images/image_05550.jpg,osteospermum,0.7386627793312073
+/home/ubuntu/Ass4/102flowers/images/image_03561.jpg,azalea,0.6685774326324463
+/home/ubuntu/Ass4/102flowers/images/image_06364.jpg,yellow iris,0.4579031765460968
+/home/ubuntu/Ass4/102flowers/images/image_02720.jpg,geranium,0.7846335172653198
+/home/ubuntu/Ass4/102flowers/images/image_07031.jpg,foxglove,0.5696033835411072
+/home/ubuntu/Ass4/102flowers/images/image_05672.jpg,water lily,0.7069947719573975
+/home/ubuntu/Ass4/102flowers/images/image_08071.jpg,carnation,0.6523162126541138
+/home/ubuntu/Ass4/102flowers/images/image_07905.jpg,barbeton daisy,0.6862544417381287
+/home/ubuntu/Ass4/102flowers/images/image_03574.jpg,azalea,0.5230309367179871
+/home/ubuntu/Ass4/102flowers/images/image_03290.jpg,bird of paradise,0.7706423401832581
+/home/ubuntu/Ass4/102flowers/images/image_04982.jpg,marigold,0.8745008111000061
+/home/ubuntu/Ass4/102flowers/images/image_03932.jpg,hard-leaved pocket orchid,0.34727153182029724
+/home/ubuntu/Ass4/102flowers/images/image_03325.jpg,bird of paradise,0.921623170375824
+/home/ubuntu/Ass4/102flowers/images/image_01556.jpg,thorn apple,0.34801921248435974
+/home/ubuntu/Ass4/102flowers/images/image_01556.jpg,morning glory,0.2600637376308441
+/home/ubuntu/Ass4/102flowers/images/image_02855.jpg,bishop of llandaff,0.8498414754867554
+/home/ubuntu/Ass4/102flowers/images/image_05730.jpg,yellow iris,0.469537615776062
+/home/ubuntu/Ass4/102flowers/images/image_03375.jpg,fritillary,0.9222729802131653
+/home/ubuntu/Ass4/102flowers/images/image_03731.jpg,petunia,0.9397578835487366
+/home/ubuntu/Ass4/102flowers/images/image_03103.jpg,snapdragon,0.6567065119743347
+/home/ubuntu/Ass4/102flowers/images/image_03103.jpg,primula,0.5173743367195129
+/home/ubuntu/Ass4/102flowers/images/image_03024.jpg,pink-yellow dahlia,0.8911209106445312
+/home/ubuntu/Ass4/102flowers/images/image_01113.jpg,wallflower,0.9212121367454529
+/home/ubuntu/Ass4/102flowers/images/image_03193.jpg,californian poppy,0.5975112318992615
+/home/ubuntu/Ass4/102flowers/images/image_04073.jpg,colt's foot,0.8353630304336548
+/home/ubuntu/Ass4/102flowers/images/image_04861.jpg,hibiscus,0.38420233130455017
+/home/ubuntu/Ass4/102flowers/images/image_03735.jpg,cape flower,0.9421943426132202
+/home/ubuntu/Ass4/102flowers/images/image_04660.jpg,buttercup,0.5906568765640259
+/home/ubuntu/Ass4/102flowers/images/image_00427.jpg,water lily,0.9179620742797852
+/home/ubuntu/Ass4/102flowers/images/image_03995.jpg,colt's foot,0.7851280570030212
+/home/ubuntu/Ass4/102flowers/images/image_02333.jpg,sword lily,0.8530609607696533
+/home/ubuntu/Ass4/102flowers/images/image_03251.jpg,californian poppy,0.8398352861404419
+/home/ubuntu/Ass4/102flowers/images/image_03268.jpg,californian poppy,0.8534876108169556
+/home/ubuntu/Ass4/102flowers/images/image_03040.jpg,bee balm,0.7883700132369995
+/home/ubuntu/Ass4/102flowers/images/image_00093.jpg,passion flower,0.4971824884414673
+/home/ubuntu/Ass4/102flowers/images/image_07408.jpg,rose,0.36755937337875366
+/home/ubuntu/Ass4/102flowers/images/image_06211.jpg,oxeye daisy,0.7736288905143738
+/home/ubuntu/Ass4/102flowers/images/image_06309.jpg,colt's foot,0.45531243085861206
+/home/ubuntu/Ass4/102flowers/images/image_06309.jpg,common dandelion,0.44990843534469604
+/home/ubuntu/Ass4/102flowers/images/image_08117.jpg,ball moss,0.7957121729850769
+/home/ubuntu/Ass4/102flowers/images/image_05142.jpg,hard-leaved pocket orchid,0.8779510855674744
+/home/ubuntu/Ass4/102flowers/images/image_06437.jpg,foxglove,0.34526747465133667
+/home/ubuntu/Ass4/102flowers/images/image_01013.jpg,wallflower,0.4382334053516388
+/home/ubuntu/Ass4/102flowers/images/image_03052.jpg,bee balm,0.8680832982063293
+/home/ubuntu/Ass4/102flowers/images/image_06692.jpg,watercress,0.33951637148857117
+/home/ubuntu/Ass4/102flowers/images/image_04028.jpg,colt's foot,0.6205034255981445
+/home/ubuntu/Ass4/102flowers/images/image_00682.jpg,watercress,0.5781150460243225
+/home/ubuntu/Ass4/102flowers/images/image_00926.jpg,frangipani,0.9160137176513672
+/home/ubuntu/Ass4/102flowers/images/image_02590.jpg,foxglove,0.26726073026657104
+/home/ubuntu/Ass4/102flowers/images/image_04124.jpg,artichoke,0.5571170449256897
+/home/ubuntu/Ass4/102flowers/images/image_01351.jpg,petunia,0.3708442449569702
+/home/ubuntu/Ass4/102flowers/images/image_01674.jpg,clematis,0.4025995433330536
+/home/ubuntu/Ass4/102flowers/images/image_03962.jpg,petunia,0.8825321197509766
+/home/ubuntu/Ass4/102flowers/images/image_02624.jpg,frangipani,0.6009058952331543
+/home/ubuntu/Ass4/102flowers/images/image_03485.jpg,sweet william,0.44959744811058044
+/home/ubuntu/Ass4/102flowers/images/image_06382.jpg,yellow iris,0.6213499903678894
+/home/ubuntu/Ass4/102flowers/images/image_05322.jpg,tree poppy,0.7225552797317505
+/home/ubuntu/Ass4/102flowers/images/image_05564.jpg,osteospermum,0.8437294363975525
+/home/ubuntu/Ass4/102flowers/images/image_01317.jpg,daffodil,0.29710206389427185
+/home/ubuntu/Ass4/102flowers/images/image_05692.jpg,daffodil,0.25160643458366394
+/home/ubuntu/Ass4/102flowers/images/image_00699.jpg,watercress,0.6579688787460327
+/home/ubuntu/Ass4/102flowers/images/image_00699.jpg,peruvian lily,0.48322850465774536
+/home/ubuntu/Ass4/102flowers/images/image_01487.jpg,petunia,0.9315682649612427
+/home/ubuntu/Ass4/102flowers/images/image_04827.jpg,desert-rose,0.7149803042411804
+/home/ubuntu/Ass4/102flowers/images/image_06327.jpg,common dandelion,0.5772008895874023
+/home/ubuntu/Ass4/102flowers/images/image_04996.jpg,marigold,0.8141840696334839
+/home/ubuntu/Ass4/102flowers/images/image_07951.jpg,geranium,0.4463319778442383
+/home/ubuntu/Ass4/102flowers/images/image_04947.jpg,frangipani,0.38976365327835083
+/home/ubuntu/Ass4/102flowers/images/image_04947.jpg,giant white arum lily,0.38915756344795227
+/home/ubuntu/Ass4/102flowers/images/image_07366.jpg,fritillary,0.44052791595458984
+/home/ubuntu/Ass4/102flowers/images/image_00341.jpg,water lily,0.9549584984779358
+/home/ubuntu/Ass4/102flowers/images/image_07174.jpg,tiger lily,0.9307847023010254
+/home/ubuntu/Ass4/102flowers/images/image_01722.jpg,hibiscus,0.7240005135536194
+/home/ubuntu/Ass4/102flowers/images/image_00938.jpg,frangipani,0.9348015785217285
+/home/ubuntu/Ass4/102flowers/images/image_00803.jpg,frangipani,0.8252872824668884
+/home/ubuntu/Ass4/102flowers/images/image_02835.jpg,bishop of llandaff,0.8485469818115234
+/home/ubuntu/Ass4/102flowers/images/image_07115.jpg,globe thistle,0.7945632934570312
+/home/ubuntu/Ass4/102flowers/images/image_01762.jpg,watercress,0.8633379936218262
+/home/ubuntu/Ass4/102flowers/images/image_00516.jpg,cyclamen,0.6028286218643188
+/home/ubuntu/Ass4/102flowers/images/image_06025.jpg,alpine sea holly,0.3866528868675232
+/home/ubuntu/Ass4/102flowers/images/image_06025.jpg,ball moss,0.3239443600177765
+/home/ubuntu/Ass4/102flowers/images/image_01771.jpg,hibiscus,0.8989236950874329
+/home/ubuntu/Ass4/102flowers/images/image_05528.jpg,osteospermum,0.9052990674972534
+/home/ubuntu/Ass4/102flowers/images/image_01975.jpg,anthurium,0.5503982305526733
+/home/ubuntu/Ass4/102flowers/images/image_01547.jpg,poinsettia,0.9211077690124512
+/home/ubuntu/Ass4/102flowers/images/image_00001.jpg,passion flower,0.9250053763389587
+/home/ubuntu/Ass4/102flowers/images/image_03487.jpg,sweet william,0.34593063592910767
+/home/ubuntu/Ass4/102flowers/images/image_02295.jpg,barbeton daisy,0.7446321249008179
+/home/ubuntu/Ass4/102flowers/images/image_07047.jpg,spring crocus,0.6341202855110168
+/home/ubuntu/Ass4/102flowers/images/image_04501.jpg,gazania,0.8804394006729126
+/home/ubuntu/Ass4/102flowers/images/image_05141.jpg,hard-leaved pocket orchid,0.8328505754470825
+/home/ubuntu/Ass4/102flowers/images/image_05289.jpg,tree poppy,0.6468045115470886
+/home/ubuntu/Ass4/102flowers/images/image_07235.jpg,gaura,0.775975227355957
+/home/ubuntu/Ass4/102flowers/images/image_00834.jpg,frangipani,0.8039180040359497
+/home/ubuntu/Ass4/102flowers/images/image_00172.jpg,passion flower,0.9459075331687927
+/home/ubuntu/Ass4/102flowers/images/image_01517.jpg,poinsettia,0.9480778574943542
+/home/ubuntu/Ass4/102flowers/images/image_00403.jpg,water lily,0.809048056602478
+/home/ubuntu/Ass4/102flowers/images/image_01471.jpg,petunia,0.8485525250434875
+/home/ubuntu/Ass4/102flowers/images/image_06130.jpg,silverbush,0.3212157189846039
+/home/ubuntu/Ass4/102flowers/images/image_06729.jpg,toad lily,0.671251654624939
+/home/ubuntu/Ass4/102flowers/images/image_06502.jpg,corn poppy,0.768470287322998
+/home/ubuntu/Ass4/102flowers/images/image_03203.jpg,californian poppy,0.8420268297195435
+/home/ubuntu/Ass4/102flowers/images/image_01838.jpg,lotus lotus,0.8273282647132874
+/home/ubuntu/Ass4/102flowers/images/image_00657.jpg,watercress,0.7664526104927063
+/home/ubuntu/Ass4/102flowers/images/image_02028.jpg,cyclamen,0.5617628693580627
+/home/ubuntu/Ass4/102flowers/images/image_02028.jpg,anthurium,0.39070630073547363
+/home/ubuntu/Ass4/102flowers/images/image_07895.jpg,barbeton daisy,0.4996580481529236
+/home/ubuntu/Ass4/102flowers/images/image_04741.jpg,pelargonium,0.7425531148910522
+/home/ubuntu/Ass4/102flowers/images/image_02007.jpg,anthurium,0.7587872743606567
+/home/ubuntu/Ass4/102flowers/images/image_02302.jpg,barbeton daisy,0.9394187927246094
+/home/ubuntu/Ass4/102flowers/images/image_01290.jpg,cyclamen,0.4207591414451599
+/home/ubuntu/Ass4/102flowers/images/image_06281.jpg,cautleya spicata,0.8578793406486511
+/home/ubuntu/Ass4/102flowers/images/image_07788.jpg,mexican petunia,0.7956324219703674
+/home/ubuntu/Ass4/102flowers/images/image_00194.jpg,passion flower,0.9375772476196289
+/home/ubuntu/Ass4/102flowers/images/image_02900.jpg,tree mallow,0.9378249049186707
+/home/ubuntu/Ass4/102flowers/images/image_01955.jpg,lotus lotus,0.8882383108139038
+/home/ubuntu/Ass4/102flowers/images/image_02313.jpg,colt's foot,0.7699048519134521
+/home/ubuntu/Ass4/102flowers/images/image_02313.jpg,barbeton daisy,0.3275214433670044
+/home/ubuntu/Ass4/102flowers/images/image_06650.jpg,stemless gentian,0.3452359139919281
+/home/ubuntu/Ass4/102flowers/images/image_05500.jpg,magnolia,0.8651825785636902
+/home/ubuntu/Ass4/102flowers/images/image_00401.jpg,water lily,0.8599951267242432
+/home/ubuntu/Ass4/102flowers/images/image_06944.jpg,mexican aster,0.6044328212738037
+/home/ubuntu/Ass4/102flowers/images/image_02831.jpg,bishop of llandaff,0.7565974593162537
+/home/ubuntu/Ass4/102flowers/images/image_02991.jpg,pink-yellow dahlia,0.920740008354187
+/home/ubuntu/Ass4/102flowers/images/image_04553.jpg,gazania,0.9825024008750916
+/home/ubuntu/Ass4/102flowers/images/image_02540.jpg,morning glory,0.7655468583106995
+/home/ubuntu/Ass4/102flowers/images/image_07043.jpg,frangipani,0.5437714457511902
+/home/ubuntu/Ass4/102flowers/images/image_07043.jpg,moon orchid,0.5061421990394592
+/home/ubuntu/Ass4/102flowers/images/image_06960.jpg,clematis,0.4145755469799042
+/home/ubuntu/Ass4/102flowers/images/image_03482.jpg,sweet william,0.7292441129684448
+/home/ubuntu/Ass4/102flowers/images/image_00408.jpg,water lily,0.8196181058883667
+/home/ubuntu/Ass4/102flowers/images/image_07272.jpg,japanese anemone,0.6723817586898804
+/home/ubuntu/Ass4/102flowers/images/image_03739.jpg,bee balm,0.35874465107917786
+/home/ubuntu/Ass4/102flowers/images/image_05501.jpg,magnolia,0.4207721948623657
+/home/ubuntu/Ass4/102flowers/images/image_06315.jpg,common dandelion,0.7902626991271973
+/home/ubuntu/Ass4/102flowers/images/image_04952.jpg,frangipani,0.7333574295043945
+/home/ubuntu/Ass4/102flowers/images/image_03616.jpg,azalea,0.4827502369880676
+/home/ubuntu/Ass4/102flowers/images/image_02633.jpg,bougainvillea,0.4937877953052521
+/home/ubuntu/Ass4/102flowers/images/image_02633.jpg,columbine,0.34179940819740295
+/home/ubuntu/Ass4/102flowers/images/image_00230.jpg,passion flower,0.971998393535614
+/home/ubuntu/Ass4/102flowers/images/image_02646.jpg,geranium,0.7778969407081604
+/home/ubuntu/Ass4/102flowers/images/image_00321.jpg,water lily,0.8710334300994873
+/home/ubuntu/Ass4/102flowers/images/image_02605.jpg,windflower,0.5336480140686035
+/home/ubuntu/Ass4/102flowers/images/image_02605.jpg,columbine,0.40341365337371826
+/home/ubuntu/Ass4/102flowers/images/image_03593.jpg,thorn apple,0.47665929794311523
+/home/ubuntu/Ass4/102flowers/images/image_03078.jpg,bee balm,0.9377754330635071
+/home/ubuntu/Ass4/102flowers/images/image_01871.jpg,lotus lotus,0.8646741509437561
+/home/ubuntu/Ass4/102flowers/images/image_08013.jpg,blackberry lily,0.759891927242279
+/home/ubuntu/Ass4/102flowers/images/image_01358.jpg,petunia,0.6923473477363586
+/home/ubuntu/Ass4/102flowers/images/image_06272.jpg,cautleya spicata,0.9073340892791748
+/home/ubuntu/Ass4/102flowers/images/image_04268.jpg,peruvian lily,0.8884973526000977
+/home/ubuntu/Ass4/102flowers/images/image_00832.jpg,frangipani,0.3592589199542999
+/home/ubuntu/Ass4/102flowers/images/image_05663.jpg,foxglove,0.506574273109436
+/home/ubuntu/Ass4/102flowers/images/image_04843.jpg,hippeastrum,0.713692843914032
+/home/ubuntu/Ass4/102flowers/images/image_03976.jpg,petunia,0.8973621726036072
+/home/ubuntu/Ass4/102flowers/images/image_00343.jpg,water lily,0.9321457147598267
+/home/ubuntu/Ass4/102flowers/images/image_00225.jpg,passion flower,0.800392210483551
+/home/ubuntu/Ass4/102flowers/images/image_04569.jpg,clematis,0.38324445486068726
+/home/ubuntu/Ass4/102flowers/images/image_00412.jpg,water lily,0.957007110118866
+/home/ubuntu/Ass4/102flowers/images/image_06152.jpg,balloon flower,0.47609809041023254
+/home/ubuntu/Ass4/102flowers/images/image_06152.jpg,clematis,0.3392133116722107
+/home/ubuntu/Ass4/102flowers/images/image_07891.jpg,bromelia,0.46610957384109497
+/home/ubuntu/Ass4/102flowers/images/image_06135.jpg,silverbush,0.82277911901474
+/home/ubuntu/Ass4/102flowers/images/image_02490.jpg,morning glory,0.7885472774505615
+/home/ubuntu/Ass4/102flowers/images/image_07466.jpg,bougainvillea,0.8429402709007263
+/home/ubuntu/Ass4/102flowers/images/image_02422.jpg,sword lily,0.3862207531929016
+/home/ubuntu/Ass4/102flowers/images/image_00890.jpg,frangipani,0.9435316324234009
+/home/ubuntu/Ass4/102flowers/images/image_04052.jpg,colt's foot,0.7342036962509155
+/home/ubuntu/Ass4/102flowers/images/image_04052.jpg,common dandelion,0.5614813566207886
+/home/ubuntu/Ass4/102flowers/images/image_02588.jpg,windflower,0.361594021320343
+/home/ubuntu/Ass4/102flowers/images/image_07642.jpg,rose,0.7290812134742737
+/home/ubuntu/Ass4/102flowers/images/image_02863.jpg,tree mallow,0.7361524701118469
+/home/ubuntu/Ass4/102flowers/images/image_07644.jpg,bougainvillea,0.4909457862377167
+/home/ubuntu/Ass4/102flowers/images/image_03677.jpg,geranium,0.8331483602523804
+/home/ubuntu/Ass4/102flowers/images/image_04233.jpg,wild pansy,0.7377681136131287
+/home/ubuntu/Ass4/102flowers/images/image_03500.jpg,sweet william,0.8505099415779114
+/home/ubuntu/Ass4/102flowers/images/image_02423.jpg,wallflower,0.502586841583252
+/home/ubuntu/Ass4/102flowers/images/image_06578.jpg,grape hyacinth,0.8582154512405396
+/home/ubuntu/Ass4/102flowers/images/image_02054.jpg,foxglove,0.5089540481567383
+/home/ubuntu/Ass4/102flowers/images/image_03783.jpg,cape flower,0.5794364213943481
+/home/ubuntu/Ass4/102flowers/images/image_05367.jpg,pincushion flower,0.29336652159690857
+/home/ubuntu/Ass4/102flowers/images/image_01686.jpg,clematis,0.6041397452354431
+/home/ubuntu/Ass4/102flowers/images/image_05437.jpg,sunflower,0.6966392397880554
+/home/ubuntu/Ass4/102flowers/images/image_05437.jpg,purple coneflower,0.4490586817264557
+/home/ubuntu/Ass4/102flowers/images/image_00932.jpg,frangipani,0.9104817509651184
+/home/ubuntu/Ass4/102flowers/images/image_06604.jpg,grape hyacinth,0.8347147703170776
+/home/ubuntu/Ass4/102flowers/images/image_05053.jpg,orange dahlia,0.7444202303886414
+/home/ubuntu/Ass4/102flowers/images/image_05736.jpg,common dandelion,0.3252713084220886
+/home/ubuntu/Ass4/102flowers/images/image_02799.jpg,bishop of llandaff,0.9142414331436157
+/home/ubuntu/Ass4/102flowers/images/image_00779.jpg,canna lily,0.5005204677581787
+/home/ubuntu/Ass4/102flowers/images/image_06222.jpg,oxeye daisy,0.6168027520179749
+/home/ubuntu/Ass4/102flowers/images/image_01192.jpg,rose,0.7406036257743835
+/home/ubuntu/Ass4/102flowers/images/image_06031.jpg,ball moss,0.6157903075218201
+/home/ubuntu/Ass4/102flowers/images/image_01627.jpg,poinsettia,0.5370466709136963
+/home/ubuntu/Ass4/102flowers/images/image_01627.jpg,clematis,0.3741152882575989
+/home/ubuntu/Ass4/102flowers/images/image_08053.jpg,red ginger,0.7623351812362671
+/home/ubuntu/Ass4/102flowers/images/image_01046.jpg,wallflower,0.5389142036437988
+/home/ubuntu/Ass4/102flowers/images/image_01046.jpg,geranium,0.4717557430267334
+/home/ubuntu/Ass4/102flowers/images/image_07522.jpg,bougainvillea,0.808274507522583
+/home/ubuntu/Ass4/102flowers/images/image_00337.jpg,water lily,0.905453085899353
+/home/ubuntu/Ass4/102flowers/images/image_04380.jpg,foxglove,0.357186496257782
+/home/ubuntu/Ass4/102flowers/images/image_04380.jpg,ruby-lipped cattleya,0.3508315086364746
+/home/ubuntu/Ass4/102flowers/images/image_00060.jpg,passion flower,0.8003146648406982
+/home/ubuntu/Ass4/102flowers/images/image_03353.jpg,bird of paradise,0.27031752467155457
+/home/ubuntu/Ass4/102flowers/images/image_01785.jpg,hibiscus,0.7281388640403748
+/home/ubuntu/Ass4/102flowers/images/image_04777.jpg,desert-rose,0.3029106557369232
+/home/ubuntu/Ass4/102flowers/images/image_03481.jpg,sweet william,0.6506747603416443
+/home/ubuntu/Ass4/102flowers/images/image_07469.jpg,azalea,0.5122833847999573
+/home/ubuntu/Ass4/102flowers/images/image_03154.jpg,snapdragon,0.6917523145675659
+/home/ubuntu/Ass4/102flowers/images/image_03520.jpg,azalea,0.38178420066833496
+/home/ubuntu/Ass4/102flowers/images/image_03520.jpg,clematis,0.2784744203090668
+/home/ubuntu/Ass4/102flowers/images/image_03911.jpg,purple coneflower,0.9403870701789856
+/home/ubuntu/Ass4/102flowers/images/image_02806.jpg,bishop of llandaff,0.8397761583328247
+/home/ubuntu/Ass4/102flowers/images/image_04540.jpg,gazania,0.9543935656547546
+/home/ubuntu/Ass4/102flowers/images/image_06128.jpg,pelargonium,0.5107802748680115
+/home/ubuntu/Ass4/102flowers/images/image_04307.jpg,peruvian lily,0.3216075897216797
+/home/ubuntu/Ass4/102flowers/images/image_05263.jpg,stemless gentian,0.7217820882797241
+/home/ubuntu/Ass4/102flowers/images/image_01034.jpg,wallflower,0.5238860249519348
+/home/ubuntu/Ass4/102flowers/images/image_01034.jpg,bishop of llandaff,0.4495970606803894
+/home/ubuntu/Ass4/102flowers/images/image_02115.jpg,thorn apple,0.8549430966377258
+/home/ubuntu/Ass4/102flowers/images/image_03216.jpg,californian poppy,0.8761579394340515
+/home/ubuntu/Ass4/102flowers/images/image_03364.jpg,bird of paradise,0.89842289686203
+/home/ubuntu/Ass4/102flowers/images/image_02656.jpg,geranium,0.8647332191467285
+/home/ubuntu/Ass4/102flowers/images/image_07090.jpg,globe thistle,0.4130629301071167
+/home/ubuntu/Ass4/102flowers/images/image_00211.jpg,passion flower,0.912696123123169
+/home/ubuntu/Ass4/102flowers/images/image_04953.jpg,marigold,0.8626333475112915
+/home/ubuntu/Ass4/102flowers/images/image_07071.jpg,stemless gentian,0.8484501242637634
+/home/ubuntu/Ass4/102flowers/images/image_08170.jpg,japanese anemone,0.25879791378974915
+/home/ubuntu/Ass4/102flowers/images/image_03107.jpg,snapdragon,0.8453431725502014
+/home/ubuntu/Ass4/102flowers/images/image_06275.jpg,cautleya spicata,0.7022372484207153
+/home/ubuntu/Ass4/102flowers/images/image_08189.jpg,camellia,0.5665964484214783
+/home/ubuntu/Ass4/102flowers/images/image_05202.jpg,sunflower,0.6862278580665588
+/home/ubuntu/Ass4/102flowers/images/image_04460.jpg,canna lily,0.46231308579444885
+/home/ubuntu/Ass4/102flowers/images/image_04088.jpg,artichoke,0.4964565336704254
+/home/ubuntu/Ass4/102flowers/images/image_01999.jpg,anthurium,0.8865095376968384
+/home/ubuntu/Ass4/102flowers/images/image_02337.jpg,sword lily,0.8007146716117859
+/home/ubuntu/Ass4/102flowers/images/image_00097.jpg,passion flower,0.9381161332130432
+/home/ubuntu/Ass4/102flowers/images/image_01561.jpg,poinsettia,0.9503037929534912
+/home/ubuntu/Ass4/102flowers/images/image_00942.jpg,frangipani,0.9637015461921692
+/home/ubuntu/Ass4/102flowers/images/image_03792.jpg,cape flower,0.95058673620224
+/home/ubuntu/Ass4/102flowers/images/image_06449.jpg,love in the mist,0.4652678370475769
+/home/ubuntu/Ass4/102flowers/images/image_04846.jpg,foxglove,0.54731684923172
+/home/ubuntu/Ass4/102flowers/images/image_01826.jpg,hibiscus,0.7140066027641296
+/home/ubuntu/Ass4/102flowers/images/image_01826.jpg,canna lily,0.5105352997779846
+/home/ubuntu/Ass4/102flowers/images/image_02914.jpg,tree mallow,0.8146659135818481
+/home/ubuntu/Ass4/102flowers/images/image_06106.jpg,silverbush,0.6362367868423462
+/home/ubuntu/Ass4/102flowers/images/image_08024.jpg,blackberry lily,0.9513503313064575
+/home/ubuntu/Ass4/102flowers/images/image_00558.jpg,cyclamen,0.6609622836112976
+/home/ubuntu/Ass4/102flowers/images/image_03655.jpg,wallflower,0.6383590698242188
+/home/ubuntu/Ass4/102flowers/images/image_02543.jpg,morning glory,0.9349396228790283
+/home/ubuntu/Ass4/102flowers/images/image_02278.jpg,barbeton daisy,0.9276358485221863
+/home/ubuntu/Ass4/102flowers/images/image_06406.jpg,monkshood,0.787580668926239
+/home/ubuntu/Ass4/102flowers/images/image_06872.jpg,prince of wales feathers,0.8340849876403809
+/home/ubuntu/Ass4/102flowers/images/image_07023.jpg,cyclamen,0.6816831231117249
+/home/ubuntu/Ass4/102flowers/images/image_00825.jpg,frangipani,0.7377880215644836
+/home/ubuntu/Ass4/102flowers/images/image_00306.jpg,water lily,0.7178434133529663
+/home/ubuntu/Ass4/102flowers/images/image_00306.jpg,frangipani,0.32969385385513306
+/home/ubuntu/Ass4/102flowers/images/image_04734.jpg,pelargonium,0.7319377660751343
+/home/ubuntu/Ass4/102flowers/images/image_06779.jpg,fire lily,0.644474446773529
+/home/ubuntu/Ass4/102flowers/images/image_00329.jpg,water lily,0.940316915512085
+/home/ubuntu/Ass4/102flowers/images/image_05101.jpg,hard-leaved pocket orchid,0.5590071678161621
+/home/ubuntu/Ass4/102flowers/images/image_06246.jpg,japanese anemone,0.3650084137916565
+/home/ubuntu/Ass4/102flowers/images/image_06246.jpg,oxeye daisy,0.32671603560447693
+/home/ubuntu/Ass4/102flowers/images/image_05754.jpg,artichoke,0.5550628900527954
+/home/ubuntu/Ass4/102flowers/images/image_05754.jpg,king protea,0.5164186358451843
+/home/ubuntu/Ass4/102flowers/images/image_01014.jpg,wallflower,0.303602933883667
+/home/ubuntu/Ass4/102flowers/images/image_06054.jpg,spear thistle,0.6585979461669922
+/home/ubuntu/Ass4/102flowers/images/image_07674.jpg,lenten rose,0.7663319706916809
+/home/ubuntu/Ass4/102flowers/images/image_03021.jpg,pink-yellow dahlia,0.9155822396278381
+/home/ubuntu/Ass4/102flowers/images/image_05765.jpg,artichoke,0.5788546800613403
+/home/ubuntu/Ass4/102flowers/images/image_07624.jpg,camellia,0.6795879006385803
+/home/ubuntu/Ass4/102flowers/images/image_02474.jpg,thorn apple,0.8938012719154358
+/home/ubuntu/Ass4/102flowers/images/image_07996.jpg,trumpet creeper,0.4234791100025177
+/home/ubuntu/Ass4/102flowers/images/image_07996.jpg,canna lily,0.39555177092552185
+/home/ubuntu/Ass4/102flowers/images/image_08090.jpg,globe thistle,0.7836084365844727
+/home/ubuntu/Ass4/102flowers/images/image_07542.jpg,bougainvillea,0.5019826889038086
+/home/ubuntu/Ass4/102flowers/images/image_07986.jpg,geranium,0.2569001019001007
+/home/ubuntu/Ass4/102flowers/images/image_05737.jpg,buttercup,0.3624396324157715
+/home/ubuntu/Ass4/102flowers/images/image_04650.jpg,buttercup,0.7510652542114258
+/home/ubuntu/Ass4/102flowers/images/image_02640.jpg,geranium,0.8561443090438843
+/home/ubuntu/Ass4/102flowers/images/image_03248.jpg,californian poppy,0.9030928611755371
+/home/ubuntu/Ass4/102flowers/images/image_05920.jpg,thorn apple,0.8636690974235535
+/home/ubuntu/Ass4/102flowers/images/image_00542.jpg,water lily,0.7690573334693909
+/home/ubuntu/Ass4/102flowers/images/image_01880.jpg,lotus lotus,0.6200379133224487
+/home/ubuntu/Ass4/102flowers/images/image_06428.jpg,monkshood,0.5372356176376343
+/home/ubuntu/Ass4/102flowers/images/image_06428.jpg,stemless gentian,0.5255599617958069
+/home/ubuntu/Ass4/102flowers/images/image_04265.jpg,orange dahlia,0.31907159090042114
+/home/ubuntu/Ass4/102flowers/images/image_04265.jpg,sunflower,0.29536914825439453
+/home/ubuntu/Ass4/102flowers/images/image_07922.jpg,gazania,0.7098310589790344
+/home/ubuntu/Ass4/102flowers/images/image_05851.jpg,black-eyed susan,0.7798449993133545
+/home/ubuntu/Ass4/102flowers/images/image_04035.jpg,colt's foot,0.5733657479286194
+/home/ubuntu/Ass4/102flowers/images/image_04847.jpg,clematis,0.4510461091995239
+/home/ubuntu/Ass4/102flowers/images/image_07640.jpg,camellia,0.697594165802002
+/home/ubuntu/Ass4/102flowers/images/image_00795.jpg,frangipani,0.9017894268035889
+/home/ubuntu/Ass4/102flowers/images/image_01754.jpg,hibiscus,0.4093863368034363
+/home/ubuntu/Ass4/102flowers/images/image_06313.jpg,common dandelion,0.36836838722229004
+/home/ubuntu/Ass4/102flowers/images/image_07230.jpg,moon orchid,0.807671070098877
+/home/ubuntu/Ass4/102flowers/images/image_05423.jpg,sunflower,0.38763874769210815
+/home/ubuntu/Ass4/102flowers/images/image_07410.jpg,foxglove,0.7365023493766785
+/home/ubuntu/Ass4/102flowers/images/image_03651.jpg,primula,0.34352707862854004
+/home/ubuntu/Ass4/102flowers/images/image_03435.jpg,fritillary,0.8295207619667053
+/home/ubuntu/Ass4/102flowers/images/image_01460.jpg,petunia,0.9148118495941162
+/home/ubuntu/Ass4/102flowers/images/image_03668.jpg,primula,0.44721171259880066
+/home/ubuntu/Ass4/102flowers/images/image_02828.jpg,bishop of llandaff,0.7102020978927612
+/home/ubuntu/Ass4/102flowers/images/image_03224.jpg,californian poppy,0.5234617590904236
+/home/ubuntu/Ass4/102flowers/images/image_01156.jpg,rose,0.8281906843185425
+/home/ubuntu/Ass4/102flowers/images/image_01778.jpg,hibiscus,0.43074682354927063
+/home/ubuntu/Ass4/102flowers/images/image_01778.jpg,mexican aster,0.3102297782897949
+/home/ubuntu/Ass4/102flowers/images/image_00331.jpg,water lily,0.838603675365448
+/home/ubuntu/Ass4/102flowers/images/image_00899.jpg,frangipani,0.9333101511001587
+/home/ubuntu/Ass4/102flowers/images/image_07872.jpg,bromelia,0.8436128497123718
+/home/ubuntu/Ass4/102flowers/images/image_02969.jpg,pink-yellow dahlia,0.8973867893218994
+/home/ubuntu/Ass4/102flowers/images/image_06213.jpg,oxeye daisy,0.6788104176521301
+/home/ubuntu/Ass4/102flowers/images/image_02728.jpg,geranium,0.8549737334251404
+/home/ubuntu/Ass4/102flowers/images/image_00656.jpg,watercress,0.9132258296012878
+/home/ubuntu/Ass4/102flowers/images/image_02089.jpg,thorn apple,0.8824508786201477
+/home/ubuntu/Ass4/102flowers/images/image_07574.jpg,bougainvillea,0.7179839015007019
+/home/ubuntu/Ass4/102flowers/images/image_00757.jpg,watercress,0.5220803022384644
+/home/ubuntu/Ass4/102flowers/images/image_01767.jpg,petunia,0.5635948777198792
+/home/ubuntu/Ass4/102flowers/images/image_00664.jpg,watercress,0.8296991586685181
+/home/ubuntu/Ass4/102flowers/images/image_06713.jpg,toad lily,0.7033067941665649
+/home/ubuntu/Ass4/102flowers/images/image_02041.jpg,anthurium,0.9696686267852783
+/home/ubuntu/Ass4/102flowers/images/image_03015.jpg,pink-yellow dahlia,0.8426575660705566
+/home/ubuntu/Ass4/102flowers/images/image_00486.jpg,cyclamen,0.5207730531692505
+/home/ubuntu/Ass4/102flowers/images/image_06245.jpg,oxeye daisy,0.4992745518684387
+/home/ubuntu/Ass4/102flowers/images/image_01678.jpg,mexican petunia,0.30963829159736633
+/home/ubuntu/Ass4/102flowers/images/image_01678.jpg,clematis,0.27687394618988037
+/home/ubuntu/Ass4/102flowers/images/image_04942.jpg,hard-leaved pocket orchid,0.3393215239048004
+/home/ubuntu/Ass4/102flowers/images/image_01429.jpg,petunia,0.8518847227096558
+/home/ubuntu/Ass4/102flowers/images/image_03678.jpg,primula,0.8963907361030579
+/home/ubuntu/Ass4/102flowers/images/image_06569.jpg,common dandelion,0.9146148562431335
+/home/ubuntu/Ass4/102flowers/images/image_04550.jpg,gazania,0.965897262096405
+/home/ubuntu/Ass4/102flowers/images/image_04649.jpg,buttercup,0.829933762550354
+/home/ubuntu/Ass4/102flowers/images/image_05380.jpg,pincushion flower,0.8808007836341858
+/home/ubuntu/Ass4/102flowers/images/image_01258.jpg,rose,0.8582380414009094
+/home/ubuntu/Ass4/102flowers/images/image_04058.jpg,colt's foot,0.8126223087310791
+/home/ubuntu/Ass4/102flowers/images/image_03310.jpg,bird of paradise,0.5841301083564758
+/home/ubuntu/Ass4/102flowers/images/image_08022.jpg,blackberry lily,0.6691899299621582
+/home/ubuntu/Ass4/102flowers/images/image_06078.jpg,spear thistle,0.7476239800453186
+/home/ubuntu/Ass4/102flowers/images/image_07526.jpg,petunia,0.3183775842189789
+/home/ubuntu/Ass4/102flowers/images/image_06494.jpg,corn poppy,0.3446030914783478
+/home/ubuntu/Ass4/102flowers/images/image_05473.jpg,lotus lotus,0.2869148850440979
+/home/ubuntu/Ass4/102flowers/images/image_01135.jpg,wallflower,0.7532544136047363
+/home/ubuntu/Ass4/102flowers/images/image_04304.jpg,peruvian lily,0.830193817615509
+/home/ubuntu/Ass4/102flowers/images/image_07411.jpg,foxglove,0.7195659875869751
+/home/ubuntu/Ass4/102flowers/images/image_07411.jpg,monkshood,0.45615068078041077
+/home/ubuntu/Ass4/102flowers/images/image_02954.jpg,pink-yellow dahlia,0.4682373106479645
+/home/ubuntu/Ass4/102flowers/images/image_02954.jpg,water lily,0.3110395073890686
+/home/ubuntu/Ass4/102flowers/images/image_03789.jpg,cape flower,0.8496807813644409
+/home/ubuntu/Ass4/102flowers/images/image_00859.jpg,frangipani,0.9488637447357178
+/home/ubuntu/Ass4/102flowers/images/image_07297.jpg,cape flower,0.896892249584198
+/home/ubuntu/Ass4/102flowers/images/image_00284.jpg,water lily,0.7385976910591125
+/home/ubuntu/Ass4/102flowers/images/image_00215.jpg,passion flower,0.9158106446266174
+/home/ubuntu/Ass4/102flowers/images/image_07443.jpg,foxglove,0.5854973196983337
+/home/ubuntu/Ass4/102flowers/images/image_01413.jpg,petunia,0.7978046536445618
+/home/ubuntu/Ass4/102flowers/images/image_06353.jpg,buttercup,0.2775229811668396
+/home/ubuntu/Ass4/102flowers/images/image_05317.jpg,tree poppy,0.8745668530464172
+/home/ubuntu/Ass4/102flowers/images/image_01912.jpg,lotus lotus,0.8555957674980164
+/home/ubuntu/Ass4/102flowers/images/image_00381.jpg,water lily,0.9465346932411194
+/home/ubuntu/Ass4/102flowers/images/image_02838.jpg,bishop of llandaff,0.7757718563079834
+/home/ubuntu/Ass4/102flowers/images/image_05301.jpg,tree poppy,0.9040525555610657
+/home/ubuntu/Ass4/102flowers/images/image_07638.jpg,water lily,0.3855780363082886
+/home/ubuntu/Ass4/102flowers/images/image_06265.jpg,cautleya spicata,0.8305174708366394
+/home/ubuntu/Ass4/102flowers/images/image_03424.jpg,fritillary,0.6060571670532227
+/home/ubuntu/Ass4/102flowers/images/image_05117.jpg,hard-leaved pocket orchid,0.81862473487854
+/home/ubuntu/Ass4/102flowers/images/image_03538.jpg,sweet william,0.719267725944519
+/home/ubuntu/Ass4/102flowers/images/image_00039.jpg,passion flower,0.5250006318092346
+/home/ubuntu/Ass4/102flowers/images/image_00582.jpg,cyclamen,0.5985632538795471
+/home/ubuntu/Ass4/102flowers/images/image_02930.jpg,pink-yellow dahlia,0.895125150680542
+/home/ubuntu/Ass4/102flowers/images/image_07870.jpg,frangipani,0.7203335762023926
+/home/ubuntu/Ass4/102flowers/images/image_07008.jpg,cyclamen,0.7066369652748108
+/home/ubuntu/Ass4/102flowers/images/image_07008.jpg,foxglove,0.29512837529182434
+/home/ubuntu/Ass4/102flowers/images/image_01572.jpg,poinsettia,0.9621680974960327
+/home/ubuntu/Ass4/102flowers/images/image_05669.jpg,ruby-lipped cattleya,0.44174614548683167
+/home/ubuntu/Ass4/102flowers/images/image_06878.jpg,prince of wales feathers,0.31654950976371765
+/home/ubuntu/Ass4/102flowers/images/image_03915.jpg,pelargonium,0.3653891384601593
+/home/ubuntu/Ass4/102flowers/images/image_04616.jpg,lenten rose,0.8341677784919739
+/home/ubuntu/Ass4/102flowers/images/image_00957.jpg,wallflower,0.8426320552825928
+/home/ubuntu/Ass4/102flowers/images/image_04881.jpg,thorn apple,0.3481962978839874
+/home/ubuntu/Ass4/102flowers/images/image_04808.jpg,desert-rose,0.4241795241832733
+/home/ubuntu/Ass4/102flowers/images/image_04230.jpg,frangipani,0.3795062005519867
+/home/ubuntu/Ass4/102flowers/images/image_04230.jpg,windflower,0.3691219091415405
+/home/ubuntu/Ass4/102flowers/images/image_01535.jpg,petunia,0.8409249782562256
+/home/ubuntu/Ass4/102flowers/images/image_05996.jpg,windflower,0.45021525025367737
+/home/ubuntu/Ass4/102flowers/images/image_04970.jpg,marigold,0.9432463645935059
+/home/ubuntu/Ass4/102flowers/images/image_07011.jpg,rose,0.47407373785972595
+/home/ubuntu/Ass4/102flowers/images/image_01217.jpg,water lily,0.3975844085216522
+/home/ubuntu/Ass4/102flowers/images/image_01217.jpg,lotus lotus,0.3874633312225342
+/home/ubuntu/Ass4/102flowers/images/image_03147.jpg,wallflower,0.42481982707977295
+/home/ubuntu/Ass4/102flowers/images/image_08107.jpg,tiger lily,0.5748612880706787
+/home/ubuntu/Ass4/102flowers/images/image_06404.jpg,monkshood,0.9231336116790771
+/home/ubuntu/Ass4/102flowers/images/image_07693.jpg,hibiscus,0.5519446730613708
+/home/ubuntu/Ass4/102flowers/images/image_00804.jpg,frangipani,0.9472957253456116
+/home/ubuntu/Ass4/102flowers/images/image_06645.jpg,sweet pea,0.26871028542518616
+/home/ubuntu/Ass4/102flowers/images/image_00145.jpg,passion flower,0.77381831407547
+/home/ubuntu/Ass4/102flowers/images/image_00639.jpg,watercress,0.7009955048561096
+/home/ubuntu/Ass4/102flowers/images/image_06778.jpg,fire lily,0.7354518175125122
+/home/ubuntu/Ass4/102flowers/images/image_06778.jpg,tiger lily,0.5381028652191162
+/home/ubuntu/Ass4/102flowers/images/image_05673.jpg,sword lily,0.421690970659256
+/home/ubuntu/Ass4/102flowers/images/image_06410.jpg,monkshood,0.43325087428092957
+/home/ubuntu/Ass4/102flowers/images/image_06410.jpg,pelargonium,0.322636216878891
+/home/ubuntu/Ass4/102flowers/images/image_01081.jpg,wallflower,0.7898880243301392
+/home/ubuntu/Ass4/102flowers/images/image_01995.jpg,blackberry lily,0.48218217492103577
+/home/ubuntu/Ass4/102flowers/images/image_01995.jpg,anthurium,0.4593123197555542
+/home/ubuntu/Ass4/102flowers/images/image_04367.jpg,ruby-lipped cattleya,0.7785685658454895
+/home/ubuntu/Ass4/102flowers/images/image_04722.jpg,pelargonium,0.7552266716957092
+/home/ubuntu/Ass4/102flowers/images/image_01550.jpg,poinsettia,0.915762722492218
+/home/ubuntu/Ass4/102flowers/images/image_02517.jpg,pelargonium,0.7843232750892639
+/home/ubuntu/Ass4/102flowers/images/image_02779.jpg,bishop of llandaff,0.31114819645881653
+/home/ubuntu/Ass4/102flowers/images/image_02671.jpg,geranium,0.733528196811676
+/home/ubuntu/Ass4/102flowers/images/image_07569.jpg,bougainvillea,0.77503502368927
+/home/ubuntu/Ass4/102flowers/images/image_02244.jpg,barbeton daisy,0.8606104254722595
+/home/ubuntu/Ass4/102flowers/images/image_04136.jpg,spear thistle,0.39752593636512756
+/home/ubuntu/Ass4/102flowers/images/image_04136.jpg,alpine sea holly,0.3687554895877838
+/home/ubuntu/Ass4/102flowers/images/image_05438.jpg,oxeye daisy,0.375356525182724
+/home/ubuntu/Ass4/102flowers/images/image_05438.jpg,purple coneflower,0.2958850860595703
+/home/ubuntu/Ass4/102flowers/images/image_08012.jpg,blackberry lily,0.6530054807662964
+/home/ubuntu/Ass4/102flowers/images/image_00311.jpg,water lily,0.712207555770874
+/home/ubuntu/Ass4/102flowers/images/image_03354.jpg,bird of paradise,0.8513474464416504
+/home/ubuntu/Ass4/102flowers/images/image_02069.jpg,thorn apple,0.6623887419700623
+/home/ubuntu/Ass4/102flowers/images/image_03740.jpg,cape flower,0.9544298648834229
+/home/ubuntu/Ass4/102flowers/images/image_05831.jpg,clematis,0.5935892462730408
+/home/ubuntu/Ass4/102flowers/images/image_05831.jpg,great masterwort,0.37710267305374146
+/home/ubuntu/Ass4/102flowers/images/image_03447.jpg,fritillary,0.48698827624320984
+/home/ubuntu/Ass4/102flowers/images/image_03447.jpg,giant white arum lily,0.3820861279964447
+/home/ubuntu/Ass4/102flowers/images/image_00417.jpg,water lily,0.9218745231628418
+/home/ubuntu/Ass4/102flowers/images/image_07853.jpg,bromelia,0.8696363568305969
+/home/ubuntu/Ass4/102flowers/images/image_01022.jpg,wallflower,0.643892228603363
+/home/ubuntu/Ass4/102flowers/images/image_07327.jpg,foxglove,0.6927700042724609
+/home/ubuntu/Ass4/102flowers/images/image_00518.jpg,ruby-lipped cattleya,0.34162890911102295
+/home/ubuntu/Ass4/102flowers/images/image_04097.jpg,artichoke,0.5826066732406616
+/home/ubuntu/Ass4/102flowers/images/image_02804.jpg,bishop of llandaff,0.8094329237937927
+/home/ubuntu/Ass4/102flowers/images/image_05486.jpg,magnolia,0.5478585362434387
+/home/ubuntu/Ass4/102flowers/images/image_07837.jpg,bromelia,0.25540924072265625
+/home/ubuntu/Ass4/102flowers/images/image_00896.jpg,frangipani,0.651491105556488
+/home/ubuntu/Ass4/102flowers/images/image_00896.jpg,lotus lotus,0.2555757462978363
+/home/ubuntu/Ass4/102flowers/images/image_07430.jpg,foxglove,0.787092387676239
+/home/ubuntu/Ass4/102flowers/images/image_03161.jpg,snapdragon,0.8823825716972351
+/home/ubuntu/Ass4/102flowers/images/image_02270.jpg,barbeton daisy,0.91193687915802
+/home/ubuntu/Ass4/102flowers/images/image_06180.jpg,balloon flower,0.563447892665863
+/home/ubuntu/Ass4/102flowers/images/image_06177.jpg,clematis,0.4492195248603821
+/home/ubuntu/Ass4/102flowers/images/image_06852.jpg,carnation,0.3395460844039917
+/home/ubuntu/Ass4/102flowers/images/image_06852.jpg,mexican petunia,0.3041466176509857
+/home/ubuntu/Ass4/102flowers/images/image_06852.jpg,pincushion flower,0.2720327079296112
+/home/ubuntu/Ass4/102flowers/images/image_05784.jpg,petunia,0.2521118223667145
+/home/ubuntu/Ass4/102flowers/images/image_05854.jpg,black-eyed susan,0.8100210428237915
+/home/ubuntu/Ass4/102flowers/images/image_06150.jpg,windflower,0.660331666469574
+/home/ubuntu/Ass4/102flowers/images/image_01159.jpg,rose,0.6810011267662048
+/home/ubuntu/Ass4/102flowers/images/image_01490.jpg,petunia,0.9555617570877075
+/home/ubuntu/Ass4/102flowers/images/image_01820.jpg,hibiscus,0.8224529027938843
+/home/ubuntu/Ass4/102flowers/images/image_07885.jpg,bromelia,0.7115154266357422
+/home/ubuntu/Ass4/102flowers/images/image_07885.jpg,water lily,0.3944246172904968
+/home/ubuntu/Ass4/102flowers/images/image_05879.jpg,black-eyed susan,0.6713716387748718
+/home/ubuntu/Ass4/102flowers/images/image_06093.jpg,spear thistle,0.6379109621047974
+/home/ubuntu/Ass4/102flowers/images/image_03198.jpg,californian poppy,0.892533004283905
+/home/ubuntu/Ass4/102flowers/images/image_04269.jpg,hibiscus,0.3084142804145813
+/home/ubuntu/Ass4/102flowers/images/image_03527.jpg,sweet william,0.7068634033203125
+/home/ubuntu/Ass4/102flowers/images/image_03766.jpg,cape flower,0.9649664163589478
+/home/ubuntu/Ass4/102flowers/images/image_07218.jpg,moon orchid,0.4141189157962799
+/home/ubuntu/Ass4/102flowers/images/image_05953.jpg,mexican petunia,0.2515200674533844
+/home/ubuntu/Ass4/102flowers/images/image_00604.jpg,watercress,0.7675583958625793
+/home/ubuntu/Ass4/102flowers/images/image_06514.jpg,hibiscus,0.5052531957626343
+/home/ubuntu/Ass4/102flowers/images/image_03926.jpg,balloon flower,0.47142791748046875
+/home/ubuntu/Ass4/102flowers/images/image_05399.jpg,sunflower,0.7484216094017029
+/home/ubuntu/Ass4/102flowers/images/image_06307.jpg,common dandelion,0.8201299905776978
+/home/ubuntu/Ass4/102flowers/images/image_03249.jpg,californian poppy,0.8274855017662048
+/home/ubuntu/Ass4/102flowers/images/image_03026.jpg,pink-yellow dahlia,0.9757282137870789
+/home/ubuntu/Ass4/102flowers/images/image_00071.jpg,passion flower,0.8295795321464539
+/home/ubuntu/Ass4/102flowers/images/image_01331.jpg,petunia,0.4718276262283325
+/home/ubuntu/Ass4/102flowers/images/image_04378.jpg,ruby-lipped cattleya,0.5220263600349426
+/home/ubuntu/Ass4/102flowers/images/image_01028.jpg,wallflower,0.8955095410346985
+/home/ubuntu/Ass4/102flowers/images/image_02130.jpg,thorn apple,0.8271049857139587
+/home/ubuntu/Ass4/102flowers/images/image_01532.jpg,poinsettia,0.9111337661743164
+/home/ubuntu/Ass4/102flowers/images/image_02565.jpg,columbine,0.39607685804367065
+/home/ubuntu/Ass4/102flowers/images/image_00995.jpg,wallflower,0.8879186511039734
+/home/ubuntu/Ass4/102flowers/images/image_02812.jpg,bishop of llandaff,0.8785005211830139
+/home/ubuntu/Ass4/102flowers/images/image_02060.jpg,anthurium,0.735429584980011
+/home/ubuntu/Ass4/102flowers/images/image_04030.jpg,colt's foot,0.8498513698577881
+/home/ubuntu/Ass4/102flowers/images/image_01878.jpg,lotus lotus,0.609434962272644
+/home/ubuntu/Ass4/102flowers/images/image_06365.jpg,daffodil,0.376124769449234
+/home/ubuntu/Ass4/102flowers/images/image_00315.jpg,water lily,0.9381954073905945
+/home/ubuntu/Ass4/102flowers/images/image_07988.jpg,rose,0.43848854303359985
+/home/ubuntu/Ass4/102flowers/images/image_00596.jpg,magnolia,0.7943326234817505
+/home/ubuntu/Ass4/102flowers/images/image_00596.jpg,cyclamen,0.3804721236228943
+/home/ubuntu/Ass4/102flowers/images/image_02703.jpg,geranium,0.7693540453910828
+/home/ubuntu/Ass4/102flowers/images/image_06107.jpg,silverbush,0.7248433232307434
+/home/ubuntu/Ass4/102flowers/images/image_06555.jpg,common dandelion,0.9139660000801086
+/home/ubuntu/Ass4/102flowers/images/image_01937.jpg,lotus lotus,0.789840579032898
+/home/ubuntu/Ass4/102flowers/images/image_04184.jpg,wild pansy,0.7873790860176086
+/home/ubuntu/Ass4/102flowers/images/image_01054.jpg,wallflower,0.7017369270324707
+/home/ubuntu/Ass4/102flowers/images/image_01622.jpg,clematis,0.34019735455513
+/home/ubuntu/Ass4/102flowers/images/image_01017.jpg,wallflower,0.598784863948822
+/home/ubuntu/Ass4/102flowers/images/image_05075.jpg,orange dahlia,0.7306342720985413
+/home/ubuntu/Ass4/102flowers/images/image_07864.jpg,bromelia,0.5163506865501404
+/home/ubuntu/Ass4/102flowers/images/image_03536.jpg,mexican petunia,0.6300492882728577
+/home/ubuntu/Ass4/102flowers/images/image_03648.jpg,primula,0.7153055667877197
+/home/ubuntu/Ass4/102flowers/images/image_03648.jpg,wallflower,0.5462070107460022
+/home/ubuntu/Ass4/102flowers/images/image_02106.jpg,thorn apple,0.9109501242637634
+/home/ubuntu/Ass4/102flowers/images/image_00044.jpg,passion flower,0.9216386079788208
+/home/ubuntu/Ass4/102flowers/images/image_03237.jpg,californian poppy,0.8007262945175171
+/home/ubuntu/Ass4/102flowers/images/image_06521.jpg,corn poppy,0.7551352381706238
+/home/ubuntu/Ass4/102flowers/images/image_04323.jpg,peruvian lily,0.8167511224746704
+/home/ubuntu/Ass4/102flowers/images/image_04679.jpg,buttercup,0.7591952681541443
+/home/ubuntu/Ass4/102flowers/images/image_06346.jpg,yellow iris,0.7319401502609253
+/home/ubuntu/Ass4/102flowers/images/image_07831.jpg,mexican petunia,0.8345298171043396
+/home/ubuntu/Ass4/102flowers/images/image_01255.jpg,rose,0.4266466498374939
+/home/ubuntu/Ass4/102flowers/images/image_03278.jpg,californian poppy,0.7973088026046753
+/home/ubuntu/Ass4/102flowers/images/image_01042.jpg,wallflower,0.7616595029830933
+/home/ubuntu/Ass4/102flowers/images/image_05435.jpg,sunflower,0.8606835603713989
+/home/ubuntu/Ass4/102flowers/images/image_03698.jpg,watercress,0.7927347421646118
+/home/ubuntu/Ass4/102flowers/images/image_01189.jpg,rose,0.4832215905189514
+/home/ubuntu/Ass4/102flowers/images/image_07003.jpg,alpine sea holly,0.5498555302619934
+/home/ubuntu/Ass4/102flowers/images/image_03277.jpg,californian poppy,0.920932948589325
+/home/ubuntu/Ass4/102flowers/images/image_05537.jpg,osteospermum,0.7158817052841187
+/home/ubuntu/Ass4/102flowers/images/image_04842.jpg,hippeastrum,0.5126386284828186
+/home/ubuntu/Ass4/102flowers/images/image_00961.jpg,wallflower,0.8570455312728882
+/home/ubuntu/Ass4/102flowers/images/image_05864.jpg,black-eyed susan,0.9104729890823364
+/home/ubuntu/Ass4/102flowers/images/image_07426.jpg,foxglove,0.7712150812149048
+/home/ubuntu/Ass4/102flowers/images/image_07242.jpg,gaura,0.8330634832382202
+/home/ubuntu/Ass4/102flowers/images/image_04635.jpg,californian poppy,0.6614454984664917
+/home/ubuntu/Ass4/102flowers/images/image_05213.jpg,windflower,0.31986352801322937
+/home/ubuntu/Ass4/102flowers/images/image_05704.jpg,daffodil,0.2579576373100281
+/home/ubuntu/Ass4/102flowers/images/image_00909.jpg,frangipani,0.8369379043579102
+/home/ubuntu/Ass4/102flowers/images/image_03478.jpg,sweet william,0.9159489274024963
+/home/ubuntu/Ass4/102flowers/images/image_04557.jpg,gazania,0.887138307094574
+/home/ubuntu/Ass4/102flowers/images/image_07423.jpg,columbine,0.6429767608642578
+/home/ubuntu/Ass4/102flowers/images/image_04287.jpg,peruvian lily,0.5608675479888916
+/home/ubuntu/Ass4/102flowers/images/image_01833.jpg,lotus lotus,0.750637948513031
+/home/ubuntu/Ass4/102flowers/images/image_06050.jpg,spear thistle,0.46900108456611633
+/home/ubuntu/Ass4/102flowers/images/image_00655.jpg,watercress,0.8943306803703308
+/home/ubuntu/Ass4/102flowers/images/image_01070.jpg,wallflower,0.6930776834487915
+/home/ubuntu/Ass4/102flowers/images/image_01809.jpg,hibiscus,0.3735926151275635
+/home/ubuntu/Ass4/102flowers/images/image_05809.jpg,pincushion flower,0.4204050302505493
+/home/ubuntu/Ass4/102flowers/images/image_05809.jpg,great masterwort,0.3162907361984253
+/home/ubuntu/Ass4/102flowers/images/image_05332.jpg,tree poppy,0.8426995873451233
+/home/ubuntu/Ass4/102flowers/images/image_03366.jpg,bird of paradise,0.7923840880393982
+/home/ubuntu/Ass4/102flowers/images/image_07243.jpg,gaura,0.8174242377281189
+/home/ubuntu/Ass4/102flowers/images/image_07487.jpg,bougainvillea,0.8749645948410034
+/home/ubuntu/Ass4/102flowers/images/image_04950.jpg,giant white arum lily,0.5283148288726807
+/home/ubuntu/Ass4/102flowers/images/image_02156.jpg,thorn apple,0.9307606816291809
+/home/ubuntu/Ass4/102flowers/images/image_04310.jpg,peruvian lily,0.8962874412536621
+/home/ubuntu/Ass4/102flowers/images/image_07710.jpg,mallow,0.8104920983314514
+/home/ubuntu/Ass4/102flowers/images/image_03772.jpg,cape flower,0.9280756711959839
+/home/ubuntu/Ass4/102flowers/images/image_02059.jpg,anthurium,0.8722442388534546
+/home/ubuntu/Ass4/102flowers/images/image_04317.jpg,peruvian lily,0.8735434412956238
+/home/ubuntu/Ass4/102flowers/images/image_07796.jpg,mexican petunia,0.7265428304672241
+/home/ubuntu/Ass4/102flowers/images/image_05612.jpg,thorn apple,0.5172882676124573
+/home/ubuntu/Ass4/102flowers/images/image_02548.jpg,petunia,0.4244362413883209
+/home/ubuntu/Ass4/102flowers/images/image_00966.jpg,wallflower,0.8425890803337097
+/home/ubuntu/Ass4/102flowers/images/image_06115.jpg,silverbush,0.7231003642082214
+/home/ubuntu/Ass4/102flowers/images/image_01570.jpg,poinsettia,0.9780203700065613
+/home/ubuntu/Ass4/102flowers/images/image_04256.jpg,lenten rose,0.6483027338981628
+/home/ubuntu/Ass4/102flowers/images/image_04813.jpg,mexican petunia,0.2510671317577362
+/home/ubuntu/Ass4/102flowers/images/image_07649.jpg,sword lily,0.5119005441665649
+/home/ubuntu/Ass4/102flowers/images/image_05312.jpg,tree poppy,0.8666802048683167
+/home/ubuntu/Ass4/102flowers/images/image_00946.jpg,water lily,0.6892353892326355
+/home/ubuntu/Ass4/102flowers/images/image_08139.jpg,gaura,0.6350359320640564
+/home/ubuntu/Ass4/102flowers/images/image_02225.jpg,barbeton daisy,0.9428864121437073
+/home/ubuntu/Ass4/102flowers/images/image_03285.jpg,bird of paradise,0.7732679843902588
+/home/ubuntu/Ass4/102flowers/images/image_01304.jpg,rose,0.5441186428070068
+/home/ubuntu/Ass4/102flowers/images/image_03060.jpg,bee balm,0.8375665545463562
+/home/ubuntu/Ass4/102flowers/images/image_00888.jpg,frangipani,0.6703270077705383
+/home/ubuntu/Ass4/102flowers/images/image_00888.jpg,lotus lotus,0.5547816157341003
+/home/ubuntu/Ass4/102flowers/images/image_05992.jpg,buttercup,0.39157363772392273
+/home/ubuntu/Ass4/102flowers/images/image_03190.jpg,californian poppy,0.6993763446807861
+/home/ubuntu/Ass4/102flowers/images/image_07680.jpg,mallow,0.6902603507041931
+/home/ubuntu/Ass4/102flowers/images/image_07680.jpg,lenten rose,0.5891122221946716
+/home/ubuntu/Ass4/102flowers/images/image_04671.jpg,buttercup,0.32634687423706055
+/home/ubuntu/Ass4/102flowers/images/image_04632.jpg,buttercup,0.6677471399307251
+/home/ubuntu/Ass4/102flowers/images/image_03000.jpg,pink-yellow dahlia,0.808221161365509
+/home/ubuntu/Ass4/102flowers/images/image_03008.jpg,pink-yellow dahlia,0.9234839677810669
+/home/ubuntu/Ass4/102flowers/images/image_03377.jpg,fritillary,0.5996095538139343
+/home/ubuntu/Ass4/102flowers/images/image_01219.jpg,rose,0.8496865630149841
+/home/ubuntu/Ass4/102flowers/images/image_02561.jpg,columbine,0.7154750227928162
+/home/ubuntu/Ass4/102flowers/images/image_04728.jpg,pelargonium,0.32423824071884155
+/home/ubuntu/Ass4/102flowers/images/image_04728.jpg,bougainvillea,0.3079046607017517
+/home/ubuntu/Ass4/102flowers/images/image_08086.jpg,alpine sea holly,0.6740103363990784
+/home/ubuntu/Ass4/102flowers/images/image_05122.jpg,hard-leaved pocket orchid,0.6038274765014648
+/home/ubuntu/Ass4/102flowers/images/image_03462.jpg,clematis,0.4522362947463989
+/home/ubuntu/Ass4/102flowers/images/image_03462.jpg,sweet william,0.3853795826435089
+/home/ubuntu/Ass4/102flowers/images/image_00968.jpg,wallflower,0.9179487228393555
+/home/ubuntu/Ass4/102flowers/images/image_07832.jpg,sword lily,0.6578669548034668
+/home/ubuntu/Ass4/102flowers/images/image_02410.jpg,sword lily,0.9013901948928833
+/home/ubuntu/Ass4/102flowers/images/image_02281.jpg,osteospermum,0.743780791759491
+/home/ubuntu/Ass4/102flowers/images/image_00537.jpg,cyclamen,0.6287057399749756
+/home/ubuntu/Ass4/102flowers/images/image_00537.jpg,lotus lotus,0.3295590579509735
+/home/ubuntu/Ass4/102flowers/images/image_02204.jpg,barbeton daisy,0.9737169146537781
+/home/ubuntu/Ass4/102flowers/images/image_00827.jpg,frangipani,0.856695294380188
+/home/ubuntu/Ass4/102flowers/images/image_03964.jpg,pelargonium,0.35305923223495483
+/home/ubuntu/Ass4/102flowers/images/image_07810.jpg,mexican petunia,0.8712056875228882
+/home/ubuntu/Ass4/102flowers/images/image_02516.jpg,morning glory,0.6545661687850952
+/home/ubuntu/Ass4/102flowers/images/image_05009.jpg,marigold,0.7253392934799194
+/home/ubuntu/Ass4/102flowers/images/image_06718.jpg,toad lily,0.6319164633750916
+/home/ubuntu/Ass4/102flowers/images/image_00376.jpg,water lily,0.9291912317276001
+/home/ubuntu/Ass4/102flowers/images/image_01468.jpg,petunia,0.4541245698928833
+/home/ubuntu/Ass4/102flowers/images/image_06997.jpg,alpine sea holly,0.3375033438205719
+/home/ubuntu/Ass4/102flowers/images/image_01301.jpg,rose,0.652205228805542
+/home/ubuntu/Ass4/102flowers/images/image_07555.jpg,bougainvillea,0.7520566582679749
+/home/ubuntu/Ass4/102flowers/images/image_06932.jpg,mexican aster,0.7378508448600769
+/home/ubuntu/Ass4/102flowers/images/image_02354.jpg,sword lily,0.86967533826828
+/home/ubuntu/Ass4/102flowers/images/image_01631.jpg,clematis,0.7573162317276001
+/home/ubuntu/Ass4/102flowers/images/image_03381.jpg,fritillary,0.9434279799461365
+/home/ubuntu/Ass4/102flowers/images/image_06325.jpg,colt's foot,0.6124467849731445
+/home/ubuntu/Ass4/102flowers/images/image_02716.jpg,geranium,0.8062951564788818
+/home/ubuntu/Ass4/102flowers/images/image_02549.jpg,morning glory,0.8461788892745972
+/home/ubuntu/Ass4/102flowers/images/image_02549.jpg,sword lily,0.31557127833366394
+/home/ubuntu/Ass4/102flowers/images/image_04411.jpg,canna lily,0.8516257405281067
+/home/ubuntu/Ass4/102flowers/images/image_00430.jpg,water lily,0.9511910676956177
+/home/ubuntu/Ass4/102flowers/images/image_03446.jpg,fritillary,0.9598846435546875
+/home/ubuntu/Ass4/102flowers/images/image_07294.jpg,cape flower,0.9419739246368408
+/home/ubuntu/Ass4/102flowers/images/image_06924.jpg,carnation,0.5139922499656677
+/home/ubuntu/Ass4/102flowers/images/image_05449.jpg,sunflower,0.5166869163513184
+/home/ubuntu/Ass4/102flowers/images/image_04995.jpg,marigold,0.858840823173523
+/home/ubuntu/Ass4/102flowers/images/image_03382.jpg,fritillary,0.9655666947364807
+/home/ubuntu/Ass4/102flowers/images/image_07416.jpg,foxglove,0.6638243794441223
+/home/ubuntu/Ass4/102flowers/images/image_04022.jpg,marigold,0.7157410979270935
+/home/ubuntu/Ass4/102flowers/images/image_01035.jpg,wallflower,0.8659799098968506
+/home/ubuntu/Ass4/102flowers/images/image_00098.jpg,passion flower,0.7888852953910828
+/home/ubuntu/Ass4/102flowers/images/image_06813.jpg,bird of paradise,0.3410310447216034
+/home/ubuntu/Ass4/102flowers/images/image_02417.jpg,sword lily,0.5340878963470459
+/home/ubuntu/Ass4/102flowers/images/image_07512.jpg,bougainvillea,0.9280027747154236
+/home/ubuntu/Ass4/102flowers/images/image_05523.jpg,osteospermum,0.8677670359611511
+/home/ubuntu/Ass4/102flowers/images/image_02325.jpg,sword lily,0.34704479575157166
+/home/ubuntu/Ass4/102flowers/images/image_05022.jpg,orange dahlia,0.7946212291717529
+/home/ubuntu/Ass4/102flowers/images/image_02555.jpg,columbine,0.6393411159515381
+/home/ubuntu/Ass4/102flowers/images/image_06269.jpg,cautleya spicata,0.8824465870857239
+/home/ubuntu/Ass4/102flowers/images/image_00436.jpg,water lily,0.8118377327919006
+/home/ubuntu/Ass4/102flowers/images/image_00114.jpg,passion flower,0.3630243241786957
+/home/ubuntu/Ass4/102flowers/images/image_00114.jpg,bee balm,0.29213064908981323
+/home/ubuntu/Ass4/102flowers/images/image_02784.jpg,bishop of llandaff,0.7193189859390259
+/home/ubuntu/Ass4/102flowers/images/image_00468.jpg,cyclamen,0.5312300324440002
+/home/ubuntu/Ass4/102flowers/images/image_07761.jpg,mexican petunia,0.4483402669429779
+/home/ubuntu/Ass4/102flowers/images/image_07761.jpg,petunia,0.3548908233642578
+/home/ubuntu/Ass4/102flowers/images/image_06060.jpg,spear thistle,0.5683016180992126
+/home/ubuntu/Ass4/102flowers/images/image_05081.jpg,orange dahlia,0.8483899831771851
+/home/ubuntu/Ass4/102flowers/images/image_04730.jpg,pelargonium,0.6791560649871826
+/home/ubuntu/Ass4/102flowers/images/image_05721.jpg,buttercup,0.33856964111328125
+/home/ubuntu/Ass4/102flowers/images/image_00889.jpg,frangipani,0.9634842276573181
+/home/ubuntu/Ass4/102flowers/images/image_02837.jpg,bishop of llandaff,0.8189980983734131
+/home/ubuntu/Ass4/102flowers/images/image_03557.jpg,peruvian lily,0.419419527053833
+/home/ubuntu/Ass4/102flowers/images/image_07475.jpg,bougainvillea,0.9328384399414062
+/home/ubuntu/Ass4/102flowers/images/image_00763.jpg,watercress,0.7536259293556213
+/home/ubuntu/Ass4/102flowers/images/image_08023.jpg,blackberry lily,0.780614972114563
+/home/ubuntu/Ass4/102flowers/images/image_04702.jpg,pelargonium,0.7767390608787537
+/home/ubuntu/Ass4/102flowers/images/image_00363.jpg,water lily,0.5109559893608093
+/home/ubuntu/Ass4/102flowers/images/image_07672.jpg,camellia,0.42372986674308777
+/home/ubuntu/Ass4/102flowers/images/image_06470.jpg,love in the mist,0.8018674254417419
+/home/ubuntu/Ass4/102flowers/images/image_05882.jpg,black-eyed susan,0.9581480622291565
+/home/ubuntu/Ass4/102flowers/images/image_01011.jpg,wallflower,0.7839030027389526
+/home/ubuntu/Ass4/102flowers/images/image_07189.jpg,tiger lily,0.5973573923110962
+/home/ubuntu/Ass4/102flowers/images/image_06500.jpg,corn poppy,0.4451058804988861
+/home/ubuntu/Ass4/102flowers/images/image_05393.jpg,stemless gentian,0.45501038432121277
+/home/ubuntu/Ass4/102flowers/images/image_07252.jpg,gaura,0.7851679921150208
+/home/ubuntu/Ass4/102flowers/images/image_07434.jpg,foxglove,0.9746215343475342
+/home/ubuntu/Ass4/102flowers/images/image_00105.jpg,passion flower,0.8878557682037354
+/home/ubuntu/Ass4/102flowers/images/image_00248.jpg,passion flower,0.836217999458313
+/home/ubuntu/Ass4/102flowers/images/image_00248.jpg,anthurium,0.32392898201942444
+/home/ubuntu/Ass4/102flowers/images/image_03511.jpg,sweet william,0.6836971044540405
+/home/ubuntu/Ass4/102flowers/images/image_03511.jpg,clematis,0.3327219784259796
+/home/ubuntu/Ass4/102flowers/images/image_01400.jpg,petunia,0.9096562266349792
+/home/ubuntu/Ass4/102flowers/images/image_07519.jpg,bougainvillea,0.7749291658401489
+/home/ubuntu/Ass4/102flowers/images/image_05262.jpg,stemless gentian,0.7571370601654053
+/home/ubuntu/Ass4/102flowers/images/image_07898.jpg,blanket flower,0.4760529100894928
+/home/ubuntu/Ass4/102flowers/images/image_07898.jpg,purple coneflower,0.47437208890914917
+/home/ubuntu/Ass4/102flowers/images/image_04081.jpg,artichoke,0.4200788140296936
+/home/ubuntu/Ass4/102flowers/images/image_05436.jpg,sunflower,0.6343650221824646
+/home/ubuntu/Ass4/102flowers/images/image_05295.jpg,tree poppy,0.39780473709106445
+/home/ubuntu/Ass4/102flowers/images/image_06302.jpg,common dandelion,0.29495254158973694
+/home/ubuntu/Ass4/102flowers/images/image_06302.jpg,colt's foot,0.2780926525592804
+/home/ubuntu/Ass4/102flowers/images/image_05722.jpg,daffodil,0.39320600032806396
+/home/ubuntu/Ass4/102flowers/images/image_04775.jpg,desert-rose,0.6170327067375183
+/home/ubuntu/Ass4/102flowers/images/image_01665.jpg,ruby-lipped cattleya,0.43060067296028137
+/home/ubuntu/Ass4/102flowers/images/image_01044.jpg,wallflower,0.8431714177131653
+/home/ubuntu/Ass4/102flowers/images/image_04195.jpg,wild pansy,0.5463979244232178
+/home/ubuntu/Ass4/102flowers/images/image_07755.jpg,mexican petunia,0.8671760559082031
+/home/ubuntu/Ass4/102flowers/images/image_04637.jpg,buttercup,0.528691291809082
+/home/ubuntu/Ass4/102flowers/images/image_04787.jpg,desert-rose,0.49668025970458984
+/home/ubuntu/Ass4/102flowers/images/image_06552.jpg,common dandelion,0.754904568195343
+/home/ubuntu/Ass4/102flowers/images/image_05899.jpg,black-eyed susan,0.7838990092277527
+/home/ubuntu/Ass4/102flowers/images/image_00694.jpg,watercress,0.8792529106140137
+/home/ubuntu/Ass4/102flowers/images/image_03065.jpg,bee balm,0.5801085829734802
+/home/ubuntu/Ass4/102flowers/images/image_00759.jpg,watercress,0.9192970395088196
+/home/ubuntu/Ass4/102flowers/images/image_01325.jpg,petunia,0.5668125152587891
+/home/ubuntu/Ass4/102flowers/images/image_01172.jpg,rose,0.9185636639595032
+/home/ubuntu/Ass4/102flowers/images/image_01940.jpg,lotus lotus,0.9414333701133728
+/home/ubuntu/Ass4/102flowers/images/image_07322.jpg,foxglove,0.7960883378982544
+/home/ubuntu/Ass4/102flowers/images/image_06964.jpg,mexican aster,0.4946628510951996
+/home/ubuntu/Ass4/102flowers/images/image_07621.jpg,lenten rose,0.7488307356834412
+/home/ubuntu/Ass4/102flowers/images/image_07621.jpg,camellia,0.32519546151161194
+/home/ubuntu/Ass4/102flowers/images/image_00288.jpg,water lily,0.937481164932251
+/home/ubuntu/Ass4/102flowers/images/image_06669.jpg,globe-flower,0.5614420175552368
+/home/ubuntu/Ass4/102flowers/images/image_03844.jpg,purple coneflower,0.9564954042434692
+/home/ubuntu/Ass4/102flowers/images/image_00452.jpg,cyclamen,0.9137104749679565
+/home/ubuntu/Ass4/102flowers/images/image_08098.jpg,lenten rose,0.5321941375732422
+/home/ubuntu/Ass4/102flowers/images/image_03865.jpg,purple coneflower,0.9332736134529114
+/home/ubuntu/Ass4/102flowers/images/image_00467.jpg,cyclamen,0.5905522108078003
+/home/ubuntu/Ass4/102flowers/images/image_03097.jpg,petunia,0.5949110984802246
+/home/ubuntu/Ass4/102flowers/images/image_03097.jpg,snapdragon,0.33052465319633484
+/home/ubuntu/Ass4/102flowers/images/image_07310.jpg,foxglove,0.7181538939476013
+/home/ubuntu/Ass4/102flowers/images/image_07362.jpg,foxglove,0.9217259883880615
+/home/ubuntu/Ass4/102flowers/images/image_03830.jpg,purple coneflower,0.9394134283065796
+/home/ubuntu/Ass4/102flowers/images/image_00614.jpg,watercress,0.9039701819419861
+/home/ubuntu/Ass4/102flowers/images/image_03132.jpg,desert-rose,0.43095487356185913
+/home/ubuntu/Ass4/102flowers/images/image_05605.jpg,sweet william,0.8301093578338623
+/home/ubuntu/Ass4/102flowers/images/image_07183.jpg,tiger lily,0.47259077429771423
+/home/ubuntu/Ass4/102flowers/images/image_01308.jpg,rose,0.8835375905036926
+/home/ubuntu/Ass4/102flowers/images/image_00346.jpg,water lily,0.8166777491569519
+/home/ubuntu/Ass4/102flowers/images/image_03328.jpg,bird of paradise,0.7588495016098022
+/home/ubuntu/Ass4/102flowers/images/image_05211.jpg,barbeton daisy,0.422402560710907
+/home/ubuntu/Ass4/102flowers/images/image_02050.jpg,lotus lotus,0.38447105884552
+/home/ubuntu/Ass4/102flowers/images/image_02050.jpg,anthurium,0.3511227071285248
+/home/ubuntu/Ass4/102flowers/images/image_05039.jpg,orange dahlia,0.9454662799835205
+/home/ubuntu/Ass4/102flowers/images/image_01097.jpg,wallflower,0.8018929958343506
+/home/ubuntu/Ass4/102flowers/images/image_07789.jpg,petunia,0.5679970383644104
+/home/ubuntu/Ass4/102flowers/images/image_05384.jpg,stemless gentian,0.5089296698570251
+/home/ubuntu/Ass4/102flowers/images/image_02547.jpg,morning glory,0.8186126351356506
+/home/ubuntu/Ass4/102flowers/images/image_06014.jpg,cyclamen,0.3473517596721649
+/home/ubuntu/Ass4/102flowers/images/image_02591.jpg,lenten rose,0.3589080274105072
+/home/ubuntu/Ass4/102flowers/images/image_02591.jpg,columbine,0.2691342234611511
+/home/ubuntu/Ass4/102flowers/images/image_03421.jpg,fritillary,0.6523109674453735
+/home/ubuntu/Ass4/102flowers/images/image_05452.jpg,sunflower,0.5019751787185669
+/home/ubuntu/Ass4/102flowers/images/image_06609.jpg,grape hyacinth,0.5844732522964478
+/home/ubuntu/Ass4/102flowers/images/image_06609.jpg,monkshood,0.32987821102142334
+/home/ubuntu/Ass4/102flowers/images/image_08134.jpg,gaura,0.8194535970687866
+/home/ubuntu/Ass4/102flowers/images/image_06092.jpg,spear thistle,0.6324989795684814
+/home/ubuntu/Ass4/102flowers/images/image_06092.jpg,spear thistle,0.3665064573287964
+/home/ubuntu/Ass4/102flowers/images/image_04633.jpg,californian poppy,0.6205068230628967
+/home/ubuntu/Ass4/102flowers/images/image_04633.jpg,buttercup,0.5525266528129578
+/home/ubuntu/Ass4/102flowers/images/image_02005.jpg,anthurium,0.8586183786392212
+/home/ubuntu/Ass4/102flowers/images/image_05948.jpg,sword lily,0.4746367335319519
+/home/ubuntu/Ass4/102flowers/images/image_05539.jpg,osteospermum,0.675920844078064
+/home/ubuntu/Ass4/102flowers/images/image_05067.jpg,orange dahlia,0.8205301761627197
+/home/ubuntu/Ass4/102flowers/images/image_00247.jpg,passion flower,0.7006945013999939
+/home/ubuntu/Ass4/102flowers/images/image_02230.jpg,barbeton daisy,0.6740906834602356
+/home/ubuntu/Ass4/102flowers/images/image_01194.jpg,rose,0.758920431137085
+/home/ubuntu/Ass4/102flowers/images/image_06357.jpg,yellow iris,0.6936550140380859
+/home/ubuntu/Ass4/102flowers/images/image_06626.jpg,canterbury bells,0.2992742359638214
+/home/ubuntu/Ass4/102flowers/images/image_06626.jpg,stemless gentian,0.298714816570282
+/home/ubuntu/Ass4/102flowers/images/image_00841.jpg,frangipani,0.9485676884651184
+/home/ubuntu/Ass4/102flowers/images/image_04726.jpg,love in the mist,0.4193159341812134
+/home/ubuntu/Ass4/102flowers/images/image_07617.jpg,camellia,0.47812899947166443
+/home/ubuntu/Ass4/102flowers/images/image_03121.jpg,snapdragon,0.7623602747917175
+/home/ubuntu/Ass4/102flowers/images/image_02527.jpg,morning glory,0.7840453386306763
+/home/ubuntu/Ass4/102flowers/images/image_01063.jpg,wallflower,0.7436938285827637
+/home/ubuntu/Ass4/102flowers/images/image_03795.jpg,cape flower,0.8399897813796997
+/home/ubuntu/Ass4/102flowers/images/image_04069.jpg,colt's foot,0.2898411452770233
+/home/ubuntu/Ass4/102flowers/images/image_00661.jpg,watercress,0.8646935224533081
+/home/ubuntu/Ass4/102flowers/images/image_05042.jpg,orange dahlia,0.8352394104003906
+/home/ubuntu/Ass4/102flowers/images/image_03385.jpg,cyclamen,0.5739380717277527
+/home/ubuntu/Ass4/102flowers/images/image_03385.jpg,giant white arum lily,0.43591004610061646
+/home/ubuntu/Ass4/102flowers/images/image_05630.jpg,canna lily,0.5253750085830688
+/home/ubuntu/Ass4/102flowers/images/image_06737.jpg,clematis,0.7110174894332886
+/home/ubuntu/Ass4/102flowers/images/image_02583.jpg,windflower,0.622308075428009
+/home/ubuntu/Ass4/102flowers/images/image_02583.jpg,columbine,0.30847856402397156
+/home/ubuntu/Ass4/102flowers/images/image_00527.jpg,cyclamen,0.7358567714691162
+/home/ubuntu/Ass4/102flowers/images/image_06122.jpg,silverbush,0.6760427951812744
+/home/ubuntu/Ass4/102flowers/images/image_02575.jpg,columbine,0.5752981901168823
+/home/ubuntu/Ass4/102flowers/images/image_05833.jpg,great masterwort,0.8089519739151001
+/home/ubuntu/Ass4/102flowers/images/image_05858.jpg,black-eyed susan,0.8004025220870972
+/home/ubuntu/Ass4/102flowers/images/image_00525.jpg,cyclamen,0.8801144957542419
+/home/ubuntu/Ass4/102flowers/images/image_05923.jpg,hard-leaved pocket orchid,0.33931654691696167
+/home/ubuntu/Ass4/102flowers/images/image_00224.jpg,passion flower,0.9178707599639893
+/home/ubuntu/Ass4/102flowers/images/image_01746.jpg,hibiscus,0.6761061549186707
+/home/ubuntu/Ass4/102flowers/images/image_00266.jpg,water lily,0.9286181926727295
+/home/ubuntu/Ass4/102flowers/images/image_03570.jpg,azalea,0.7490543127059937
+/home/ubuntu/Ass4/102flowers/images/image_07744.jpg,mallow,0.4259902536869049
+/home/ubuntu/Ass4/102flowers/images/image_00602.jpg,watercress,0.5881830453872681
+/home/ubuntu/Ass4/102flowers/images/image_00193.jpg,passion flower,0.7531763911247253
+/home/ubuntu/Ass4/102flowers/images/image_08187.jpg,japanese anemone,0.5790565013885498
+/home/ubuntu/Ass4/102flowers/images/image_01987.jpg,anthurium,0.7449589967727661
+/home/ubuntu/Ass4/102flowers/images/image_03864.jpg,purple coneflower,0.7655065655708313
+/home/ubuntu/Ass4/102flowers/images/image_07341.jpg,foxglove,0.885722279548645
+/home/ubuntu/Ass4/102flowers/images/image_02655.jpg,geranium,0.7797733545303345
+/home/ubuntu/Ass4/102flowers/images/image_01986.jpg,anthurium,0.9183342456817627
+/home/ubuntu/Ass4/102flowers/images/image_08106.jpg,tiger lily,0.9086755514144897
+/home/ubuntu/Ass4/102flowers/images/image_06238.jpg,oxeye daisy,0.3852404057979584
+/home/ubuntu/Ass4/102flowers/images/image_04346.jpg,ruby-lipped cattleya,0.8798091411590576
+/home/ubuntu/Ass4/102flowers/images/image_00182.jpg,passion flower,0.863426148891449
+/home/ubuntu/Ass4/102flowers/images/image_04736.jpg,pelargonium,0.7508419752120972
+/home/ubuntu/Ass4/102flowers/images/image_02909.jpg,tree mallow,0.9187940955162048
+/home/ubuntu/Ass4/102flowers/images/image_06389.jpg,columbine,0.3004477322101593
+/home/ubuntu/Ass4/102flowers/images/image_07861.jpg,bird of paradise,0.8643481731414795
+/home/ubuntu/Ass4/102flowers/images/image_00218.jpg,passion flower,0.9730570912361145
+/home/ubuntu/Ass4/102flowers/images/image_06385.jpg,daffodil,0.6270381212234497
+/home/ubuntu/Ass4/102flowers/images/image_02660.jpg,geranium,0.8353528380393982
+/home/ubuntu/Ass4/102flowers/images/image_07141.jpg,columbine,0.3983979821205139
+/home/ubuntu/Ass4/102flowers/images/image_03744.jpg,cape flower,0.9678947925567627
+/home/ubuntu/Ass4/102flowers/images/image_03641.jpg,primula,0.494552344083786
+/home/ubuntu/Ass4/102flowers/images/image_03641.jpg,poinsettia,0.28764379024505615
+/home/ubuntu/Ass4/102flowers/images/image_04341.jpg,sword lily,0.3238128423690796
+/home/ubuntu/Ass4/102flowers/images/image_04729.jpg,pelargonium,0.6840664744377136
+/home/ubuntu/Ass4/102flowers/images/image_06098.jpg,silverbush,0.28720423579216003
+/home/ubuntu/Ass4/102flowers/images/image_00599.jpg,watercress,0.2941334843635559
+/home/ubuntu/Ass4/102flowers/images/image_06171.jpg,balloon flower,0.5594686269760132
+/home/ubuntu/Ass4/102flowers/images/image_00548.jpg,cyclamen,0.6492024660110474
+/home/ubuntu/Ass4/102flowers/images/image_00548.jpg,lotus lotus,0.5438037514686584
+/home/ubuntu/Ass4/102flowers/images/image_06655.jpg,yellow iris,0.5106911659240723
+/home/ubuntu/Ass4/102flowers/images/image_06655.jpg,globe-flower,0.3251664340496063
+/home/ubuntu/Ass4/102flowers/images/image_01023.jpg,wallflower,0.663806140422821
+/home/ubuntu/Ass4/102flowers/images/image_03582.jpg,azalea,0.6278936266899109
+/home/ubuntu/Ass4/102flowers/images/image_05300.jpg,tree poppy,0.7185832858085632
+/home/ubuntu/Ass4/102flowers/images/image_00191.jpg,passion flower,0.9479633569717407
+/home/ubuntu/Ass4/102flowers/images/image_01328.jpg,petunia,0.9493361711502075
+/home/ubuntu/Ass4/102flowers/images/image_07908.jpg,blanket flower,0.4516688287258148
+/home/ubuntu/Ass4/102flowers/images/image_07908.jpg,gazania,0.3770417869091034
+/home/ubuntu/Ass4/102flowers/images/image_04109.jpg,artichoke,0.8820618987083435
+/home/ubuntu/Ass4/102flowers/images/image_03934.jpg,petunia,0.7190057039260864
+/home/ubuntu/Ass4/102flowers/images/image_02760.jpg,bishop of llandaff,0.8415185809135437
+/home/ubuntu/Ass4/102flowers/images/image_02817.jpg,bishop of llandaff,0.580424964427948
+/home/ubuntu/Ass4/102flowers/images/image_00431.jpg,water lily,0.7504029273986816
+/home/ubuntu/Ass4/102flowers/images/image_07918.jpg,gazania,0.32197293639183044
+/home/ubuntu/Ass4/102flowers/images/image_04059.jpg,colt's foot,0.756343424320221
+/home/ubuntu/Ass4/102flowers/images/image_04672.jpg,buttercup,0.7047463059425354
+/home/ubuntu/Ass4/102flowers/images/image_02360.jpg,sword lily,0.6816096901893616
+/home/ubuntu/Ass4/102flowers/images/image_02360.jpg,red ginger,0.33237719535827637
+/home/ubuntu/Ass4/102flowers/images/image_05483.jpg,magnolia,0.7913218140602112
+/home/ubuntu/Ass4/102flowers/images/image_01791.jpg,hippeastrum,0.49138686060905457
+/home/ubuntu/Ass4/102flowers/images/image_05019.jpg,marigold,0.3245437443256378
+/home/ubuntu/Ass4/102flowers/images/image_04760.jpg,pelargonium,0.6899701952934265
+/home/ubuntu/Ass4/102flowers/images/image_07436.jpg,foxglove,0.8941114544868469
+/home/ubuntu/Ass4/102flowers/images/image_02480.jpg,morning glory,0.5437861680984497
+/home/ubuntu/Ass4/102flowers/images/image_03532.jpg,sweet william,0.6871527433395386
+/home/ubuntu/Ass4/102flowers/images/image_05454.jpg,sunflower,0.30690205097198486
+/home/ubuntu/Ass4/102flowers/images/image_02164.jpg,thorn apple,0.7833265066146851
+/home/ubuntu/Ass4/102flowers/images/image_06543.jpg,common dandelion,0.7039382457733154
+/home/ubuntu/Ass4/102flowers/images/image_06611.jpg,grape hyacinth,0.8103824257850647
+/home/ubuntu/Ass4/102flowers/images/image_00543.jpg,cyclamen,0.856947124004364
+/home/ubuntu/Ass4/102flowers/images/image_05421.jpg,sunflower,0.5782157182693481
+/home/ubuntu/Ass4/102flowers/images/image_03773.jpg,cape flower,0.9196223616600037
+/home/ubuntu/Ass4/102flowers/images/image_03512.jpg,clematis,0.7059860825538635
+/home/ubuntu/Ass4/102flowers/images/image_00701.jpg,watercress,0.8247569799423218
+/home/ubuntu/Ass4/102flowers/images/image_03954.jpg,petunia,0.5513237714767456
+/home/ubuntu/Ass4/102flowers/images/image_04408.jpg,sword lily,0.8062142729759216
+/home/ubuntu/Ass4/102flowers/images/image_04408.jpg,canna lily,0.7889174818992615
+/home/ubuntu/Ass4/102flowers/images/image_05180.jpg,english marigold,0.8717102408409119
+/home/ubuntu/Ass4/102flowers/images/image_05402.jpg,barbeton daisy,0.4396694302558899
+/home/ubuntu/Ass4/102flowers/images/image_07266.jpg,gaura,0.8191837668418884
+/home/ubuntu/Ass4/102flowers/images/image_02649.jpg,geranium,0.8730809688568115
+/home/ubuntu/Ass4/102flowers/images/image_06548.jpg,common dandelion,0.8251462578773499
+/home/ubuntu/Ass4/102flowers/images/image_05947.jpg,stemless gentian,0.6947936415672302
+/home/ubuntu/Ass4/102flowers/images/image_00350.jpg,water lily,0.9526169300079346
+/home/ubuntu/Ass4/102flowers/images/image_00423.jpg,water lily,0.9199962615966797
+/home/ubuntu/Ass4/102flowers/images/image_08137.jpg,gaura,0.4641231298446655
+/home/ubuntu/Ass4/102flowers/images/image_03820.jpg,cape flower,0.8166583776473999
+/home/ubuntu/Ass4/102flowers/images/image_04363.jpg,ruby-lipped cattleya,0.6615887880325317
+/home/ubuntu/Ass4/102flowers/images/image_06821.jpg,king protea,0.41122329235076904
+/home/ubuntu/Ass4/102flowers/images/image_06957.jpg,mexican aster,0.3992135226726532
+/home/ubuntu/Ass4/102flowers/images/image_03123.jpg,snapdragon,0.6558758020401001
+/home/ubuntu/Ass4/102flowers/images/image_04221.jpg,wild pansy,0.6148549318313599
+/home/ubuntu/Ass4/102flowers/images/image_06524.jpg,corn poppy,0.5915043354034424
+/home/ubuntu/Ass4/102flowers/images/image_02425.jpg,daffodil,0.25488346815109253
+/home/ubuntu/Ass4/102flowers/images/image_02392.jpg,sword lily,0.4181784689426422
+/home/ubuntu/Ass4/102flowers/images/image_03141.jpg,snapdragon,0.6215943098068237
+/home/ubuntu/Ass4/102flowers/images/image_06876.jpg,prince of wales feathers,0.4429626762866974
+/home/ubuntu/Ass4/102flowers/images/image_02872.jpg,tree mallow,0.9186655282974243
+/home/ubuntu/Ass4/102flowers/images/image_03537.jpg,sweet william,0.6124845147132874
+/home/ubuntu/Ass4/102flowers/images/image_00160.jpg,passion flower,0.9639462828636169
+/home/ubuntu/Ass4/102flowers/images/image_03761.jpg,cape flower,0.9132490754127502
+/home/ubuntu/Ass4/102flowers/images/image_01127.jpg,wallflower,0.6595585942268372
+/home/ubuntu/Ass4/102flowers/images/image_03087.jpg,bee balm,0.8499411344528198
+/home/ubuntu/Ass4/102flowers/images/image_06079.jpg,spear thistle,0.7100339531898499
+/home/ubuntu/Ass4/102flowers/images/image_03340.jpg,bird of paradise,0.8540242910385132
+/home/ubuntu/Ass4/102flowers/images/image_07360.jpg,foxglove,0.8811914920806885
+/home/ubuntu/Ass4/102flowers/images/image_07066.jpg,anthurium,0.2507856488227844
+/home/ubuntu/Ass4/102flowers/images/image_02940.jpg,pink-yellow dahlia,0.8881821632385254
+/home/ubuntu/Ass4/102flowers/images/image_04206.jpg,wild pansy,0.9723777770996094
+/home/ubuntu/Ass4/102flowers/images/image_04565.jpg,peruvian lily,0.2984415292739868
+/home/ubuntu/Ass4/102flowers/images/image_00192.jpg,passion flower,0.9851207733154297
+/home/ubuntu/Ass4/102flowers/images/image_00530.jpg,sword lily,0.41472452878952026
+/home/ubuntu/Ass4/102flowers/images/image_05643.jpg,canterbury bells,0.49355173110961914
+/home/ubuntu/Ass4/102flowers/images/image_05521.jpg,lotus lotus,0.48390132188796997
+/home/ubuntu/Ass4/102flowers/images/image_03178.jpg,primula,0.7421488165855408
+/home/ubuntu/Ass4/102flowers/images/image_03178.jpg,snapdragon,0.35092872381210327
+/home/ubuntu/Ass4/102flowers/images/image_06179.jpg,petunia,0.25711625814437866
+/home/ubuntu/Ass4/102flowers/images/image_03646.jpg,primula,0.5497273206710815
+/home/ubuntu/Ass4/102flowers/images/image_00726.jpg,watercress,0.8319196701049805
+/home/ubuntu/Ass4/102flowers/images/image_03742.jpg,cape flower,0.7205513715744019
+/home/ubuntu/Ass4/102flowers/images/image_01988.jpg,anthurium,0.9245473742485046
+/home/ubuntu/Ass4/102flowers/images/image_07572.jpg,bougainvillea,0.32706496119499207
+/home/ubuntu/Ass4/102flowers/images/image_03288.jpg,bird of paradise,0.8282994627952576
+/home/ubuntu/Ass4/102flowers/images/image_07413.jpg,foxglove,0.734096109867096
+/home/ubuntu/Ass4/102flowers/images/image_00488.jpg,cyclamen,0.9187734723091125
+/home/ubuntu/Ass4/102flowers/images/image_06146.jpg,silverbush,0.6734585165977478
+/home/ubuntu/Ass4/102flowers/images/image_06146.jpg,windflower,0.2748454213142395
+/home/ubuntu/Ass4/102flowers/images/image_07645.jpg,rose,0.3948049545288086
+/home/ubuntu/Ass4/102flowers/images/image_07645.jpg,anthurium,0.38843026757240295
+/home/ubuntu/Ass4/102flowers/images/image_05584.jpg,clematis,0.5132286548614502
+/home/ubuntu/Ass4/102flowers/images/image_08138.jpg,gaura,0.6667523384094238
+/home/ubuntu/Ass4/102flowers/images/image_05048.jpg,orange dahlia,0.7563692331314087
+/home/ubuntu/Ass4/102flowers/images/image_07575.jpg,thorn apple,0.4740106463432312
+/home/ubuntu/Ass4/102flowers/images/image_04687.jpg,californian poppy,0.3374524414539337
+/home/ubuntu/Ass4/102flowers/images/image_02335.jpg,sword lily,0.7644788026809692
+/home/ubuntu/Ass4/102flowers/images/image_05914.jpg,bearded iris,0.3624621033668518
+/home/ubuntu/Ass4/102flowers/images/image_00501.jpg,cyclamen,0.527298629283905
+/home/ubuntu/Ass4/102flowers/images/image_07747.jpg,anthurium,0.2656645178794861
+/home/ubuntu/Ass4/102flowers/images/image_04138.jpg,artichoke,0.7579389214515686
+/home/ubuntu/Ass4/102flowers/images/image_01179.jpg,rose,0.46039021015167236
+/home/ubuntu/Ass4/102flowers/images/image_07403.jpg,foxglove,0.9628586769104004
+/home/ubuntu/Ass4/102flowers/images/image_06017.jpg,red ginger,0.7503735423088074
+/home/ubuntu/Ass4/102flowers/images/image_05178.jpg,barbeton daisy,0.49444693326950073
+/home/ubuntu/Ass4/102flowers/images/image_01854.jpg,lotus lotus,0.7060120105743408
+/home/ubuntu/Ass4/102flowers/images/image_05502.jpg,magnolia,0.5849796533584595
+/home/ubuntu/Ass4/102flowers/images/image_04276.jpg,peruvian lily,0.3621174395084381
+/home/ubuntu/Ass4/102flowers/images/image_02719.jpg,geranium,0.9034386873245239
+/home/ubuntu/Ass4/102flowers/images/image_07507.jpg,bougainvillea,0.6128332018852234
+/home/ubuntu/Ass4/102flowers/images/image_07899.jpg,peruvian lily,0.5466415882110596
+/home/ubuntu/Ass4/102flowers/images/image_02453.jpg,foxglove,0.8531293869018555
+/home/ubuntu/Ass4/102flowers/images/image_05515.jpg,magnolia,0.7984466552734375
+/home/ubuntu/Ass4/102flowers/images/image_05753.jpg,spear thistle,0.3873196542263031
+/home/ubuntu/Ass4/102flowers/images/image_03724.jpg,primula,0.30094680190086365
+/home/ubuntu/Ass4/102flowers/images/image_07093.jpg,globe thistle,0.5854955911636353
+/home/ubuntu/Ass4/102flowers/images/image_06474.jpg,love in the mist,0.8719099164009094
+/home/ubuntu/Ass4/102flowers/images/image_06347.jpg,yellow iris,0.6124237775802612
+/home/ubuntu/Ass4/102flowers/images/image_00970.jpg,wallflower,0.7956996560096741
+/home/ubuntu/Ass4/102flowers/images/image_04796.jpg,desert-rose,0.36265575885772705
+/home/ubuntu/Ass4/102flowers/images/image_05913.jpg,bearded iris,0.3238947093486786
+/home/ubuntu/Ass4/102flowers/images/image_00815.jpg,frangipani,0.9294548630714417
+/home/ubuntu/Ass4/102flowers/images/image_00676.jpg,watercress,0.8423483967781067
+/home/ubuntu/Ass4/102flowers/images/image_01694.jpg,clematis,0.8089818954467773
+/home/ubuntu/Ass4/102flowers/images/image_02448.jpg,morning glory,0.435111939907074
+/home/ubuntu/Ass4/102flowers/images/image_06971.jpg,alpine sea holly,0.42148709297180176
+/home/ubuntu/Ass4/102flowers/images/image_00506.jpg,water lily,0.47916311025619507
+/home/ubuntu/Ass4/102flowers/images/image_07070.jpg,magnolia,0.8367416262626648
+/home/ubuntu/Ass4/102flowers/images/image_04106.jpg,artichoke,0.7170661091804504
+/home/ubuntu/Ass4/102flowers/images/image_01361.jpg,petunia,0.8256585597991943
+/home/ubuntu/Ass4/102flowers/images/image_03061.jpg,bee balm,0.8637586236000061
+/home/ubuntu/Ass4/102flowers/images/image_05294.jpg,bearded iris,0.26930442452430725
+/home/ubuntu/Ass4/102flowers/images/image_05294.jpg,tree poppy,0.25768983364105225
+/home/ubuntu/Ass4/102flowers/images/image_06861.jpg,prince of wales feathers,0.7053391337394714
+/home/ubuntu/Ass4/102flowers/images/image_03321.jpg,bird of paradise,0.7552799582481384
+/home/ubuntu/Ass4/102flowers/images/image_01951.jpg,lotus lotus,0.7069962620735168
+/home/ubuntu/Ass4/102flowers/images/image_02612.jpg,columbine,0.7102537155151367
+/home/ubuntu/Ass4/102flowers/images/image_04149.jpg,artichoke,0.35960161685943604
+/home/ubuntu/Ass4/102flowers/images/image_05818.jpg,great masterwort,0.9348590970039368
+/home/ubuntu/Ass4/102flowers/images/image_05306.jpg,tree poppy,0.7531887292861938
+/home/ubuntu/Ass4/102flowers/images/image_08030.jpg,blackberry lily,0.6120299696922302
+/home/ubuntu/Ass4/102flowers/images/image_06697.jpg,toad lily,0.5906769037246704
+/home/ubuntu/Ass4/102flowers/images/image_05820.jpg,great masterwort,0.7296440601348877
+/home/ubuntu/Ass4/102flowers/images/image_02816.jpg,bishop of llandaff,0.8518379926681519
+/home/ubuntu/Ass4/102flowers/images/image_00065.jpg,passion flower,0.8348121047019958
+/home/ubuntu/Ass4/102flowers/images/image_04451.jpg,canna lily,0.4805111587047577
+/home/ubuntu/Ass4/102flowers/images/image_04213.jpg,wild pansy,0.6370760798454285
+/home/ubuntu/Ass4/102flowers/images/image_04213.jpg,monkshood,0.4977130591869354
+/home/ubuntu/Ass4/102flowers/images/image_07948.jpg,petunia,0.48773956298828125
+/home/ubuntu/Ass4/102flowers/images/image_04608.jpg,lenten rose,0.6719033122062683
+/home/ubuntu/Ass4/102flowers/images/image_03458.jpg,fritillary,0.6641554832458496
+/home/ubuntu/Ass4/102flowers/images/image_03116.jpg,foxglove,0.4675918519496918
+/home/ubuntu/Ass4/102flowers/images/image_03116.jpg,snapdragon,0.3263043165206909
+/home/ubuntu/Ass4/102flowers/images/image_01138.jpg,bishop of llandaff,0.3393988013267517
+/home/ubuntu/Ass4/102flowers/images/image_05512.jpg,magnolia,0.8861998319625854
+/home/ubuntu/Ass4/102flowers/images/image_07016.jpg,cyclamen,0.7459501028060913
+/home/ubuntu/Ass4/102flowers/images/image_06010.jpg,windflower,0.7135517001152039
+/home/ubuntu/Ass4/102flowers/images/image_03758.jpg,cape flower,0.7799601554870605
+/home/ubuntu/Ass4/102flowers/images/image_00842.jpg,frangipani,0.916619062423706
+/home/ubuntu/Ass4/102flowers/images/image_08018.jpg,blackberry lily,0.6593311429023743
+/home/ubuntu/Ass4/102flowers/images/image_02227.jpg,barbeton daisy,0.4528830051422119
+/home/ubuntu/Ass4/102flowers/images/image_02227.jpg,blanket flower,0.34024250507354736
+/home/ubuntu/Ass4/102flowers/images/image_00480.jpg,cyclamen,0.7655206918716431
+/home/ubuntu/Ass4/102flowers/images/image_05830.jpg,great masterwort,0.7446612119674683
+/home/ubuntu/Ass4/102flowers/images/image_02796.jpg,bishop of llandaff,0.8330886960029602
+/home/ubuntu/Ass4/102flowers/images/image_00232.jpg,passion flower,0.9117982983589172
+/home/ubuntu/Ass4/102flowers/images/image_01410.jpg,petunia,0.8542687296867371
+/home/ubuntu/Ass4/102flowers/images/image_06584.jpg,grape hyacinth,0.8951637148857117
+/home/ubuntu/Ass4/102flowers/images/image_07045.jpg,cyclamen,0.7013072371482849
+/home/ubuntu/Ass4/102flowers/images/image_03681.jpg,primula,0.4425365626811981
+/home/ubuntu/Ass4/102flowers/images/image_04343.jpg,ruby-lipped cattleya,0.625063955783844
+/home/ubuntu/Ass4/102flowers/images/image_01582.jpg,bougainvillea,0.6558534502983093
+/home/ubuntu/Ass4/102flowers/images/image_06049.jpg,spear thistle,0.4756496548652649
+/home/ubuntu/Ass4/102flowers/images/image_03433.jpg,fritillary,0.7259863615036011
+/home/ubuntu/Ass4/102flowers/images/image_06305.jpg,common dandelion,0.679577648639679
+/home/ubuntu/Ass4/102flowers/images/image_02666.jpg,rose,0.6935858726501465
+/home/ubuntu/Ass4/102flowers/images/image_03420.jpg,fritillary,0.7277889847755432
+/home/ubuntu/Ass4/102flowers/images/image_06587.jpg,pincushion flower,0.4092705547809601
+/home/ubuntu/Ass4/102flowers/images/image_06080.jpg,artichoke,0.5914678573608398
+/home/ubuntu/Ass4/102flowers/images/image_03415.jpg,fritillary,0.9420549869537354
+/home/ubuntu/Ass4/102flowers/images/image_05566.jpg,osteospermum,0.6620154976844788
+/home/ubuntu/Ass4/102flowers/images/image_06783.jpg,fire lily,0.864050030708313
+/home/ubuntu/Ass4/102flowers/images/image_00359.jpg,frangipani,0.4640570878982544
+/home/ubuntu/Ass4/102flowers/images/image_04292.jpg,peruvian lily,0.8053864240646362
+/home/ubuntu/Ass4/102flowers/images/image_00111.jpg,passion flower,0.9303037524223328
+/home/ubuntu/Ass4/102flowers/images/image_03580.jpg,azalea,0.6586100459098816
+/home/ubuntu/Ass4/102flowers/images/image_03899.jpg,purple coneflower,0.9532347321510315
+/home/ubuntu/Ass4/102flowers/images/image_02533.jpg,morning glory,0.8673133254051208
+/home/ubuntu/Ass4/102flowers/images/image_06990.jpg,love in the mist,0.5864732265472412
+/home/ubuntu/Ass4/102flowers/images/image_06990.jpg,alpine sea holly,0.5632394552230835
+/home/ubuntu/Ass4/102flowers/images/image_07078.jpg,spring crocus,0.5075641870498657
+/home/ubuntu/Ass4/102flowers/images/image_05614.jpg,petunia,0.37520819902420044
+/home/ubuntu/Ass4/102flowers/images/image_05847.jpg,great masterwort,0.859940767288208
+/home/ubuntu/Ass4/102flowers/images/image_02038.jpg,anthurium,0.8856317400932312
+/home/ubuntu/Ass4/102flowers/images/image_06501.jpg,corn poppy,0.8985778093338013
+/home/ubuntu/Ass4/102flowers/images/image_05431.jpg,sunflower,0.6139247417449951
+/home/ubuntu/Ass4/102flowers/images/image_01443.jpg,petunia,0.947894811630249
+/home/ubuntu/Ass4/102flowers/images/image_04426.jpg,canna lily,0.7922989726066589
+/home/ubuntu/Ass4/102flowers/images/image_02738.jpg,geranium,0.8189911842346191
+/home/ubuntu/Ass4/102flowers/images/image_07749.jpg,mallow,0.3855500817298889
+/home/ubuntu/Ass4/102flowers/images/image_02562.jpg,columbine,0.6629646420478821
+/home/ubuntu/Ass4/102flowers/images/image_02959.jpg,pink-yellow dahlia,0.9103872179985046
+/home/ubuntu/Ass4/102flowers/images/image_08026.jpg,blackberry lily,0.8682191371917725
+/home/ubuntu/Ass4/102flowers/images/image_02419.jpg,sword lily,0.8033577799797058
+/home/ubuntu/Ass4/102flowers/images/image_01885.jpg,lotus lotus,0.7473070025444031
+/home/ubuntu/Ass4/102flowers/images/image_01543.jpg,poinsettia,0.5614705681800842
+/home/ubuntu/Ass4/102flowers/images/image_04481.jpg,barbeton daisy,0.3596891164779663
+/home/ubuntu/Ass4/102flowers/images/image_06884.jpg,common dandelion,0.38465315103530884
+/home/ubuntu/Ass4/102flowers/images/image_06939.jpg,mexican aster,0.6371006369590759
+/home/ubuntu/Ass4/102flowers/images/image_06939.jpg,tree mallow,0.617718517780304
+/home/ubuntu/Ass4/102flowers/images/image_07405.jpg,foxglove,0.6145744919776917
+/home/ubuntu/Ass4/102flowers/images/image_04443.jpg,canna lily,0.7083439230918884
+/home/ubuntu/Ass4/102flowers/images/image_01260.jpg,rose,0.6523166298866272
+/home/ubuntu/Ass4/102flowers/images/image_00626.jpg,watercress,0.7763110995292664
+/home/ubuntu/Ass4/102flowers/images/image_01922.jpg,lotus lotus,0.6937330365180969
+/home/ubuntu/Ass4/102flowers/images/image_05270.jpg,stemless gentian,0.3328801989555359
+/home/ubuntu/Ass4/102flowers/images/image_03615.jpg,azalea,0.47309213876724243
+/home/ubuntu/Ass4/102flowers/images/image_04914.jpg,giant white arum lily,0.3458024859428406
+/home/ubuntu/Ass4/102flowers/images/image_03212.jpg,californian poppy,0.7208700776100159
+/home/ubuntu/Ass4/102flowers/images/image_05364.jpg,pincushion flower,0.3862011730670929
+/home/ubuntu/Ass4/102flowers/images/image_05364.jpg,great masterwort,0.3258940875530243
+/home/ubuntu/Ass4/102flowers/images/image_00082.jpg,passion flower,0.9585551023483276
+/home/ubuntu/Ass4/102flowers/images/image_01713.jpg,hibiscus,0.7811273336410522
+/home/ubuntu/Ass4/102flowers/images/image_06219.jpg,oxeye daisy,0.27154019474983215
+/home/ubuntu/Ass4/102flowers/images/image_03552.jpg,azalea,0.8472098708152771
+/home/ubuntu/Ass4/102flowers/images/image_04756.jpg,bougainvillea,0.45654991269111633
+/home/ubuntu/Ass4/102flowers/images/image_04756.jpg,pelargonium,0.32687801122665405
+/home/ubuntu/Ass4/102flowers/images/image_06498.jpg,wallflower,0.5349202156066895
+/home/ubuntu/Ass4/102flowers/images/image_03732.jpg,poinsettia,0.33519047498703003
+/home/ubuntu/Ass4/102flowers/images/image_06344.jpg,common dandelion,0.8001239895820618
+/home/ubuntu/Ass4/102flowers/images/image_03539.jpg,sweet william,0.29843848943710327
+/home/ubuntu/Ass4/102flowers/images/image_03999.jpg,colt's foot,0.4340251386165619
+/home/ubuntu/Ass4/102flowers/images/image_04370.jpg,ruby-lipped cattleya,0.7707556486129761
+/home/ubuntu/Ass4/102flowers/images/image_01407.jpg,petunia,0.9168436527252197
+/home/ubuntu/Ass4/102flowers/images/image_06064.jpg,spear thistle,0.7709303498268127
+/home/ubuntu/Ass4/102flowers/images/image_07088.jpg,globe thistle,0.5136162638664246
+/home/ubuntu/Ass4/102flowers/images/image_03874.jpg,purple coneflower,0.6421271562576294
+/home/ubuntu/Ass4/102flowers/images/image_07378.jpg,foxglove,0.3533458709716797
+/home/ubuntu/Ass4/102flowers/images/image_07690.jpg,lenten rose,0.5067700147628784
+/home/ubuntu/Ass4/102flowers/images/image_07005.jpg,spear thistle,0.7253053784370422
+/home/ubuntu/Ass4/102flowers/images/image_08061.jpg,hippeastrum,0.7392314672470093
+/home/ubuntu/Ass4/102flowers/images/image_00988.jpg,wallflower,0.8097831606864929
+/home/ubuntu/Ass4/102flowers/images/image_04919.jpg,frangipani,0.4089408814907074
+/home/ubuntu/Ass4/102flowers/images/image_04300.jpg,sword lily,0.45598626136779785
+/home/ubuntu/Ass4/102flowers/images/image_05591.jpg,petunia,0.29492104053497314
+/home/ubuntu/Ass4/102flowers/images/image_00893.jpg,lotus lotus,0.7820530533790588
+/home/ubuntu/Ass4/102flowers/images/image_01904.jpg,lotus lotus,0.7602825164794922
+/home/ubuntu/Ass4/102flowers/images/image_01211.jpg,water lily,0.6242644190788269
+/home/ubuntu/Ass4/102flowers/images/image_05712.jpg,wallflower,0.39668038487434387
+/home/ubuntu/Ass4/102flowers/images/image_04766.jpg,pelargonium,0.8901153802871704
+/home/ubuntu/Ass4/102flowers/images/image_04718.jpg,pelargonium,0.7568896412849426
+/home/ubuntu/Ass4/102flowers/images/image_04964.jpg,marigold,0.9190967082977295
+/home/ubuntu/Ass4/102flowers/images/image_02001.jpg,anthurium,0.9632788896560669
+/home/ubuntu/Ass4/102flowers/images/image_00922.jpg,frangipani,0.9456691145896912
+/home/ubuntu/Ass4/102flowers/images/image_02025.jpg,anthurium,0.8728864192962646
+/home/ubuntu/Ass4/102flowers/images/image_00008.jpg,passion flower,0.9231542944908142
+/home/ubuntu/Ass4/102flowers/images/image_00754.jpg,watercress,0.7783396244049072
+/home/ubuntu/Ass4/102flowers/images/image_04353.jpg,ruby-lipped cattleya,0.3200716972351074
+/home/ubuntu/Ass4/102flowers/images/image_01620.jpg,clematis,0.8082467913627625
+/home/ubuntu/Ass4/102flowers/images/image_06326.jpg,common dandelion,0.7964650988578796
+/home/ubuntu/Ass4/102flowers/images/image_01264.jpg,rose,0.38395047187805176
+/home/ubuntu/Ass4/102flowers/images/image_04989.jpg,marigold,0.8492419123649597
+/home/ubuntu/Ass4/102flowers/images/image_00426.jpg,water lily,0.9096605181694031
+/home/ubuntu/Ass4/102flowers/images/image_03730.jpg,primula,0.6815412640571594
+/home/ubuntu/Ass4/102flowers/images/image_00171.jpg,passion flower,0.8569623231887817
+/home/ubuntu/Ass4/102flowers/images/image_02693.jpg,geranium,0.9354451298713684
+/home/ubuntu/Ass4/102flowers/images/image_02613.jpg,columbine,0.27994611859321594
+/home/ubuntu/Ass4/102flowers/images/image_05797.jpg,great masterwort,0.40482231974601746
+/home/ubuntu/Ass4/102flowers/images/image_03454.jpg,fritillary,0.9351096749305725
+/home/ubuntu/Ass4/102flowers/images/image_02923.jpg,pink-yellow dahlia,0.8545418977737427
+/home/ubuntu/Ass4/102flowers/images/image_04936.jpg,giant white arum lily,0.34877991676330566
+/home/ubuntu/Ass4/102flowers/images/image_03323.jpg,bird of paradise,0.8594391345977783
+/home/ubuntu/Ass4/102flowers/images/image_07752.jpg,mexican petunia,0.3242800831794739
+/home/ubuntu/Ass4/102flowers/images/image_07752.jpg,petunia,0.3067989647388458
+/home/ubuntu/Ass4/102flowers/images/image_05728.jpg,daffodil,0.5130941867828369
+/home/ubuntu/Ass4/102flowers/images/image_07673.jpg,water lily,0.30916932225227356
+/home/ubuntu/Ass4/102flowers/images/image_03770.jpg,cape flower,0.9661881923675537
+/home/ubuntu/Ass4/102flowers/images/image_07786.jpg,mexican petunia,0.2801826298236847
+/home/ubuntu/Ass4/102flowers/images/image_03045.jpg,bee balm,0.880539059638977
+/home/ubuntu/Ass4/102flowers/images/image_03045.jpg,gaura,0.6124137043952942
+/home/ubuntu/Ass4/102flowers/images/image_00975.jpg,bishop of llandaff,0.728603720664978
+/home/ubuntu/Ass4/102flowers/images/image_00975.jpg,wallflower,0.654384195804596
+/home/ubuntu/Ass4/102flowers/images/image_07170.jpg,tiger lily,0.5697647929191589
+/home/ubuntu/Ass4/102flowers/images/image_06597.jpg,grape hyacinth,0.8839346170425415
+/home/ubuntu/Ass4/102flowers/images/image_01803.jpg,hibiscus,0.5675691962242126
+/home/ubuntu/Ass4/102flowers/images/image_06450.jpg,love in the mist,0.7946093678474426
+/home/ubuntu/Ass4/102flowers/images/image_04204.jpg,wild pansy,0.7828762531280518
+/home/ubuntu/Ass4/102flowers/images/image_07589.jpg,bougainvillea,0.9203391671180725
+/home/ubuntu/Ass4/102flowers/images/image_00380.jpg,water lily,0.8136155605316162
+/home/ubuntu/Ass4/102flowers/images/image_05817.jpg,great masterwort,0.3422919809818268
+/home/ubuntu/Ass4/102flowers/images/image_06995.jpg,alpine sea holly,0.6436700820922852
+/home/ubuntu/Ass4/102flowers/images/image_04591.jpg,water lily,0.6752732396125793
+/home/ubuntu/Ass4/102flowers/images/image_07370.jpg,foxglove,0.9618688821792603
+/home/ubuntu/Ass4/102flowers/images/image_06278.jpg,cautleya spicata,0.45700767636299133
+/home/ubuntu/Ass4/102flowers/images/image_06278.jpg,fire lily,0.41045960783958435
+/home/ubuntu/Ass4/102flowers/images/image_01425.jpg,petunia,0.9550812840461731
+/home/ubuntu/Ass4/102flowers/images/image_02574.jpg,magnolia,0.30695009231567383
+/home/ubuntu/Ass4/102flowers/images/image_06687.jpg,rose,0.2739126682281494
+/home/ubuntu/Ass4/102flowers/images/image_07037.jpg,water lily,0.6664320826530457
+/home/ubuntu/Ass4/102flowers/images/image_00616.jpg,watercress,0.4985131621360779
+/home/ubuntu/Ass4/102flowers/images/image_03142.jpg,snapdragon,0.5555118918418884
+/home/ubuntu/Ass4/102flowers/images/image_03142.jpg,primula,0.4220954179763794
+/home/ubuntu/Ass4/102flowers/images/image_00632.jpg,watercress,0.746164858341217
+/home/ubuntu/Ass4/102flowers/images/image_03790.jpg,cape flower,0.9149628281593323
+/home/ubuntu/Ass4/102flowers/images/image_03176.jpg,snapdragon,0.8022651672363281
+/home/ubuntu/Ass4/102flowers/images/image_01565.jpg,poinsettia,0.9258570075035095
+/home/ubuntu/Ass4/102flowers/images/image_01859.jpg,lotus lotus,0.8786745071411133
+/home/ubuntu/Ass4/102flowers/images/image_07289.jpg,cape flower,0.9162142276763916
+/home/ubuntu/Ass4/102flowers/images/image_02514.jpg,morning glory,0.7030566930770874
+/home/ubuntu/Ass4/102flowers/images/image_02962.jpg,pink-yellow dahlia,0.8925445675849915
+/home/ubuntu/Ass4/102flowers/images/image_04267.jpg,peruvian lily,0.8310530185699463
+/home/ubuntu/Ass4/102flowers/images/image_05120.jpg,hard-leaved pocket orchid,0.42355936765670776
+/home/ubuntu/Ass4/102flowers/images/image_03686.jpg,primula,0.6506787538528442
+/home/ubuntu/Ass4/102flowers/images/image_05466.jpg,water lily,0.518359899520874
+/home/ubuntu/Ass4/102flowers/images/image_05466.jpg,lotus lotus,0.30936262011528015
+/home/ubuntu/Ass4/102flowers/images/image_05466.jpg,magnolia,0.27209198474884033
+/home/ubuntu/Ass4/102flowers/images/image_07339.jpg,foxglove,0.9146257638931274
+/home/ubuntu/Ass4/102flowers/images/image_04581.jpg,bougainvillea,0.3481083810329437
+/home/ubuntu/Ass4/102flowers/images/image_04581.jpg,primula,0.2529726028442383
+/home/ubuntu/Ass4/102flowers/images/image_01644.jpg,clematis,0.8837594985961914
+/home/ubuntu/Ass4/102flowers/images/image_00356.jpg,frangipani,0.8775873184204102
+/home/ubuntu/Ass4/102flowers/images/image_04154.jpg,artichoke,0.866705596446991
+/home/ubuntu/Ass4/102flowers/images/image_07462.jpg,foxglove,0.7002922892570496
+/home/ubuntu/Ass4/102flowers/images/image_07865.jpg,bromelia,0.9131704568862915
+/home/ubuntu/Ass4/102flowers/images/image_02400.jpg,sword lily,0.7099124193191528
+/home/ubuntu/Ass4/102flowers/images/image_02740.jpg,geranium,0.706999659538269
+/home/ubuntu/Ass4/102flowers/images/image_05162.jpg,english marigold,0.7017911076545715
+/home/ubuntu/Ass4/102flowers/images/image_02136.jpg,thorn apple,0.8598078489303589
+/home/ubuntu/Ass4/102flowers/images/image_01110.jpg,wallflower,0.8822456002235413
+/home/ubuntu/Ass4/102flowers/images/image_05415.jpg,barbeton daisy,0.732446014881134
+/home/ubuntu/Ass4/102flowers/images/image_01559.jpg,poinsettia,0.9522970914840698
+/home/ubuntu/Ass4/102flowers/images/image_07973.jpg,columbine,0.3894258737564087
+/home/ubuntu/Ass4/102flowers/images/image_01307.jpg,rose,0.7460747957229614
+/home/ubuntu/Ass4/102flowers/images/image_00789.jpg,frangipani,0.9442752003669739
+/home/ubuntu/Ass4/102flowers/images/image_04118.jpg,artichoke,0.5966149568557739
+/home/ubuntu/Ass4/102flowers/images/image_02503.jpg,morning glory,0.7094891667366028
+/home/ubuntu/Ass4/102flowers/images/image_06363.jpg,yellow iris,0.49613818526268005
+/home/ubuntu/Ass4/102flowers/images/image_03769.jpg,cape flower,0.9582714438438416
+/home/ubuntu/Ass4/102flowers/images/image_03208.jpg,californian poppy,0.9145030975341797
+/home/ubuntu/Ass4/102flowers/images/image_07022.jpg,foxglove,0.4193568229675293
+/home/ubuntu/Ass4/102flowers/images/image_06257.jpg,cautleya spicata,0.8763962984085083
+/home/ubuntu/Ass4/102flowers/images/image_03847.jpg,purple coneflower,0.8141666054725647
+/home/ubuntu/Ass4/102flowers/images/image_07173.jpg,tiger lily,0.8950257301330566
+/home/ubuntu/Ass4/102flowers/images/image_02960.jpg,pink-yellow dahlia,0.8323882818222046
+/home/ubuntu/Ass4/102flowers/images/image_07847.jpg,bromelia,0.6978535056114197
+/home/ubuntu/Ass4/102flowers/images/image_04174.jpg,californian poppy,0.6041378974914551
+/home/ubuntu/Ass4/102flowers/images/image_04174.jpg,wild pansy,0.4860334098339081
+/home/ubuntu/Ass4/102flowers/images/image_04126.jpg,passion flower,0.5888996124267578
+/home/ubuntu/Ass4/102flowers/images/image_00510.jpg,cyclamen,0.7838380932807922
+/home/ubuntu/Ass4/102flowers/images/image_02141.jpg,thorn apple,0.7785822749137878
+/home/ubuntu/Ass4/102flowers/images/image_05087.jpg,hard-leaved pocket orchid,0.8351319432258606
+/home/ubuntu/Ass4/102flowers/images/image_02680.jpg,geranium,0.7937911748886108
+/home/ubuntu/Ass4/102flowers/images/image_02756.jpg,bishop of llandaff,0.8233437538146973
+/home/ubuntu/Ass4/102flowers/images/image_00252.jpg,water lily,0.9249858856201172
