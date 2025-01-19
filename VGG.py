@@ -1,19 +1,19 @@
 import os
-
+import csv
 import pandas as pd
 import scipy.io
 import torch
+import matplotlib.pyplot as plt
 from PIL import Image
+from tqdm import tqdm
 from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset, random_split
 from torchvision import models, transforms
-from tqdm import tqdm
-import matplotlib.pyplot as plt
-import csv
+from torchvision.models import VGG19_Weights
 
 
 class FlowerClassifier:
-    def __init__(self, image_dir, label_path, num_classes=102, lr=0.001, batch_size=32, epochs=20):
+    def __init__(self, image_dir, label_path, num_classes=102, lr=0.001, batch_size=32, epochs=10):
         self.image_dir = image_dir
         self.label_path = label_path
         self.num_classes = num_classes
@@ -57,24 +57,28 @@ class FlowerClassifier:
 
         assert len(image_paths) == len(labels), "Mismatch between number of images and labels!"
 
-        # Create a dataset
-        dataset = FlowerDataset(image_paths, labels, transform=self.train_transforms)
-
-        # Split into train, validation, and test sets
-        total_size = len(dataset)
+        # Create train, validation, and test datasets with respective transforms
+        total_size = len(image_paths)
         train_size = int(0.5 * total_size)
         val_size = int(0.25 * total_size)
         test_size = total_size - train_size - val_size
 
-        self.train_dataset, self.val_dataset, self.test_dataset = random_split(dataset,
-                                                                               [train_size, val_size, test_size])
+        # Splitting the dataset into subsets
+        dataset = FlowerDataset(image_paths, labels)
+        train_dataset, val_dataset, test_dataset = random_split(dataset, [train_size, val_size , test_size])
 
-        self.train_loader = DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=True)
-        self.val_loader = DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False)
-        self.test_loader = DataLoader(self.test_dataset, batch_size=self.batch_size, shuffle=False)
+        # Apply respective transforms
+        train_dataset.dataset = FlowerDataset(image_paths=train_dataset.dataset.image_paths, labels=train_dataset.dataset.labels, transform=self.train_transforms)
+        val_dataset.dataset = FlowerDataset(image_paths=val_dataset.dataset.image_paths, labels=val_dataset.dataset.labels, transform=self.val_test_transforms)
+        test_dataset.dataset = FlowerDataset(image_paths=test_dataset.dataset.image_paths, labels=test_dataset.dataset.labels, transform=self.val_test_transforms)
+
+        # Creating DataLoaders
+        self.train_loader = DataLoader(train_dataset, batch_size=self.batch_size, shuffle=True)
+        self.val_loader = DataLoader(val_dataset, batch_size=self.batch_size, shuffle=False)
+        self.test_loader = DataLoader(test_dataset, batch_size=self.batch_size, shuffle=False)
 
     def _load_vgg_model(self):
-        vgg19 = models.vgg19(pretrained=True)
+        vgg19 = models.vgg19(weights=VGG19_Weights.IMAGENET1K_V1)
         for param in vgg19.parameters():
             param.requires_grad = False
 
@@ -92,7 +96,9 @@ class FlowerClassifier:
         # Define metrics storage
         train_losses = []
         val_losses = []
+        test_losses = []
         val_accuracies = []
+        test_accuracies = []
 
         criterion = nn.NLLLoss()
         optimizer = optim.Adam(self.model.classifier.parameters(), lr=self.lr)
@@ -116,19 +122,24 @@ class FlowerClassifier:
             train_losses.append(running_loss / len(self.train_loader))
 
             # Validation step
-            val_loss, val_accuracy = self.validate(criterion)
+            val_loss, val_accuracy = self._epoch_validate(criterion)
             val_losses.append(val_loss)
             val_accuracies.append(val_accuracy)
 
+            # Test step
+            test_loss, test_accuracy = self._epoch_test(criterion)
+            test_losses.append(test_loss)
+            test_accuracies.append(test_accuracy)
+
             print(f"Epoch [{epoch + 1}/{self.epochs}], "
                   f"Train Loss: {running_loss / len(self.train_loader):.4f}, "
-                  f"Val Loss: {val_loss:.4f}, Val Accuracy: {val_accuracy:.4f}")
+                  f"Val Loss: {val_loss:.4f}, Val Accuracy: {val_accuracy:.4f}, "
+                  f"Test Loss: {test_loss:.4f}, Test Accuracy: {test_accuracy:.4f}")
 
-        # After training, plot the graphs
-        self._plot_metrics(train_losses, val_losses, val_accuracies)
-        self.save_metrics_to_csv(train_losses, val_losses, val_accuracies)
+        # After training, save the training data
+        self.save_metrics_to_csv(train_losses, val_losses, val_accuracies, test_losses, test_accuracies)
 
-    def validate(self, criterion):
+    def _epoch_validate(self, criterion):
         self.model.eval()
         val_loss = 0
         accuracy = 0
@@ -144,6 +155,23 @@ class FlowerClassifier:
                 accuracy += equals.float().mean().item()
 
         return val_loss / len(self.val_loader), accuracy / len(self.val_loader)
+
+    def _epoch_test(self, criterion):
+        self.model.eval()
+        test_loss = 0
+        accuracy = 0
+
+        with torch.no_grad():
+            for inputs, labels in self.test_loader:
+                inputs, labels = inputs.to(self.device), labels.to(self.device)
+                outputs = self.model.forward(inputs)
+                test_loss += criterion(outputs, labels).item()
+                probs = torch.exp(outputs)
+                top_class = probs.max(dim=1)[1]
+                equals = top_class == labels
+                accuracy += equals.float().mean().item()
+
+        return test_loss / len(self.test_loader), accuracy / len(self.test_loader)
 
     def test(self):
         self.model.eval()
@@ -169,44 +197,95 @@ class FlowerClassifier:
         print(f"Model saved to {path}")
 
     def load_model(self, path="vgg19_flower_classifier.pth"):
-        checkpoint = torch.load(path, map_location=self.device)
-        self.model.load_state_dict(checkpoint['model_state_dict'])
-        self.model.class_to_idx = checkpoint['class_to_idx']
-        self.model = self.model.to(self.device)
-        print(f"Model loaded from {path}")
+        try:
+            checkpoint = torch.load(path, map_location=self.device, weights_only=True)
+            self.model.load_state_dict(checkpoint['model_state_dict'])
+            self.model.class_to_idx = checkpoint['class_to_idx']
+            self.model = self.model.to(self.device)
+            print(f"Model loaded from {path}")
+        except FileNotFoundError:
+            print(f"Model not loaded found in: {path}")
+            return
 
-    def _plot_metrics(self, train_losses, val_losses, val_accuracies):
-        epochs = range(1, self.epochs + 1)
+    def _plot_metrics(self, train_losses, val_losses, val_accuracies, test_losses, test_accuracies, df_size):
+        epochs = range(1, df_size + 1)
 
         # Plot Loss
-        plt.figure(figsize=(12, 6))
+        plt.figure(figsize=(16, 8))
         plt.subplot(1, 2, 1)
-        plt.plot(epochs, train_losses, label="Train Loss")
-        plt.plot(epochs, val_losses, label="Validation Loss")
+        plt.plot(epochs, train_losses, label="Train Loss", marker='o')
+        plt.plot(epochs, val_losses, label="Validation Loss", marker='s')
+        plt.plot(epochs, test_losses, label="Test Loss", linestyle='dotted', marker='x')
         plt.xlabel("Epochs")
         plt.ylabel("Cross-Entropy Loss")
-        plt.title("Loss vs. Epochs")
-        plt.legend()
+        plt.title("Loss vs. Epochs", fontsize=16)
+        plt.grid(True, linestyle='--', alpha=0.7)
+        plt.legend(fontsize=12)
+        plt.xticks(range(0, df_size + 1, max(1, df_size // 10)))
+        plt.yticks(fontsize=10)
+
+        # Annotate minimum loss for better visualization
+        min_val_loss_epoch = val_losses.idxmin() + 1  # idxmin() gets the index of the minimum value
+        min_val_loss = val_losses[min_val_loss_epoch - 1]
+        plt.annotate(f'Min Val Loss\n{min_val_loss:.2f} (Epoch {min_val_loss_epoch})',
+                     xy=(min_val_loss_epoch, min_val_loss),
+                     xytext=(min_val_loss_epoch -5, min_val_loss + 0.5),
+                     arrowprops=dict(facecolor='black', arrowstyle="->"),
+                     fontsize=10)
+
+        min_test_loss_epoch = test_losses.idxmin() + 1  # idxmin() gets the index of the minimum value
+        min_test_loss = test_losses[min_test_loss_epoch - 1]
+        plt.annotate(f'Min Test Loss\n{min_test_loss:.2f} (Epoch {min_test_loss_epoch})',
+                     xy=(min_test_loss_epoch, min_test_loss),
+                     xytext=(min_test_loss_epoch -2, min_test_loss + 0.3),
+                     arrowprops=dict(facecolor='black', arrowstyle="->"),
+                     fontsize=10)
 
         # Plot Accuracy
         plt.subplot(1, 2, 2)
-        plt.plot(epochs, val_accuracies, label="Validation Accuracy", color='green')
+        plt.plot(epochs, val_accuracies, label="Validation Accuracy", color='green', marker='o')
+        plt.plot(epochs, test_accuracies, label="Test Accuracy", color='red', linestyle='dotted', marker='x')
         plt.xlabel("Epochs")
         plt.ylabel("Accuracy")
-        plt.title("Accuracy vs. Epochs")
-        plt.legend()
+        plt.title("Accuracy vs. Epochs", fontsize=16)
+        plt.grid(True, linestyle='--', alpha=0.7)
+        plt.legend(fontsize=12)
+        plt.xticks(range(0, df_size + 1, max(1, df_size // 10)))
+        plt.yticks(fontsize=10)
+
+        # If `val_accuracies` is a Pandas Series
+        max_val_accuracy_epoch = val_accuracies.idxmax() + 1  # Get the index of the maximum value
+        max_val_accuracy = val_accuracies[max_val_accuracy_epoch - 1]
+
+        # Annotate the plot
+        plt.annotate(f'Max Val Accuracy\n{max_val_accuracy:.2%} (Epoch {max_val_accuracy_epoch})',
+                     xy=(max_val_accuracy_epoch, max_val_accuracy),
+                     xytext=(max_val_accuracy_epoch - 5, max_val_accuracy - 0.1),
+                     arrowprops=dict(facecolor='black', arrowstyle="->"),
+                     fontsize=10)
+
+        # If `val_accuracies` is a Pandas Series
+        max_test_accuracy_epoch = test_accuracies.idxmax() + 1  # Get the index of the maximum value
+        max_test_accuracy = test_accuracies[max_test_accuracy_epoch - 1]
+
+        # Annotate the plot
+        plt.annotate(f'Max Test Accuracy\n{max_test_accuracy:.2%} (Epoch {max_test_accuracy_epoch})',
+                     xy=(max_test_accuracy_epoch, max_test_accuracy),
+                     xytext=(max_test_accuracy_epoch - 10, max_test_accuracy - 0.2),
+                     arrowprops=dict(facecolor='black', arrowstyle="->"),
+                     fontsize=10)
 
         plt.tight_layout()
         plt.show()
 
-    def save_metrics_to_csv(self, train_losses, val_losses, val_accuracies, output_csv="metrics.csv"):
+    def save_metrics_to_csv(self, train_losses, val_losses, val_accuracies, test_losses, test_accuracies, output_csv="VGG_metrics.csv"):
         with open(output_csv, mode='w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(["Epoch", "Train Loss", "Validation Loss", "Validation Accuracy"])
+            writer.writerow(["Epoch", "Train Loss", "Validation Loss", "Validation Accuracy", "Test Loss", "Test Accuracy"])
 
-            for epoch, (train_loss, val_loss, val_accuracy) in enumerate(zip(train_losses, val_losses, val_accuracies),
-                                                                         start=1):
-                writer.writerow([epoch, train_loss, val_loss, val_accuracy])
+            for epoch, (train_loss, val_loss, val_accuracy, test_loss, test_accuracy) in enumerate(
+                    zip(train_losses, val_losses, val_accuracies, test_losses, test_accuracies), start=1):
+                writer.writerow([epoch, train_loss, val_loss, val_accuracy, test_loss, test_accuracy])
 
         print(f"Metrics saved to {output_csv}")
 
@@ -249,6 +328,13 @@ if __name__ == "__main__":
 
     # plot metrics
     df = pd.read_csv('VGG_metrics.csv')
-    classifier._plot_metrics(train_losses=df['Train Loss'], val_losses=df['Validation Loss'], val_accuracies=df['Validation Accuracy'])
+    classifier._plot_metrics(
+        train_losses=df['Train Loss'],
+        val_losses=df['Validation Loss'],
+        val_accuracies=df['Validation Accuracy'],
+        test_losses=df['Test Loss'],
+        test_accuracies=df['Test Accuracy'],
+        df_size=len(df)
+    )
 
 
